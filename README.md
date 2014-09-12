@@ -1,7 +1,7 @@
-awesome-laravel
+Awesome Laravel
 ===============
 
-Awesome Laravel - A curated list of delightful Laravel PHP framework packages and resources
+A curated list of delightful Laravel PHP framework [packages](#packages) and resources.
 
 ## Packages
 

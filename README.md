@@ -27,6 +27,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Newsletters
 - [Laravel Weekly](https://github.com/LaravelIO/LaravelWeekly) - Publication currently suspended, but lots of good information in back issues.
+- [Laravel News](http://laravel-news.com/) - Popular newsletter with updates from the Laravel community including excellent profiles of community members.
 
 
 ### Other

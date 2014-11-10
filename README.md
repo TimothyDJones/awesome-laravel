@@ -19,6 +19,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Resources
 
 ### Applications Built with Laravel
+- [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.

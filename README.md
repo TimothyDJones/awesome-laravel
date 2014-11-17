@@ -28,6 +28,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - *[Easy Laravel 5: A Hands On Introduction Using a Real-World Project](http://easylaravelbook.com/)* - W. Jason Gilmore's book on building applications with Laravel framework.
 
 ### Tutorials
+- [Laravel Tutorials on Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/) - Series of unique Laravel tutorials, with special focus on available packages.
 - [Learning Laravel](http://learninglaravel.net/) - New book/tutorial site for beginners to the Laravel framework.
 - [Test Better, Deploy Faster with Laravel](http://www.developer.com/lang/php/test-better-deploy-faster-with-laravel.html) - Nice overview of Laravel concepts and how to use it for TDD.
 - [Using Laravel Homestead as Your Development Environment](http://blog.teamtreehouse.com/using-laravel-homestead-development-environment) - Excellent, detailed tutorial on setting up [Vagrant](http://www.vagrantup.com/) and using it with Laravel [Homestead](http://laravel.com/docs/homestead) for development.

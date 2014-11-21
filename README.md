@@ -35,6 +35,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Example Applications
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
+- [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference
 
 ### Blogs

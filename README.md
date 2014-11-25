@@ -10,6 +10,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bootstrap Form](https://github.com/dwightwatson/bootstrap-form) - Allows simple creation of [Bootstrap](http://getbootstrap.com/) 3-styled form groups, including horizontal styling.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
+- [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel Form Validator](https://github.com/GrandadEvans/laravel-form-validator) - An extension of [way/generators](https://github.com/JeffreyWay/Laravel-Generators) for setting up form validators.
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.

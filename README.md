@@ -43,10 +43,13 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference
 
 ### Blogs
+- [Christopher Pitt](https://medium.com/@assertchris)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [Flynsarmy](https://www.flynsarmy.com/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
+- [Maks Surguy](http://maxoffsky.com/blog/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 
 ### Forums

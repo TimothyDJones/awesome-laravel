@@ -23,6 +23,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Resources
 
 ### Applications Built with Laravel
+- [Cachet](http://james-brooks.uk/cachet/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.

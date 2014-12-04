@@ -60,6 +60,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
+- [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)

@@ -7,9 +7,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 
 - [AWS Service Provider for Laravel 4](https://github.com/aws/aws-sdk-php-laravel) - Official Laravel service provider to integrate [AWS SDK for PHP](http://aws.amazon.com/sdk-for-php/) with Laravel.
+- [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
 - [Bootstrap Form](https://github.com/dwightwatson/bootstrap-form) - Allows simple creation of [Bootstrap](http://getbootstrap.com/) 3-styled form groups, including horizontal styling.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
+- [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel Form Validator](https://github.com/GrandadEvans/laravel-form-validator) - An extension of [way/generators](https://github.com/JeffreyWay/Laravel-Generators) for setting up form validators.
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
@@ -21,6 +23,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Resources
 
 ### Applications Built with Laravel
+- [Cachet](http://james-brooks.uk/cachet/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
@@ -31,26 +34,42 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - *[Easy Laravel 5: A Hands On Introduction Using a Real-World Project](http://easylaravelbook.com/)* - W. Jason Gilmore's book on building applications with Laravel framework.
 
 ### Tutorials
+- [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
+- [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host) - Shared hosting can be difficult to set up for Laravel. Here are some good tips.
 - [Laravel Tutorials on Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/) - Series of unique Laravel tutorials, with special focus on available packages.
 - [Laravel Video Tutorials](http://andrewperkins.net/laravel) - Free, 10-part Laravel video tutorial with source code.
 - [Learning Laravel](http://learninglaravel.net/) - New book/tutorial site for beginners to the Laravel framework.
 - [Test Better, Deploy Faster with Laravel](http://www.developer.com/lang/php/test-better-deploy-faster-with-laravel.html) - Nice overview of Laravel concepts and how to use it for TDD.
+- [Tinkering with Tinker Like an Artisan](http://blog.enge.me/post/tinkering-with-tinker-like-an-artisan) - I think Tinker is one of the greatest features in all of Laravel!
+- [Using AJAX in Laravel](http://blog.igeek.info/2013/using-ajax-in-laravel/) - While Laravel doesn't have "native" AJAX support, it's routing supports AJAX nicely.
 - [Using Laravel Homestead as Your Development Environment](http://blog.teamtreehouse.com/using-laravel-homestead-development-environment) - Excellent, detailed tutorial on setting up [Vagrant](http://www.vagrantup.com/) and using it with Laravel [Homestead](http://laravel.com/docs/homestead) for development.
 
+### References
+- [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
+
 ### Example Applications
+- [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
 - [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference
 
 ### Blogs
+- [Advanced Laravel](http://advancedlaravel.com/blog)
+- [Christopher Pitt](https://medium.com/@assertchris)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [Flynsarmy](https://www.flynsarmy.com/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
+- [James Brooks](http://james-brooks.uk/)
+- [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
+- [Maks Surguy](http://maxoffsky.com/blog/)
+- [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 
 ### Forums
 - [Google+ Laravel Community](https://plus.google.com/communities/106838454910116161868)
+- [Laravel Recipes](http://laravel-recipes.com/)
 - [Laravel Reddit](http://www.reddit.com/r/laravel/)
 - [Laravel.io Forums](http://laravel.io/forum) - The Official Laravel PHP Framework Community Portal
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)

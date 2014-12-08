@@ -65,6 +65,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
+- [Slashnode](http://slashnode.com/blog/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 
 ### Forums

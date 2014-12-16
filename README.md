@@ -37,7 +37,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
 - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host) - Shared hosting can be difficult to set up for Laravel. Here are some good tips.
 - [Laravel Tutorials on Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/) - Series of unique Laravel tutorials, with special focus on available packages.
-- [Laravel Video Tutorials](http://andrewperkins.net/laravel) - Free, 10-part Laravel video tutorial with source code.
+- [Laravel Video Tutorials](http://andrewperkins.net/laravel) - Free, 10-part Laravel video tutorial with source code.  (Videos mirrored [here](http://www.dwidi.net/video_tag/laravel/).)
 - [Learning Laravel](http://learninglaravel.net/) - New book/tutorial site for beginners to the Laravel framework.
 - [Test Better, Deploy Faster with Laravel](http://www.developer.com/lang/php/test-better-deploy-faster-with-laravel.html) - Nice overview of Laravel concepts and how to use it for TDD.
 - [Tinkering with Tinker Like an Artisan](http://blog.enge.me/post/tinkering-with-tinker-like-an-artisan) - I think Tinker is one of the greatest features in all of Laravel!

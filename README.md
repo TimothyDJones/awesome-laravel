@@ -6,6 +6,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Packages
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 
+- [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.
 - [AWS Service Provider for Laravel 4](https://github.com/aws/aws-sdk-php-laravel) - Official Laravel service provider to integrate [AWS SDK for PHP](http://aws.amazon.com/sdk-for-php/) with Laravel.
 - [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
@@ -34,6 +35,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Books
 - *[Easy Laravel 5: A Hands On Introduction Using a Real-World Project](http://easylaravelbook.com/)* - W. Jason Gilmore's book on building applications with Laravel framework.
+- [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints)
+- [Laravel Application Development Cookbook](https://www.packtpub.com/web-development/laravel-application-development-cookbook) - [Terry Matula](https://github.com/matula)
+- [Leanpub Laravel Books](https://leanpub.com/book_search?search=laravel) - Directory of Leanpub books on Laravel.  Some free!
+- [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) - [Hardik Dangar](https://plus.google.com/+HardikDangar/)
 
 ### Tutorials
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
@@ -48,6 +53,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### References
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
+- [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 
 ### Example Applications
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
@@ -71,6 +77,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Slashnode](http://slashnode.com/blog/)
+- [Terry Matula](http://www.terrymatula.com/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 
 ### Forums

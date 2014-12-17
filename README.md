@@ -21,6 +21,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 
 ## Resources
+- [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 
 ### Applications Built with Laravel
 - [Cachet](http://james-brooks.uk/cachet/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
@@ -55,9 +56,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Blogs
 - [Advanced Laravel](http://advancedlaravel.com/blog)
+- [Andreas Lutro](http://www.lutro.me/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)

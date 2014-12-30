@@ -44,6 +44,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) - [Hardik Dangar](https://plus.google.com/+HardikDangar/)
 
 ### Tutorials
+- [25 Laravel Tips and Tricks](http://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818) - Jeffrey Way gives a nice overview/introduction to Laravel 4 in the form of more than two dozen tips.
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
 - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host) - Shared hosting can be difficult to set up for Laravel. Here are some good tips.
 - [Laravel Tutorials on Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/) - Series of unique Laravel tutorials, with special focus on available packages.
@@ -73,6 +74,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
+- [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)

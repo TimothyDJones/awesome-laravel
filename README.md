@@ -65,6 +65,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference
 
 ### Blogs
+- [158ltd](http://team.158ltd.com/tag/laravel/)
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Christopher Pitt](https://medium.com/@assertchris)

@@ -14,6 +14,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
+- [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Package for constructing HTML forms using PHP classes, including support for Laravel [form-model binding](http://laravel.com/docs/4.2/html#form-model-binding).
 - [Laravel Form Validator](https://github.com/GrandadEvans/laravel-form-validator) - An extension of [way/generators](https://github.com/JeffreyWay/Laravel-Generators) for setting up form validators.
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
@@ -53,6 +54,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Using Laravel Homestead as Your Development Environment](http://blog.teamtreehouse.com/using-laravel-homestead-development-environment) - Excellent, detailed tutorial on setting up [Vagrant](http://www.vagrantup.com/) and using it with Laravel [Homestead](http://laravel.com/docs/homestead) for development.
 
 ### References
+- [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 

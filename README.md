@@ -84,8 +84,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Terry Matula](http://www.terrymatula.com/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 
-### Forums
+### Forums and Groups
 - [Google+ Laravel Community](https://plus.google.com/communities/106838454910116161868)
+- [Laravel LinkedIn Group](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 - [Laravel Recipes](http://laravel-recipes.com/)
 - [Laravel Reddit](http://www.reddit.com/r/laravel/)
 - [Laravel.io Forums](http://laravel.io/forum) - The Official Laravel PHP Framework Community Portal

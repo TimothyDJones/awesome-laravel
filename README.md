@@ -18,6 +18,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
+- [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
@@ -96,6 +97,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Job Sites/Postings
 - [Laravel Gurus](http://laravelgurus.com/) - The best place to find consultants and freelancers for your Laravel projects.
 - [LaraJobs](http://larajobs.com/) - The best place to post your PHP, Laravel, or technical guru jobs.
+
+### Development Tools
+- [Laragon](http://laragon.org/) - Open-source toolkit for setting up Laravel development environment on Windows.
 
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)

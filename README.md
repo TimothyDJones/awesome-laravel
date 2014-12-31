@@ -69,6 +69,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Blogs
 - [158ltd](http://team.158ltd.com/tag/laravel/)
 - [Advanced Laravel](http://advancedlaravel.com/blog)
+- [Alan Storm](http://alanstorm.com/category/laravel)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)

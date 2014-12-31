@@ -70,8 +70,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Koomai](http://blog.koomai.net/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
+- [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
+- [zwacky](https://medium.com/@zwacky)
 
 ### Forums
 - [Google+ Laravel Community](https://plus.google.com/communities/106838454910116161868)

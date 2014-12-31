@@ -84,6 +84,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Koomai](http://blog.koomai.net/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
+- [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Slashnode](http://slashnode.com/blog/)
 - [Terry Matula](http://www.terrymatula.com/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)

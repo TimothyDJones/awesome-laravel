@@ -32,6 +32,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Applications Built with Laravel
 - [Cachet](http://james-brooks.uk/cachet/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
+- [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
@@ -83,10 +84,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Koomai](http://blog.koomai.net/)
+- [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
-- [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
+- [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
 - [Terry Matula](http://www.terrymatula.com/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)

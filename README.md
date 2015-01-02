@@ -10,8 +10,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [AWS Service Provider for Laravel 4](https://github.com/aws/aws-sdk-php-laravel) - Official Laravel service provider to integrate [AWS SDK for PHP](http://aws.amazon.com/sdk-for-php/) with Laravel.
 - [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
+- [Bootforms](https://github.com/adamwathan/bootforms) - Package which simplifies and streamlines the process of specifying forms in Laravel with [Bootstrap](http://getbootstrap.com/) 3 markup.
 - [Bootstrap Form](https://github.com/dwightwatson/bootstrap-form) - Allows simple creation of [Bootstrap](http://getbootstrap.com/) 3-styled form groups, including horizontal styling.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
+- [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
@@ -73,6 +75,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Andreas Lutro](http://www.lutro.me/)
+- [Bosnadev](https://bosnadev.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
@@ -88,6 +91,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
+- [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
 - [Terry Matula](http://www.terrymatula.com/)

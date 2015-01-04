@@ -26,6 +26,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
+- [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 
 ## Resources
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
@@ -63,6 +64,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
+- Another [Laravel Cheat Sheet](http://alexrussell.me.uk/laravel-cheat-sheet/)
 
 ### Example Applications
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
@@ -75,6 +77,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Andreas Lutro](http://www.lutro.me/)
+- [Benjamin Kohl](http://benjaminkohl.com/)
 - [Bosnadev](https://bosnadev.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)

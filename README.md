@@ -12,9 +12,12 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
 - [Bootforms](https://github.com/adamwathan/bootforms) - Package which simplifies and streamlines the process of specifying forms in Laravel with [Bootstrap](http://getbootstrap.com/) 3 markup.
 - [Bootstrap Form](https://github.com/dwightwatson/bootstrap-form) - Allows simple creation of [Bootstrap](http://getbootstrap.com/) 3-styled form groups, including horizontal styling.
+- [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
+- [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
+- [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Package for constructing HTML forms using PHP classes, including support for Laravel [form-model binding](http://laravel.com/docs/4.2/html#form-model-binding).
@@ -50,6 +53,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Tutorials
 - [25 Laravel Tips and Tricks](http://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818) - Jeffrey Way gives a nice overview/introduction to Laravel 4 in the form of more than two dozen tips.
+- [Laravel 101](https://github.com/cviebrock/laravel-101-slides) - Colin Viebrock's introduction to Laravel with associated code.
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
 - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host) - Shared hosting can be difficult to set up for Laravel. Here are some good tips.
 - [Laravel Tutorials on Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/) - Series of unique Laravel tutorials, with special focus on available packages.
@@ -76,16 +80,20 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [158ltd](http://team.158ltd.com/tag/laravel/)
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Alan Storm](http://alanstorm.com/category/laravel)
+- [Alex Sears](http://alexsears.com/)
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Bosnadev](https://bosnadev.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
+- [CodeHeaps](http://www.codeheaps.com/)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
+- [Eric Barnes](http://ericlbarnes.com/)
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
+- [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [James Brooks](http://james-brooks.uk/)
@@ -96,8 +104,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
+- [Scotch.io](http://scotch.io/)
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
+- [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [zwacky](https://medium.com/@zwacky)
@@ -125,4 +135,5 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)
+- Another [Awesome Laravel List](https://github.com/chiraggude/awesome-laravel) :)
 

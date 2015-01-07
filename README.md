@@ -76,6 +76,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [158ltd](http://team.158ltd.com/tag/laravel/)
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Alan Storm](http://alanstorm.com/category/laravel)
+- [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Bosnadev](https://bosnadev.com/)

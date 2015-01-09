@@ -18,7 +18,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
 - [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
-- [Kint](http://raveren.github.io/kint/) - A replacement for `[var_dump()](http://php.net/manual/en/function.var-dump.php)`, `[print_r()](http://php.net/manual/en/function.print-r.php)`, and `[dd()](http://laravel.com/docs/4.2/helpers#miscellaneous)` for pretty printing debugging data.
+- [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php)`, and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.

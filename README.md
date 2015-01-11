@@ -25,8 +25,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
+- [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
+- [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
@@ -84,6 +86,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Benjamin Kohl](http://benjaminkohl.com/)
+- [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [CodeHeaps](http://www.codeheaps.com/)
@@ -101,6 +104,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Koomai](http://blog.koomai.net/)
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
+- [Mario Basic](http://mariobasic.com/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
@@ -118,6 +122,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Recipes](http://laravel-recipes.com/)
 - [Laravel Reddit](http://www.reddit.com/r/laravel/)
 - [Laravel.io Forums](http://laravel.io/forum) - The Official Laravel PHP Framework Community Portal
+- [Learn Laravel Reddit](http://www.reddit.com/r/learnlaravel/) - Good forum for Laravel beginners (however, not very active).
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
 
 

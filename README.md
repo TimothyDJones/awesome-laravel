@@ -132,6 +132,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)
+- [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
 - [zwacky](https://medium.com/@zwacky)

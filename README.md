@@ -30,6 +30,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
+- [Laravel Menu](http://lavary.github.io/laravel-menu/) - Package that provides fluent, Laravel-esque method for building menus.
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
@@ -75,6 +76,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### References
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
+- [Cheatsheetr](http://cheatsheetr.com/) - [Maks Surguy](http://maxoffsky.com/)'s topical cheat sheets for Laravel and Bootstrap.
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 - Another [Laravel Cheat Sheet](http://alexrussell.me.uk/laravel-cheat-sheet/)
@@ -164,6 +166,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Development Tools
 - [Laragon](http://laragon.org/) - Open-source toolkit for setting up Laravel development environment on Windows.
+- [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)

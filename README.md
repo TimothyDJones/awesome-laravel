@@ -30,6 +30,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
+- [Laravel Menu](http://lavary.github.io/laravel-menu/) - Package that provides fluent, Laravel-esque method for building menus.
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
@@ -77,6 +78,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### References
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
+- [Cheatsheetr](http://cheatsheetr.com/) - [Maks Surguy](http://maxoffsky.com/)'s topical cheat sheets for Laravel and Bootstrap.
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 - [Laravel Errors](http://eecs.mines.edu/Courses/csci445/ASSIGN/laravel0.html#errors) - Good list of common Laravel errors and tips about typical causes.
@@ -86,6 +88,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
+- [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.
 - [Laravel 4 CMS](https://github.com/alnutile/l4cms) - Quick intro to Laravel using a custom CMS application
 - [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
@@ -114,6 +117,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Eric Barnes](http://ericlbarnes.com/)
 - [Fideloper](http://fideloper.com/)
@@ -121,6 +125,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
+- [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
 - [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jens Segers](http://jenssegers.be/)
@@ -145,6 +150,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)
+- [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
@@ -176,6 +182,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Development Tools
 - [Laragon](http://laragon.org/) - Open-source toolkit for setting up Laravel development environment on Windows.
+- [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)

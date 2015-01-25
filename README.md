@@ -40,6 +40,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 
 ## Resources
+- [Laracon 2014 Videos](http://userscape.com/laracon/2014/) - Directory of videos from 2014 Laracon in NYC.
+- [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.
 
@@ -77,6 +79,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
+- [Laravel Errors](http://eecs.mines.edu/Courses/csci445/ASSIGN/laravel0.html#errors) - Good list of common Laravel errors and tips about typical causes.
 - Another [Laravel Cheat Sheet](http://alexrussell.me.uk/laravel-cheat-sheet/)
 
 ### Example Applications
@@ -98,6 +101,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Amitav Roy](http://amitavroy.com/)
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
+- [Belar Design](http://belardesign.com/category/dev/laravel/)
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
@@ -105,7 +109,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Clivern](http://clivern.com/tag/laravel/)
 - [CodeHeaps](http://www.codeheaps.com/)
+- [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
+- [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)
 - [dor.ky](http://dor.ky/tag/laravel/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
@@ -117,8 +123,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
+- [Jens Segers](http://jenssegers.be/)
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [KodeInfo](http://kodeinfo.com/main_category/laravel)
+- [Kongnir](http://blog.kongnir.com/)
 - [Koomai](http://blog.koomai.net/)
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
 - [Laravel Coder](http://sheepy85.wordpress.com/)
@@ -128,6 +136,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
+- [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)
 - [Ollie Read](http://ollieread.com/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 - [Scotch.io](http://scotch.io/)
@@ -137,6 +146,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
+- [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
 - [zwacky](https://medium.com/@zwacky)
 
@@ -149,6 +159,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Learn Laravel Reddit](http://www.reddit.com/r/learnlaravel/) - Good forum for Laravel beginners (however, not very active).
 - [Quora Laravel Forum](http://www.quora.com/Laravel)
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
+
+### Conferences and Meetups
+[Laracon EU](http://laracon.eu/)
 
 
 ### Newsletters

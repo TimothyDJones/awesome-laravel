@@ -41,6 +41,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 
 ## Resources
+- [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.
 - [Laracon 2014 Videos](http://userscape.com/laracon/2014/) - Directory of videos from 2014 Laracon in NYC.
 - [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
@@ -124,6 +125,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eric Barnes](http://ericlbarnes.com/)
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
+- [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
@@ -149,10 +151,12 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Scotch.io](http://scotch.io/)
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
+- [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)
 - [Tutsnare](http://tutsnare.com/category/laravel/)
+- [TNT Studio](http://tntstudio.us/blog)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)

@@ -21,6 +21,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
 - [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
+- [Laravel Administrator](http://administrator.frozennode.com/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
@@ -41,6 +42,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PHP Console](https://github.com/barbushin/php-console-laravel) - Laravel package wrapper/service provider to handle PHP errors, dump variables, execute PHP code remotely, etc. in Google Chrome with [PHP Console extension](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef).
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
+- [SmartSeeder](https://github.com/slampenny/SmartSeeder) - SmartSeeder extends database seeding beyond development to allow to use different seed data depending on the environment.
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.

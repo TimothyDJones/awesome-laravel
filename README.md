@@ -168,6 +168,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Scotch.io](http://scotch.io/)
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
+- [SOFTonSOFA](http://softonsofa.com/)
 - [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
 - [Taylor Otwell](http://taylorotwell.com/)

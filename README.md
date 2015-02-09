@@ -56,6 +56,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.
 
 ### Applications Built with Laravel
+- [BootstrapCMS](https://github.com/BootstrapCMS/CMS) - Comprehensive CMS built with Laravel using [Sentry](https://cartalyst.com/manual/sentry/) for user management/authentication.
 - [Cachet](http://james-brooks.uk/cachet/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).

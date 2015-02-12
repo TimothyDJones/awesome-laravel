@@ -182,6 +182,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [TNT Studio](http://tntstudio.us/blog)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Weblint4u](http://weblint4u.com/category/laravel/)
+- [WSnippets](http://wsnippets.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
 - [zwacky](https://medium.com/@zwacky)
 

@@ -219,3 +219,4 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)
 - Another [Awesome Laravel List](https://github.com/chiraggude/awesome-laravel) :)
+- Another [Awesome Laravel List](https://github.com/tuwannu/awesome-laravel)

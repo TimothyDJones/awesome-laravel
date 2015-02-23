@@ -140,6 +140,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)
 - [Diego Hernandes](http://blog.hernandev.com/en)
+- [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
 - [EasyLara](http://www.easylara.com/)
 - [El Coderino](http://www.elcoderino.com/)

@@ -166,6 +166,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Mario Basic](http://mariobasic.com/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
+- [Matt's Notes](http://www.mattsnotes.com/php)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Muhammad Usman](http://usman.it/tag/laravel/)

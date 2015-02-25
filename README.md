@@ -150,6 +150,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
+- [Gliding Phenomena (Ravi Panchumarthy)](http://glidingphenomena.blogspot.com/search/label/laravel)
 - [Gufran.me](http://www.gufran.me/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)

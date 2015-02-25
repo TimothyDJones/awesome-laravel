@@ -180,6 +180,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
 - [SOFTonSOFA](http://softonsofa.com/)
+- [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
 - [Taylor Otwell](http://taylorotwell.com/)

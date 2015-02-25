@@ -166,6 +166,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Mario Basic](http://mariobasic.com/)
+- [Mark Van Eijk](http://markvaneijk.com/)
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)

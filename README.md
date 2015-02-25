@@ -184,6 +184,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
+- [Tanner Hearne](http://www.tannerhearne.com/category/development/laravel/)
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)

@@ -172,6 +172,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matt's Notes](http://www.mattsnotes.com/php)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
+- [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Muhammad Usman](http://usman.it/tag/laravel/)
 - [Murze.be](https://murze.be/tag/laravel/)
 - [Richard Bagshaw](http://www.richardbagshaw.co.uk/)

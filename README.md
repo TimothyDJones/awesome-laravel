@@ -152,6 +152,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [Gliding Phenomena (Ravi Panchumarthy)](http://glidingphenomena.blogspot.com/search/label/laravel)
 - [Gufran.me](http://www.gufran.me/)
+- [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
 - [James Brooks](http://james-brooks.uk/)

@@ -176,6 +176,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Muhammad Usman](http://usman.it/tag/laravel/)
 - [Murze.be](https://murze.be/tag/laravel/)
 - [Richard Bagshaw](http://www.richardbagshaw.co.uk/)
+- [Richard Hawthorn](http://richardhawthorn.com/)
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)
 - [Ollie Read](http://ollieread.com/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)

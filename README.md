@@ -100,7 +100,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tinkering with Tinker Like an Artisan](http://blog.enge.me/post/tinkering-with-tinker-like-an-artisan) - I think Tinker is one of the greatest features in all of Laravel!
 - [Using AJAX in Laravel](http://blog.igeek.info/2013/using-ajax-in-laravel/) - While Laravel doesn't have "native" AJAX support, it's routing supports AJAX nicely.
 - [Using Laravel Homestead as Your Development Environment](http://blog.teamtreehouse.com/using-laravel-homestead-development-environment) - Excellent, detailed tutorial on setting up [Vagrant](http://www.vagrantup.com/) and using it with Laravel [Homestead](http://laravel.com/docs/homestead) for development.
-- Good Tutorial Series
+- Good Tutorial Series (Multi-part tutorials on Laravel basics)
   - [Philip Brown's Cribbb Tutorials](http://culttt.com/tag/cribbb/) - Comprehensive tutorials on building application with Laravel 4.
   - [Creating a Basic To Do Application in Laravel 5](https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/) - Excellent 4-part tutorial that covers all of the concepts for building Laravel application.
   - [Laravel 4 Tutorials](https://medium.com/laravel-4/) - Drills down into the details that underlie the implementation of Laravel 4 to help you better understand the concepts and principles.

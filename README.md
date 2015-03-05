@@ -56,6 +56,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
+- [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
 ## Resources
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)

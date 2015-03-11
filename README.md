@@ -15,15 +15,20 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bootstrap Form](https://github.com/dwightwatson/bootstrap-form) - Allows simple creation of [Bootstrap](http://getbootstrap.com/) 3-styled form groups, including horizontal styling.
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
+- [Corcel](https://github.com/jgrossi/corcel) - PHP class library that allows you to query [Wordpress](https://wordpress.org/) [database](http://codex.wordpress.org/Database_Description) with Laravel Eloquent ORM syntax.
 - [CloudConvert Laravel API](http://robbiepaul.github.io/cloudconvert-laravel/) - A Laravel package wrapper for the [CloudConvert API](https://cloudconvert.com/apiconsole).
 - [Cutlass WordPress Starter Theme](http://cutlasswp.com/) - Use Laravel Blade template syntax in your WordPress templates.  Includes Bootstrap and Font Awesome by default.
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
+- [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 - [Former](https://anahkiasen.github.io/former/) - Package to structure and format web forms in Laravel idiomatic style.
+- [Google API for Laravel](https://github.com/jadulled/googleapi-laravel) - Laravel 4 wrapper for Google APIs, including support for OAuth/Log in via Google.
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
+- [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
 - [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
 - [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
+- [LaraGeo](https://github.com/Fuhrmann/larageo-plugin) - Laravel package wrapper for [geoPlugin](http://www.geoplugin.com/webservices/json) IP address-to-locality web service.
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
 - [Laravel Administrator](http://administrator.frozennode.com/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
@@ -53,6 +58,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
+- [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
 ## Resources
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
@@ -97,6 +103,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tinkering with Tinker Like an Artisan](http://blog.enge.me/post/tinkering-with-tinker-like-an-artisan) - I think Tinker is one of the greatest features in all of Laravel!
 - [Using AJAX in Laravel](http://blog.igeek.info/2013/using-ajax-in-laravel/) - While Laravel doesn't have "native" AJAX support, it's routing supports AJAX nicely.
 - [Using Laravel Homestead as Your Development Environment](http://blog.teamtreehouse.com/using-laravel-homestead-development-environment) - Excellent, detailed tutorial on setting up [Vagrant](http://www.vagrantup.com/) and using it with Laravel [Homestead](http://laravel.com/docs/homestead) for development.
+- Good Tutorial Series (Multi-part tutorials on Laravel basics)
+  - [Philip Brown's Cribbb Tutorials](http://culttt.com/tag/cribbb/) - Comprehensive tutorials on building application with Laravel 4.
+  - [Creating a Basic To Do Application in Laravel 5](https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/) - Excellent 4-part tutorial that covers all of the concepts for building Laravel application.
+  - [Laravel 4 Tutorials](https://medium.com/laravel-4/) - Drills down into the details that underlie the implementation of Laravel 4 to help you better understand the concepts and principles.
 
 ### References
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
@@ -106,10 +116,13 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Cheat Sheet as a Phone Gap Application](https://github.com/gbanina/laravel-cheat-sheet) - Nice Laravel reference wrapped as a [PhoneGap](http://phonegap.com/)/[Cordova](http://cordova.apache.org/) application for viewing on mobile devices.
 - [Laravel Errors](http://eecs.mines.edu/Courses/csci445/ASSIGN/laravel0.html#errors) - Good list of common Laravel errors and tips about typical causes.
 - Another [Laravel Cheat Sheet](http://alexrussell.me.uk/laravel-cheat-sheet/)
+- Yet Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=http://blog.kyawzinwin.me/wp-content/uploads/2014/03/Laravel-Cheatsheet.pdf)
 
 ### Example Applications
+- [Anvil CMS](https://github.com/loic-sharma/Anvil) - A basic CMS built on top of Laravel 4 with other components.
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
+- [Laravel Blog](https://github.com/summerblue/laravel-blog) - A complete blog application, with admin features, implemented in Laravel 4.2.
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
 - [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.
@@ -191,6 +204,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Richard Hawthorn](http://richardhawthorn.com/)
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)
 - [Ollie Read](http://ollieread.com/)
+- [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)
 - [Ringaal Sandbox](http://sandbox.ringaal.com/category/tutorials/laravel-tutorials/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 - [Scotch.io](http://scotch.io/)

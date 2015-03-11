@@ -177,6 +177,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Gufran.me](http://www.gufran.me/)
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
+- [Jack Wall](https://jackwall.io/)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
 - [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)

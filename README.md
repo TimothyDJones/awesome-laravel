@@ -156,6 +156,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christoph Rumpel](http://christoph-rumpel.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Clivern](http://clivern.com/tag/laravel/)
+- [Code Gains](http://codegains.com/tag/laravel-2/)
 - [CodeHeaps](http://www.codeheaps.com/)
 - [CodeRabbi (Yitzchok Willroth)](http://coderabbi.github.io/)
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)

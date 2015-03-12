@@ -22,6 +22,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Development Tools
 - [Blacksmith](https://github.com/Indatus/blacksmith) - Independent code-generation tool that works closely with Laravel to generate models, views, controllers, seeds, forms, and much more.
 - [Laravel Backup](https://github.com/freekmurze/laravel-backup) - Artisan extension that allows you to backup your application and database into a ZIP archive.
+- [Laravel Environment](https://github.com/Brunty/laravel-environment) - Artisan extension to create and edit environment-specific configuration files in the shell.
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
@@ -101,8 +102,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 4 Tutorials](https://medium.com/laravel-4/) - Drills down into the details that underlie the implementation of Laravel 4 to help you better understand the concepts and principles.
 
 ### Tutorials on Specific (and Frequently Occurring) Topics
-- [Laravel user types and polymorphic relationships](http://www.richardbagshaw.co.uk/laravel-user-types-and-polymorphic-relationships/) - An alternative to single-table inheritance (STI) using Laravel's polymorphic relationships.
+- [Laravel user types and polymorphic relationships](http://www.richardbagshaw.co.uk/laravel-user-types-and-polymorphic-relationships/) - An alternative to [single-table inheritance (STI)](http://martinfowler.com/eaaCatalog/singleTableInheritance.html) using Laravel's [polymorphic relationships](http://laravel.com/docs/4.2/eloquent#polymorphic-relations).
 - [Single-Table Inheritance in Laravel 4](http://www.colorfultyping.com/single-table-inheritance-in-laravel-4/) - Excellent tutorial on dealing with models that share common attributes, except for a small number of class- or type-specific attributes.
+- [Limiting 'Belongs To Many' database queries with Pivot table values](http://stephen.rees-carter.net/thought/limiting-belongs-to-many-database-queries-with-pivot-table-values-in-laravel) - Also explains how to access additional attributes on [pivot tables](http://laravel.com/docs/4.2/eloquent#many-to-many).
 
 
 ## Resources
@@ -251,6 +253,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [TNT Studio](http://tntstudio.us/blog)
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
+- [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [WSnippets](http://wsnippets.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)

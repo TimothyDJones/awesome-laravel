@@ -52,6 +52,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
 - [Laravel Auto Presenter](https://github.com/ShawnMcCool/laravel-auto-presenter) - Automatically decorates (applies formatting to) model objects bound to views during the view render process.
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
+- [Laravel Formatter](https://github.com/SoapBox/laravel-formatter) - Port of [FuelPHP](http://fuelphp.com/) formatter library for formatting JSON, XML, YAML, and CSV data.
 - [Laravel Forum](https://github.com/Riari/laravel-forum) - A complete forum package designed for easy integration into any Laravel 4 application.
 - [Laravel Javascript Routes](https://github.com/fedeisas/laravel-js-routes) - Package to allow simple matching of Laravel routes to JavaScript/jQuery on client side.
 - [Laravel Medium Editor](http://www.codeforest.net/laravel-wysiwyg-editor) - Laravel package for using the [Medium WYSIWYG JavaScript Editor](http://daviferreira.github.io/medium-editor/) with Laravel 4.x.
@@ -109,7 +110,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel user types and polymorphic relationships](http://www.richardbagshaw.co.uk/laravel-user-types-and-polymorphic-relationships/) - An alternative to [single-table inheritance (STI)](http://martinfowler.com/eaaCatalog/singleTableInheritance.html) using Laravel's [polymorphic relationships](http://laravel.com/docs/4.2/eloquent#polymorphic-relations).
 - [Single-Table Inheritance in Laravel 4](http://www.colorfultyping.com/single-table-inheritance-in-laravel-4/) - Excellent tutorial on dealing with models that share common attributes, except for a small number of class- or type-specific attributes.
 - [Limiting 'Belongs To Many' database queries with Pivot table values](http://stephen.rees-carter.net/thought/limiting-belongs-to-many-database-queries-with-pivot-table-values-in-laravel) - Also explains how to access additional attributes on [pivot tables](http://laravel.com/docs/4.2/eloquent#many-to-many).
-
+- [Sharing Laravel Homestead Sites](https://medium.com/@genealabs/sharing-laravel-homestead-sites-ad05aa218022) with [ngrok](https://ngrok.com/) - If you have a Laravel Homestead (or *[other Vagrant Laravel environment](https://github.com/TimothyDJones/laravel-precise32-php5.4)*) that you want to share with others, these instructions will help you get it going.
 
 ## Resources
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
@@ -194,6 +195,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
+- [Chris Gmyr](http://www.chrisgmyr.com/)
 - [Chris Hayes](http://chrishayes.ca/blog/category/code/laravel)
 - [Christoph Rumpel](http://christoph-rumpel.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
@@ -259,6 +261,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
+- [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
 - [Tanner Hearne](http://www.tannerhearne.com/category/development/laravel/)
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Terry Matula](http://www.terrymatula.com/)

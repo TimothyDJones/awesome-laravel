@@ -177,6 +177,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
+- [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
 
 ### Blogs
 - [158ltd](http://team.158ltd.com/tag/laravel/)

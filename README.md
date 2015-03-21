@@ -143,7 +143,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.
-
+- [CondaCMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework.
+- 
 ### Books
 - *[Easy Laravel 5: A Hands On Introduction Using a Real-World Project](http://easylaravelbook.com/)* - W. Jason Gilmore's book on building applications with Laravel framework.
 - [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints)

@@ -259,6 +259,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Richard Bagshaw](http://www.richardbagshaw.co.uk/)
 - [Richard Hawthorn](http://richardhawthorn.com/)
 - [Ringaal Sandbox](http://sandbox.ringaal.com/category/tutorials/laravel-tutorials/)
+- [Ryan Chenkie](http://ryanchenkie.com/category/laravel/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 - [Scotch.io](http://scotch.io/)
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)

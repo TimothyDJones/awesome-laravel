@@ -4,6 +4,7 @@ Awesome Laravel
 A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packages](#packages) and [resources](#resources).  Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 ## Packages
+- [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 

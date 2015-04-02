@@ -170,6 +170,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Auto-Generating Gallery](https://github.com/martindilling/auto-generating-gallery) - Basic image gallery application with support for auto-generation of thumbnails, albums, and more.
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [Larapress](https://github.com/larapress-cms/larapress) - A work-in-progress CMS built on Laravel 4, which provides good example of building application with Laravel.
+- [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
 - [Laravel Blog](https://github.com/summerblue/laravel-blog) - A complete blog application, with admin features, implemented in Laravel 4.2.
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.

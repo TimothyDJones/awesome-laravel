@@ -255,6 +255,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Muhammad Usman](http://usman.it/tag/laravel/)
 - [Murze.be](https://murze.be/tag/laravel/)
+- [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Ollie Read](http://ollieread.com/)
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)

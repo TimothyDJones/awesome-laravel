@@ -4,6 +4,7 @@ Awesome Laravel
 A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packages](#packages) and [resources](#resources).  Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
 ## Packages
+- [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 
@@ -15,9 +16,15 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [OAuth-4-Laravel](https://github.com/artdarek/oauth-4-laravel) - Laravel package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers.
 
+### Boilerplate/Customized Configurations
+- [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
+- [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).
+- [Laravel 5 Boilerplate](https://github.com/rappasoft/Laravel-5-Boilerplate) - Responsive Laravel 5 application template with [Bootstrap 3](http://www.getbootstrap.com/), [HTML 5 Boilerplate](http://www.html5boilerplate.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), and more.
+
 ### Database/Eloquent/Models
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
+- [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 
 ### Development Tools
@@ -26,7 +33,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Environment](https://github.com/Brunty/laravel-environment) - Artisan extension to create and edit environment-specific configuration files in the shell.
 - [Laravel Environment Manager](https://github.com/tommyku/laravel5_env) - Artisan command for managing multiple environments (`.env`) for a Laravel 5 application.
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
+- [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Add on which allows you to view your Laravel 4.2/5.0 log file within the application itself by opening the `logs` (or other) route.
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
+- [Laroute](https://github.com/aaronlord/laroute) - Package of helper functions for "porting" Laravel routes over to JavaScript for use on front end of application.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
 - [PHP Console](https://github.com/barbushin/php-console-laravel) - Laravel package wrapper/service provider to handle PHP errors, dump variables, execute PHP code remotely, etc. in Google Chrome with [PHP Console extension](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef).
@@ -128,8 +137,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Asgard CMS](http://asgardcms.com/) - CMS built with Laravel with goals of modularity, multi-language support, and ease of installation.
 - [Bootsnipp](http://bootsnipp.com/) - Element gallery, playground and code snippets for Bootstrap framework.
 - [BootstrapCMS](https://github.com/BootstrapCMS/CMS) - Comprehensive CMS built with Laravel using [Sentry](https://cartalyst.com/manual/sentry/) for user management/authentication.
-- [Burnmsg](https://burnmsg.com/) - Simple self-destructing, encrypted messaging application built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
+- [Burnmsg](https://burnmsg.com/) - Simple self-destructing, [encrypted messaging application](http://www.edzynda.com/create-a-self-destructing-encrypted-message-app-in-laravel-part-1/) built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
 - [Cachet](https://cachethq.io/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
+- [Circuits.com](https://circuits.com/) - Electronic components marketplace with comprehensive search capability and over 3 billion parts in stock.
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
@@ -140,6 +150,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
+- [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
@@ -253,6 +264,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Muhammad Usman](http://usman.it/tag/laravel/)
 - [Murze.be](https://murze.be/tag/laravel/)
+- [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Ollie Read](http://ollieread.com/)
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)

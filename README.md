@@ -224,6 +224,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CodeRabbi (Yitzchok Willroth)](http://coderabbi.github.io/)
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
+- [crynobone (Mior Muhammad Zaki)](http://crynobone.com/) \[04/07/2015\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)

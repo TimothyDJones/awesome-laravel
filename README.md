@@ -249,6 +249,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jens Segers](http://jenssegers.be/)
+- [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [KodeInfo](http://kodeinfo.com/main_category/laravel)
 - [Kongnir](http://blog.kongnir.com/)

@@ -315,7 +315,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
 
 ### Conferences and Meetups
-[Laracon EU](http://laracon.eu/)
+- [Laracon EU](http://laracon.eu/)
+- [Laracon US](http://laracon.us/) \[04/09/2015\]
 
 ### Newsletters
 - [Laravel Weekly](https://github.com/LaravelIO/LaravelWeekly) - Publication currently suspended, but lots of good information in back issues.

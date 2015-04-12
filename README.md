@@ -134,6 +134,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.
+- [The Laravel Podcast](http://www.laravelpodcast.com/) - Brings you Laravel and PHP development news and discussion hosted by Matt Stauffer. \[04/12/2015\]
 
 ### Applications Built with Laravel
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.

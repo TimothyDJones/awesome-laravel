@@ -20,6 +20,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
 - [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).
 - [Laravel 5 Boilerplate](https://github.com/rappasoft/Laravel-5-Boilerplate) - Responsive Laravel 5 application template with [Bootstrap 3](http://www.getbootstrap.com/), [HTML 5 Boilerplate](http://www.html5boilerplate.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), and more.
+- [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
 
 ### Database/Eloquent/Models
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
@@ -64,6 +65,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Administrator](http://administrator.frozennode.com/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
 - [Laravel Auto Presenter](https://github.com/ShawnMcCool/laravel-auto-presenter) - Automatically decorates (applies formatting to) model objects bound to views during the view render process.
+- [Laravel DOMPDF Wrapper](https://github.com/barryvdh/laravel-dompdf) - Laravel 4/5 package wrapper around [DOMPDF](http://dompdf.github.io/) for generating PDFs from Laravel views.
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel Formatter](https://github.com/SoapBox/laravel-formatter) - Port of [FuelPHP](http://fuelphp.com/) formatter library for formatting JSON, XML, YAML, and CSV data.
 - [Laravel Forum](https://github.com/Riari/laravel-forum) - A complete forum package designed for easy integration into any Laravel 4 application.
@@ -205,6 +207,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ahesanali Suthar](https://ahesanalisuthar.wordpress.com/tag/laravel/)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Alex Sears](http://alexsears.com/)
+- [Alexander Trauzzi](http://atrauzzi.blogspot.ca/) \[04/07/2015\]
 - [Alfred Nutile](http://alfrednutile.info/posts)
 - [Amit Gaur](http://agalaxyphp.blogspot.com/search/label/Laravel)
 - [Amitav Roy](http://amitavroy.com/)
@@ -225,6 +228,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CodeRabbi (Yitzchok Willroth)](http://coderabbi.github.io/)
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
+- [crynobone (Mior Muhammad Zaki)](http://crynobone.com/) \[04/07/2015\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)
@@ -250,6 +254,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [James Brooks](http://james-brooks.uk/)
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jens Segers](http://jenssegers.be/)
+- [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [KodeInfo](http://kodeinfo.com/main_category/laravel)
 - [Kongnir](http://blog.kongnir.com/)
@@ -312,7 +317,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
 
 ### Conferences and Meetups
-[Laracon EU](http://laracon.eu/)
+- [Laracon EU](http://laracon.eu/)
+- [Laracon US](http://laracon.us/) \[04/09/2015\]
 
 ### Newsletters
 - [Laravel Weekly](https://github.com/LaravelIO/LaravelWeekly) - Publication currently suspended, but lots of good information in back issues.

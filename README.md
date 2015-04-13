@@ -146,7 +146,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Burnmsg](https://burnmsg.com/) - Simple self-destructing, [encrypted messaging application](http://www.edzynda.com/create-a-self-destructing-encrypted-message-app-in-laravel-part-1/) built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
 - [Cachet](https://cachethq.io/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
 - [Circuits.com](https://circuits.com/) - Electronic components marketplace with comprehensive search capability and over 3 billion parts in stock.
-- [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework.
+- [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).

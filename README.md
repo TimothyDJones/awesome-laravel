@@ -235,6 +235,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Diego Hernandes](http://blog.hernandev.com/en)
 - [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [EasyLara](http://www.easylara.com/)
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)

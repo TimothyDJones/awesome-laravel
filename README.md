@@ -136,6 +136,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.
+- [The Laravel Podcast](http://www.laravelpodcast.com/) - Brings you Laravel and PHP development news and discussion hosted by Matt Stauffer. \[04/12/2015\]
 
 ### Applications Built with Laravel
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
@@ -234,6 +235,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Diego Hernandes](http://blog.hernandev.com/en)
 - [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [Duilio Palacios](http://duilio.me/) \[04/12/2015\]
+- [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [EasyLara](http://www.easylara.com/)
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
@@ -251,6 +254,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jack Wall](https://jackwall.io/)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
 - [James Brooks](http://james-brooks.uk/)
+- [Jamie Rumbelow](http://jamieonsoftware.com/tagged/laravel) \[04/12/2015\]
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jens Segers](http://jenssegers.be/)
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]

@@ -146,6 +146,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Burnmsg](https://burnmsg.com/) - Simple self-destructing, [encrypted messaging application](http://www.edzynda.com/create-a-self-destructing-encrypted-message-app-in-laravel-part-1/) built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
 - [Cachet](https://cachethq.io/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
 - [Circuits.com](https://circuits.com/) - Electronic components marketplace with comprehensive search capability and over 3 billion parts in stock.
+- [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework.
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
@@ -162,8 +163,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.
-- [CondaCMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework.
-- 
+
 ### Books
 - *[Easy Laravel 5: A Hands On Introduction Using a Real-World Project](http://easylaravelbook.com/)* - W. Jason Gilmore's book on building applications with Laravel framework.
 - [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints)

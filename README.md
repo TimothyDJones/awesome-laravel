@@ -257,6 +257,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
 - [James Brooks](http://james-brooks.uk/)
 - [Jamie Rumbelow](http://jamieonsoftware.com/tagged/laravel) \[04/12/2015\]
+- [Janik von Rotz](https://janikvonrotz.ch/category/work/laravel/) \[04/14/2015\]
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jens Segers](http://jenssegers.be/)
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]

@@ -39,6 +39,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laroute](https://github.com/aaronlord/laroute) - Package of helper functions for "porting" Laravel routes over to JavaScript for use on front end of application.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
+- [Laravel Resourceful](https://github.com/remoblaser/laravel-resourceful) - Generates full complement of CRUD resource Laravel code, including migrations, seeds, requests, controllers, models, and views. \[04/20/2015\]
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
 - [PHP Console](https://github.com/barbushin/php-console-laravel) - Laravel package wrapper/service provider to handle PHP errors, dump variables, execute PHP code remotely, etc. in Google Chrome with [PHP Console extension](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef).
 - [Potion](https://github.com/Classy-Geeks/laravel-potion) - Asset management tool for Laravel 5 based off of Assetic with only PHP dependencies.  \[04/05/2015\]
@@ -141,6 +142,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Applications Built with Laravel
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
+- [AccountsPortal](http://www.accountsportal.com/) - Hosted online accounting application with support for invoicing, books and accounts. \[04/20/2015\]
 - [Asgard CMS](http://asgardcms.com/) - CMS built with Laravel with goals of modularity, multi-language support, and ease of installation.
 - [Bootsnipp](http://bootsnipp.com/) - Element gallery, playground and code snippets for Bootstrap framework.
 - [BootstrapCMS](https://github.com/BootstrapCMS/CMS) - Comprehensive CMS built with Laravel using [Sentry](https://cartalyst.com/manual/sentry/) for user management/authentication.
@@ -235,6 +237,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 - [crynobone (Mior Muhammad Zaki)](http://crynobone.com/) \[04/07/2015\]
+- [Daniel Li](http://blog.danyll.com/) \[04/20/2015\]
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
@@ -332,6 +335,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
 
 ### Conferences and Meetups
+- [ArtisanConf](https://www.artisanconf.com/) \[04/20/2015\]
 - [Laracon EU](http://laracon.eu/)
 - [Laracon US](http://laracon.us/) \[04/09/2015\]
 

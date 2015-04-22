@@ -278,6 +278,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kongnir](http://blog.kongnir.com/)
 - [Koomai](http://blog.koomai.net/)
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
+- [Learning Laravel Blog](http://learninglaravel.net/blog)
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)

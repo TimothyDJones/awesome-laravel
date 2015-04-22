@@ -164,6 +164,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
+- [Visual Bookmark Organizer](https://rivario.com/bookmark/) - Online bookmark tool that shows thumbnails of bookmarked site.  (Source code on [Github](https://github.com/yhbyun/laravel-bookmark).) \[04/22/2015\]
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.
 
@@ -278,7 +279,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kongnir](http://blog.kongnir.com/)
 - [Koomai](http://blog.koomai.net/)
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
-- [Learning Laravel Blog](http://learninglaravel.net/blog)
+- [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)

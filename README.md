@@ -364,6 +364,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laragon](http://laragon.org/) - Open-source toolkit for setting up Laravel development environment on Windows.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
+- [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]
 
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)

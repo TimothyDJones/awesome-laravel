@@ -247,6 +247,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 - [crynobone (Mior Muhammad Zaki)](http://crynobone.com/) \[04/07/2015\]
+- [Cubet Techno Labs](http://blog.cubettech.com/category/laravel-frame-work) \[04/27/2015\]
 - [Daniel Li](http://blog.danyll.com/) \[04/20/2015\]
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)

@@ -234,6 +234,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Barry vd. Heuvel](http://barryvdh.nl/)
 - [Belar Design](http://belardesign.com/category/dev/laravel/)
 - [Benjamin Kohl](http://benjaminkohl.com/)
+- [Bhavyanshu Parasher](https://bhavyanshu.me/tags.html#laravel-ref) \[04/28/2015\]
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
 - [Chris Gmyr](http://www.chrisgmyr.com/)

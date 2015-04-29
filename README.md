@@ -53,6 +53,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 
 ### E-commerce
+- [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
 

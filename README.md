@@ -135,6 +135,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 4 Tutorials](https://medium.com/laravel-4/) - Drills down into the details that underlie the implementation of Laravel 4 to help you better understand the concepts and principles.
 
 ### Tutorials on Specific (and Frequently Occurring) Topics
+- [Eloquent Model Relationships](http://codeplanet.io/laravel-model-relationships-pt-1/) - Excellent, detailed explanation of the various [model relationship types](http://laravel.com/docs/eloquent#relationships) in Laravel.  (Source code [here](https://github.com/dtrenz/laravel-model-demo).) \[04/29/2015\]
 - [Laravel user types and polymorphic relationships](http://www.richardbagshaw.co.uk/laravel-user-types-and-polymorphic-relationships/) - An alternative to [single-table inheritance (STI)](http://martinfowler.com/eaaCatalog/singleTableInheritance.html) using Laravel's [polymorphic relationships](http://laravel.com/docs/4.2/eloquent#polymorphic-relations).
 - [Single-Table Inheritance in Laravel 4](http://www.colorfultyping.com/single-table-inheritance-in-laravel-4/) - Excellent tutorial on dealing with models that share common attributes, except for a small number of class- or type-specific attributes.
 - [Limiting 'Belongs To Many' database queries with Pivot table values](http://stephen.rees-carter.net/thought/limiting-belongs-to-many-database-queries-with-pivot-table-values-in-laravel) - Also explains how to access additional attributes on [pivot tables](http://laravel.com/docs/4.2/eloquent#many-to-many).

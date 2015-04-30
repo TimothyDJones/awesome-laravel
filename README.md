@@ -31,6 +31,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
+- [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 

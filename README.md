@@ -293,8 +293,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jens Segers](http://jenssegers.be/)
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
-- [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
+- [Kathir 'Sid' Vel](http://www.kathirvel.com/blog/) \[05/06/2015\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [Kirk Bushell](http://kirkbushell.me/) \[04/14/2015\]
 - [KodeInfo](http://kodeinfo.com/main_category/laravel)
@@ -382,7 +382,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laragon](http://laragon.org/) - Open-source toolkit for setting up Laravel development environment on Windows.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
-- [SQL to Laravel Seeder Converter](http://laravel.stonelab.ch/sql-seeder-converter/) - Online tool to convert SQL INSERT statements to Laravel seeder syntax. \[05/05/2015\]
 - [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]
 
 ### Other

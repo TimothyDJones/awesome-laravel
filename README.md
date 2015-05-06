@@ -292,6 +292,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jens Segers](http://jenssegers.be/)
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
+- [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [Kirk Bushell](http://kirkbushell.me/) \[04/14/2015\]

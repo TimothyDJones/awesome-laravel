@@ -93,7 +93,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
 ### JavaScript Framework Support
-- [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[05/13/2015\]
+- [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[0
 
 ### Third-Party API Support
 - [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.
@@ -230,6 +230,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
+- [Todo Laravel](https://github.com/anam-hossain/Todo-laravel) - A simple Todo app which is built with Laravel 4, Bootstrap 3.0 and AngularJS. \[05/13/2015\]
 - [Zagros Bug Tracking System](http://mohsen-shafiee.github.io/Zagros/) - Simple development bug tracking application built on Laravel 4. \[04/29/2015\]
 
 ### Blogs

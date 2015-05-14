@@ -330,6 +330,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Ollie Read](http://ollieread.com/)
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)
+- [Prosper Otemuyiwa](http://prosperotemuyiwa.com/tag/laravel/) \[05/14/2015\]
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)
 - [Recursive Iterator](https://recursiveiterator.wordpress.com/category/laravel/)
 - [Richard Bagshaw](http://www.richardbagshaw.co.uk/)

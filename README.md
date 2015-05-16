@@ -316,6 +316,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
+- [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)

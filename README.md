@@ -153,6 +153,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Resources
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
 - [Laracon 2014 Videos](http://userscape.com/laracon/2014/) - Directory of videos from 2014 Laracon in NYC.
+- [Laravel Database Designer](https://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Online tool for creating database model, including exporting as migration. \[05/16/2015\]
 - [Laravel Dojo](http://www.laravel-dojo.com/) - Tutorials on Laravel in Chinese (English translation [here](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fwww.laravel-dojo.com%2F)).
 - [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
@@ -258,6 +259,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bosnadev](https://bosnadev.com/)
 - [Chris Gmyr](http://www.chrisgmyr.com/)
 - [Chris Hayes](http://chrishayes.ca/blog/category/code/laravel)
+- [Chris Schalenborgh](http://chris.schalenborgh.be/category/laravel/) \[05/16/2015\]
 - [Christoph Rumpel](http://christoph-rumpel.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Clivern](http://clivern.com/tag/laravel/)
@@ -316,6 +318,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
+- [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)

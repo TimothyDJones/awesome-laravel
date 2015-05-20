@@ -242,6 +242,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Adam Engebretson](http://blog.enge.me/)
 - [Adam Wathan](http://adamwathan.me/) \[04/16/2015\]
+- [Adnan Siddiqi](http://blog.adnansiddiqi.me/tag/laravel/) \[05/20/2015\]
 - [Ahesanali Suthar](https://ahesanalisuthar.wordpress.com/tag/laravel/)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Alex Sears](http://alexsears.com/)

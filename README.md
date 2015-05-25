@@ -93,6 +93,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
+- [Registry Manager](https://github.com/Torann/laravel-registry) - Complete package for managing application configuration settings in database with cache support for better performance. \[05/20/2015\]
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
@@ -177,6 +178,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
+- [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.
@@ -243,6 +245,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Adam Engebretson](http://blog.enge.me/)
 - [Adam Wathan](http://adamwathan.me/) \[04/16/2015\]
+- [Adnan Siddiqi](http://blog.adnansiddiqi.me/tag/laravel/) \[05/20/2015\]
 - [Ahesanali Suthar](https://ahesanalisuthar.wordpress.com/tag/laravel/)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Alex Sears](http://alexsears.com/)
@@ -399,6 +402,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laragon](http://laragon.org/) - Open-source toolkit for setting up Laravel development environment on Windows.
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
+- [Scotch Box](https://box.scotch.io/) - A complete [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) [Vagrant](http://vagrantup.com/) box with PHP 5.5, Laravel installer, and Node.JS front-end tools. [\05/22/2015\]
 - [SQL to Laravel Seeder Converter](http://laravel.stonelab.ch/sql-seeder-converter/) - Online tool to convert SQL INSERT statements to Laravel seeder syntax. \[05/05/2015\]
 - [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]
 

@@ -239,6 +239,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
+- [Scrumwala](https://github.com/modestkdr/Scrumwala) - A Scrum/agile web application, with plan and work views, for personal use. \[05/29/2015\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
 - [Todo Laravel](https://github.com/anam-hossain/Todo-laravel) - A simple Todo app which is built with Laravel 4, Bootstrap 3.0 and AngularJS. \[05/13/2015\]
 - [Zagros Bug Tracking System](http://mohsen-shafiee.github.io/Zagros/) - Simple development bug tracking application built on Laravel 4. \[04/29/2015\]

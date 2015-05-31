@@ -294,6 +294,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Eric Barnes](http://ericlbarnes.com/)
+- [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)

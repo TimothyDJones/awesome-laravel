@@ -295,9 +295,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Eric Barnes](http://ericlbarnes.com/)
+- [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
+- [Garrett St. John](http://garrettstjohn.com/) \[05/30/2015\]
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [Glen Davies](http://caughtexceptions.blogspot.co.nz/) \[04/14/2015\]
 - [Gilbert Pellegrom](http://gilbert.pellegrom.me/tag/laravel/)
@@ -361,6 +363,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/)
+- [Styde](https://styde.net/category/laravel-5/) (Spanish/[English translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fstyde.net%2Fcategory%2Flaravel-5%2F&edit-text=&act=url)) \[05/30/2015\]
 - [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
 - [Tanner Hearne](http://www.tannerhearne.com/category/development/laravel/)
 - [Taylor Otwell](http://taylorotwell.com/)

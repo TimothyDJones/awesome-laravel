@@ -265,6 +265,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bhavyanshu Parasher](https://bhavyanshu.me/tags.html#laravel-ref) \[04/28/2015\]
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
+- [Chris Fuller](http://blog.cjwfuller.com/) \[06/01/2015\]
 - [Chris Gmyr](http://www.chrisgmyr.com/)
 - [Chris Hayes](http://chrishayes.ca/blog/category/code/laravel)
 - [Chris Schalenborgh](http://chris.schalenborgh.be/category/laravel/) \[05/16/2015\]

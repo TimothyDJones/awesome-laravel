@@ -259,6 +259,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Amitav Roy](http://amitavroy.com/)
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
+- [Armen Markossyan](http://blog.armen.im/tag/laravel/) \[06/01/2015\]
 - [Barry vd. Heuvel](http://barryvdh.nl/)
 - [Belar Design](http://belardesign.com/category/dev/laravel/)
 - [Benjamin Kohl](http://benjaminkohl.com/)

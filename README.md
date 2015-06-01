@@ -215,7 +215,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - Another [Laravel Cheat Sheet](http://alexrussell.me.uk/laravel-cheat-sheet/)
 - Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=http://blog.kyawzinwin.me/wp-content/uploads/2014/03/Laravel-Cheatsheet.pdf)
 - Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=https://github.com/Turaylon/laravel4-cheat-sheet/raw/master/cheat-sheet-A4.pdf) \[04/30/2015\]
-- [Laravel The Right Way](http://www.laraveltherightway.com/) - *Opinionated* guide to Laravel development best practices, inspired by [PHP The Right Way](http://www.phptherightway.com/).
+- [Laravel The Right Way](http://www.laravelbestpractices.com/) - *Opinionated* guide to Laravel development best practices, inspired by [PHP The Right Way](http://www.phptherightway.com/).
 
 ### Example Applications
 - [Anvil CMS](https://github.com/loic-sharma/Anvil) - A basic CMS built on top of Laravel 4 with other components.

@@ -236,6 +236,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
 - [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.
+- [Laravel Datatables Package Demo](https://github.com/yajra/laravel-datatables-demo) - Demo application to show how to use [DataTables](http://datatables.net/) with Laravel 4/5. \[06/11/2015\]
 - [Laravel Feed Reader](https://github.com/awjudd/l4-feed-reader) - A simple, self-hosted, online RSS feed reader based on SimplePie for Laravel 4/5. \[05/13/2015\]
 - [Laravel 4 CMS](https://github.com/alnutile/l4cms) - Quick intro to Laravel using a custom CMS application.
 - [Laravel 5 Example](https://github.com/bestmomo/laravel5-example) - Basic blog application with authentication, user roles, admin dashboard, and more. \[05/11/2015\]

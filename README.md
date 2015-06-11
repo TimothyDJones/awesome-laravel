@@ -23,6 +23,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Boilerplate/Customized Configurations
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
+- [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]
 - [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).
 - [Laravel 5 Boilerplate](https://github.com/rappasoft/Laravel-5-Boilerplate) - Responsive Laravel 5 application template with [Bootstrap 3](http://www.getbootstrap.com/), [HTML 5 Boilerplate](http://www.html5boilerplate.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), and more.
 - [Laravel 5 Bootstrap 3 Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 site template using [Bootstrap 3](http://www.getbootstrap.com/) with built-in support for managing videos, pictures, and news, [DataTables](https://datatables.net/), and much more. \[04/30/2015\]

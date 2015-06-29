@@ -305,6 +305,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Duilio Palacios](http://duilio.me/) \[04/12/2015\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [EasyLara](http://www.easylara.com/)
+- [Eftakhairul Islam](http://eftakhairul.com/)
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Eric Barnes](http://ericlbarnes.com/)

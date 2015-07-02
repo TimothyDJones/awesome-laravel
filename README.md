@@ -360,6 +360,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Muhammad Usman](http://usman.it/tag/laravel/)
+- [Muharrem Tigdemir](http://muharremtigdemir.com/category/laravel/) \[07/02/2015\]
 - [Murze.be](https://murze.be/tag/laravel/)
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Ollie Read](http://ollieread.com/)

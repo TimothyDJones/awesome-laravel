@@ -44,6 +44,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 
+
+### Design Pattern Tools
+- [Laravel Context](https://github.com/rtroncoso/Laravel-Context) - Provides application contextual support for using different service providers, such as the case of admin functionality versus regular functionality. \[07/07/2015\]
+
 ### Development Tools
 - [Blacksmith](https://github.com/Indatus/blacksmith) - Independent code-generation tool that works closely with Laravel to generate models, views, controllers, seeds, forms, and much more.
 - [Candela](https://github.com/jenssegers/candela) - A [Silex](http://silex.sensiolabs.org/)/[Slim](http://www.slimframework.com/) style version of Laravel's Lumen microframework. \[05/16/2015\]

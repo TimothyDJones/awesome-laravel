@@ -425,6 +425,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laracon US](http://laracon.us/) \[04/09/2015\]
 
 ### Newsletters
+- [Daily Laravel](http://paper.li/stevenklar/1389804586) - Aggregator of new/upcoming Laravel articles and tutorials. \[07/09/2015\]
 - [Laravel Weekly](https://github.com/LaravelIO/LaravelWeekly) - Publication currently suspended, but lots of good information in back issues.
 - [Laravel News](http://laravel-news.com/) - Popular newsletter with updates from the Laravel community including excellent profiles of community members.
 - [paper.li Laravel Weekly](http://paper.li/akhy/1356948419#!) - Weekly news and articles on Laravel.

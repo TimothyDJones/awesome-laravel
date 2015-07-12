@@ -318,6 +318,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
+- [Kane Cohen](http://kanecohen.github.io/) \[07/12/2015\]
 - [Kathir 'Sid' Vel](http://www.kathirvel.com/blog/) \[05/06/2015\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [Kirk Bushell](http://kirkbushell.me/) \[04/14/2015\]

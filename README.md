@@ -402,6 +402,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
 - [Tanner Hearne](http://www.tannerhearne.com/category/development/laravel/)
 - [Taylor Otwell](http://taylorotwell.com/)
+- [Techigniter](http://www.techigniter.in/category/laravel/) \[07/13/2015\]
 - [Terry Matula](http://www.terrymatula.com/)
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [TNT Studio](http://tntstudio.us/blog)

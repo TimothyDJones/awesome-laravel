@@ -370,6 +370,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Marc Mulzer](http://mulzer.tumblr.com/)
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
+- [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)

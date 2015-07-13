@@ -127,6 +127,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.
 
 ### Views
+- [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]
 - [Laravel View Themes](https://github.com/alexwhitman/laravel-view-themes) - Specify custom themes for your views in simple manner. \[05/25/2015\]
 
 ### Web Forms

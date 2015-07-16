@@ -105,6 +105,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Medium Editor](http://www.codeforest.net/laravel-wysiwyg-editor) - Laravel package for using the [Medium WYSIWYG JavaScript Editor](http://daviferreira.github.io/medium-editor/) with Laravel 4.x.
 - [Laravel Menu](http://lavary.github.io/laravel-menu/) - Package that provides fluent, Laravel-esque method for building menus.
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
+- [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
@@ -127,6 +128,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.
 
 ### Views
+- [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]
 - [Laravel View Themes](https://github.com/alexwhitman/laravel-view-themes) - Specify custom themes for your views in simple manner. \[05/25/2015\]
 
 ### Web Forms
@@ -321,6 +323,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)
+- [Elliot Hesp](http://blog.elliothesp.co.uk/) \[07/13/2015\]
 - [Eric Barnes](http://ericlbarnes.com/)
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
@@ -362,6 +365,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
+- [Luca Bernardino](http://www.codeanchor.net/) \[07/13/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
@@ -369,6 +373,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Marc Mulzer](http://mulzer.tumblr.com/)
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
+- [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
@@ -401,6 +406,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
 - [Tanner Hearne](http://www.tannerhearne.com/category/development/laravel/)
 - [Taylor Otwell](http://taylorotwell.com/)
+- [Techigniter](http://www.techigniter.in/category/laravel/) \[07/13/2015\]
 - [Terry Matula](http://www.terrymatula.com/)
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [TNT Studio](http://tntstudio.us/blog)
@@ -408,6 +414,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
+- [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [WSnippets](http://wsnippets.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
@@ -451,6 +458,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Scotch Box](https://box.scotch.io/) - A complete [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) [Vagrant](http://vagrantup.com/) box with PHP 5.5, Laravel installer, and Node.JS front-end tools. \[05/22/2015\]
 - [SQL to Laravel Seeder Converter](http://laravel.stonelab.ch/sql-seeder-converter/) - Online tool to convert SQL INSERT statements to Laravel seeder syntax. \[05/05/2015\]
 - [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]
+- [VS Web Essentials](http://vswebessentials.com/) - Free Visual Studio extension with support for Laravel syntax. \[07/13/2015\]
 
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)

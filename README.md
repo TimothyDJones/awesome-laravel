@@ -33,6 +33,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
 
 ### Database/Eloquent/Models
+- [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]
 - [CSV Seeder](https://github.com/Flynsarmy/laravel-csv-seeder) - If you have your seed data for your database in a spreadsheet, use this package to load it directly from a [CSV file](https://en.wikipedia.org/wiki/Comma-separated_values). \[05/11/2015\]
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
@@ -40,6 +41,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquent Versioned](https://github.com/sbarre/eloquent-versioned) - Adds transparent versioning to Eloquent models, which persists an entirely new row in database when updating a model instance. \[06/08/2015\]
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
+- [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Single-Table Inheritance](https://github.com/phaza/single-table-inheritance) - Adds a [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models to allow multiple models to be stored in the same database table. \[07/12/2015\]

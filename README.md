@@ -32,6 +32,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Bootstrap 3 Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 site template using [Bootstrap 3](http://www.getbootstrap.com/) with built-in support for managing videos, pictures, and news, [DataTables](https://datatables.net/), and much more. \[04/30/2015\]
 - [Laravel 5 Scaffold Generator](https://github.com/laralib/l5scaffold) - Artisan extension package to build scaffolding.  Single command creates model, controller, migration, seeder, and RESTful views. \[04/27/2015\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
+- [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 
 ### Database/Eloquent/Models
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]

@@ -255,6 +255,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Feed Reader](https://github.com/awjudd/l4-feed-reader) - A simple, self-hosted, online RSS feed reader based on SimplePie for Laravel 4/5. \[05/13/2015\]
 - [Laravel 4 CMS](https://github.com/alnutile/l4cms) - Quick intro to Laravel using a custom CMS application.
 - [Laravel 5 Example](https://github.com/bestmomo/laravel5-example) - Basic blog application with authentication, user roles, admin dashboard, and more. \[05/11/2015\]
+- **[Laravel 5 Projects](https://github.com/StreetGT/Laravel-5-Projects/)** - Directory for Laravel 5 example projects for those new to Laravel. \[07/20/2015\]
 - [Laravel.io](https://github.com/LaravelIO/laravel.io) - The source code for the [Laravel.IO](http://laravel.io/) website, including comprehensive tests.
 - [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.

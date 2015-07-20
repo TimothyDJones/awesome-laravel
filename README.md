@@ -89,6 +89,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CSS Colors](https://github.com/SoapBox/css-colors) - Tool to automatically produce color variations/gradients for foreground and background based on input CSS hex color (wrapper for [this PHP class](http://www.barelyfitz.com/projects/csscolor/)).  \[04/05/2015\]
 - [dd](https://github.com/marktopper/dd) - Laravel 4 helper similar to [new `dd` from Laravel 5](https://laravel-news.com/2014/12/laravel-5-dd-gets-upgrade/).
 - [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
+- [Ekko](https://github.com/laravelista/Ekko) - Laravel helper package that detects active Bootstrap navigation menu (navbar) item and applies `'active'` class. \[07/18/2015\]
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
 - [HTML5 Inputs](https://github.com/smalldogs/html5inputs/) - Extends Laravel [Form class](http://laravel.com/docs/4.2/html) to support [HTML5 form controls](http://diveintohtml5.info/forms.html), including `color`, `date`, `datetime`, `datatime-local`, `month`, `number`, `range`, `search`, `tel`, `time`, and `week`. \[04/27/2015\]
 - [HTML5 Forms for Laravel](https://github.com/Braunson/laravel-html5-forms) - Another package to extend Laravel FormBuilder to support HTML5 form elements. \[06/11/2015\]
@@ -116,7 +117,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
 ### JavaScript Framework Support
-- [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[0
+- [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[07/18/2015\]
+- [react-laravel](https://github.com/talyssonoc/react-laravel) - Package to allow using ReactJS components directly in Laravel Blade views. \[07/18/2015\]
 
 ### Third-Party API Support
 - [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.

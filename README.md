@@ -342,6 +342,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
+- [Full Stack Blog](http://fullstack4u.com/category/laravel/) \[07/21/2015\]
 - [Garrett St. John](http://garrettstjohn.com/) \[05/30/2015\]
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [Glen Davies](http://caughtexceptions.blogspot.co.nz/) \[04/14/2015\]

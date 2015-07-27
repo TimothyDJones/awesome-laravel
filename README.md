@@ -14,6 +14,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
 
 ### Authentication/Security
+- [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]

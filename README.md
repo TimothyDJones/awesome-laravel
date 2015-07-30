@@ -14,6 +14,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
 
 ### Authentication/Security
+- [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]
@@ -124,6 +125,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### JavaScript Framework Support
 - [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[07/18/2015\]
+- [Laravue](https://github.com/laravue/laravue) - Package that integrates [Vue.JS](http://vuejs.org/) JavaScript framework for single-page web applications. \[07/27/2015\]
 - [react-laravel](https://github.com/talyssonoc/react-laravel) - Package to allow using ReactJS components directly in Laravel Blade views. \[07/18/2015\]
 - [Sweet Alert](https://github.com/uxweb/sweet-alert) - Package wrapper for the stylish [Sweet Alert](http://t4t5.github.io/sweetalert/) JavaScript `alert` replacement window utility. \[07/20/2015\] 
 
@@ -347,6 +349,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Garrett St. John](http://garrettstjohn.com/) \[05/30/2015\]
 - [G-Design (Gunther Groenewege)](http://blog.g-design.net/tagged/laravel) \[07/22/2015\]
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
+- [Geshan Manandhar](http://geshan.com.np/blog/categories/laravel/) \[07/28/2015\]
 - [Glen Davies](http://caughtexceptions.blogspot.co.nz/) \[04/14/2015\]
 - [Gilbert Pellegrom](http://gilbert.pellegrom.me/tag/laravel/)
 - [Gliding Phenomena (Ravi Panchumarthy)](http://glidingphenomena.blogspot.com/search/label/laravel)

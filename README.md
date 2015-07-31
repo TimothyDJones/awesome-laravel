@@ -92,6 +92,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
 
 ### Helpers/General
+- [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
 - [CSS Colors](https://github.com/SoapBox/css-colors) - Tool to automatically produce color variations/gradients for foreground and background based on input CSS hex color (wrapper for [this PHP class](http://www.barelyfitz.com/projects/csscolor/)).  \[04/05/2015\]
 - [dd](https://github.com/marktopper/dd) - Laravel 4 helper similar to [new `dd` from Laravel 5](https://laravel-news.com/2014/12/laravel-5-dd-gets-upgrade/).

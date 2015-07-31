@@ -432,6 +432,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Terry Matula](http://www.terrymatula.com/)
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [TNT Studio](http://tntstudio.us/blog)
+- [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
 - [Tommy Ku](http://blog.tommyku.com/)
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)

@@ -390,6 +390,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
+- [Manan Jadhav](https://curos.in/category/laravel/) \[07/31/2015\]
 - [Mario Basic](http://mariobasic.com/)
 - [Marc Mulzer](http://mulzer.tumblr.com/)
 - [Mark Van Eijk](http://markvaneijk.com/)

@@ -92,6 +92,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
 
 ### Helpers/General
+- [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
 - [CSS Colors](https://github.com/SoapBox/css-colors) - Tool to automatically produce color variations/gradients for foreground and background based on input CSS hex color (wrapper for [this PHP class](http://www.barelyfitz.com/projects/csscolor/)).  \[04/05/2015\]
 - [dd](https://github.com/marktopper/dd) - Laravel 4 helper similar to [new `dd` from Laravel 5](https://laravel-news.com/2014/12/laravel-5-dd-gets-upgrade/).
@@ -209,7 +210,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
+<<<<<<< HEAD
 - [DevLeaks](http://devleaks.com/) - Web development news aggregator for tutorials, tools, and other resources of interest to developers. \[08/03/2015\]
+=======
+- [Filegr.am](http://filegr.am/) - Share files up to 1GB for 24 hours with no sign up or installation. \[07/31/2015\]
+>>>>>>> 71ad109a11005b69f50bfa5a44d9e679215de5f1
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
@@ -390,6 +395,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Maks Surguy](http://maxoffsky.com/blog/)
+- [Manan Jadhav](https://curos.in/category/laravel/) \[07/31/2015\]
 - [Mario Basic](http://mariobasic.com/)
 - [Marc Mulzer](http://mulzer.tumblr.com/)
 - [Mark Van Eijk](http://markvaneijk.com/)
@@ -434,6 +440,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Terry Matula](http://www.terrymatula.com/)
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [TNT Studio](http://tntstudio.us/blog)
+- [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
 - [Tommy Ku](http://blog.tommyku.com/)
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)

@@ -319,6 +319,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CodeHeaps](http://www.codeheaps.com/)
 - [Codelution](http://codelution.com/tag/laravel/) \[04/16/2015\]
 - [CodeRabbi (Yitzchok Willroth)](http://coderabbi.github.io/)
+- [CoffeeCupWeb](http://coffeecupweb.com/category/laravel/) \[08/06/2015\]
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Craig Morris](https://medium.com/@morrislaptop) \[05/06/2015\]
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)

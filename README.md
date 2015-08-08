@@ -340,6 +340,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
 - [Duilio Palacios](http://duilio.me/) \[04/12/2015\]
+- [Dunebook](http://dunebook.com/category/useful-resources-for-laravel/) \[08/08/2015\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [EasyLara](http://www.easylara.com/)
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]

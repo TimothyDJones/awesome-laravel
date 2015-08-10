@@ -29,6 +29,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
 - [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]
+- [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]
 - [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).
 - [Laravel 5 Boilerplate](https://github.com/rappasoft/Laravel-5-Boilerplate) - Responsive Laravel 5 application template with [Bootstrap 3](http://www.getbootstrap.com/), [HTML 5 Boilerplate](http://www.html5boilerplate.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), and more.
 - [Laravel 5 Bootstrap 3 Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 site template using [Bootstrap 3](http://www.getbootstrap.com/) with built-in support for managing videos, pictures, and news, [DataTables](https://datatables.net/), and much more. \[04/30/2015\]
@@ -210,11 +211,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
-<<<<<<< HEAD
 - [DevLeaks](http://devleaks.com/) - Web development news aggregator for tutorials, tools, and other resources of interest to developers. \[08/03/2015\]
-=======
 - [Filegr.am](http://filegr.am/) - Share files up to 1GB for 24 hours with no sign up or installation. \[07/31/2015\]
->>>>>>> 71ad109a11005b69f50bfa5a44d9e679215de5f1
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
@@ -323,6 +321,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CodeHeaps](http://www.codeheaps.com/)
 - [Codelution](http://codelution.com/tag/laravel/) \[04/16/2015\]
 - [CodeRabbi (Yitzchok Willroth)](http://coderabbi.github.io/)
+- [CODETutorial.io](http://www.codetutorial.io/tutorial/laravel-5/) \[08/06/2015\]
+- [CoffeeCupWeb](http://coffeecupweb.com/category/laravel/) \[08/06/2015\]
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Craig Morris](https://medium.com/@morrislaptop) \[05/06/2015\]
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
@@ -340,6 +340,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
 - [Duilio Palacios](http://duilio.me/) \[04/12/2015\]
+- [Dunebook](http://dunebook.com/category/useful-resources-for-laravel/) \[08/08/2015\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [EasyLara](http://www.easylara.com/)
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
@@ -374,6 +375,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
+- [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
 - [Kane Cohen](http://kanecohen.github.io/) \[07/12/2015\]
 - [Kathir 'Sid' Vel](http://www.kathirvel.com/blog/) \[05/06/2015\]

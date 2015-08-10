@@ -274,6 +274,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - **[Laravel 5 Projects](https://github.com/StreetGT/Laravel-5-Projects/)** - Directory for Laravel 5 example projects for those new to Laravel. \[07/20/2015\]
 - [Laravel.io](https://github.com/LaravelIO/laravel.io) - The source code for the [Laravel.IO](http://laravel.io/) website, including comprehensive tests.
 - [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
+- [Lumen and AngularJS Todo App](https://github.com/DimitriMikadze/lumen-angular-todo) - A basic "to do" tracking application with Lumen backend and [AngularJS](https://angularjs.org/) on frontend. \[08/10/2015\]
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.

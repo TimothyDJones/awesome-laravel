@@ -446,6 +446,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tommy Ku](http://blog.tommyku.com/)
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
+- [Vincent Klaiber](https://vinkla.com/) \[08/11/2015\]
 - [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
 - [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]
 - [Weblint4u](http://weblint4u.com/category/laravel/)

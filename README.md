@@ -114,6 +114,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Formatter](https://github.com/SoapBox/laravel-formatter) - Port of [FuelPHP](http://fuelphp.com/) formatter library for formatting JSON, XML, YAML, and CSV data.
 - [Laravel Forum](https://github.com/Riari/laravel-forum) - A complete forum package designed for easy integration into any Laravel 4 application.
 - [Laravel Javascript Routes](https://github.com/fedeisas/laravel-js-routes) - Package to allow simple matching of Laravel routes to JavaScript/jQuery on client side.
+- [Laravel Kint](https://github.com/rtconner/laravel-kint) - Package wrapper for [Kint](http://raveren.github.io/kint/) debugging library that includes native service provider. \[08/10/2015\]
 - [Laravel Medium Editor](http://www.codeforest.net/laravel-wysiwyg-editor) - Laravel package for using the [Medium WYSIWYG JavaScript Editor](http://daviferreira.github.io/medium-editor/) with Laravel 4.x.
 - [Laravel Menu](http://lavary.github.io/laravel-menu/) - Package that provides fluent, Laravel-esque method for building menus.
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
@@ -273,6 +274,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - **[Laravel 5 Projects](https://github.com/StreetGT/Laravel-5-Projects/)** - Directory for Laravel 5 example projects for those new to Laravel. \[07/20/2015\]
 - [Laravel.io](https://github.com/LaravelIO/laravel.io) - The source code for the [Laravel.IO](http://laravel.io/) website, including comprehensive tests.
 - [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
+- [Lumen and AngularJS Todo App](https://github.com/DimitriMikadze/lumen-angular-todo) - A basic "to do" tracking application with Lumen backend and [AngularJS](https://angularjs.org/) on frontend. \[08/10/2015\]
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
@@ -447,6 +449,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Vincent Klaiber](https://vinkla.com/) \[08/11/2015\]
+- [Vehikl](http://transmission.vehikl.com/) \[08/10/2015\]
 - [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
 - [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]
 - [Weblint4u](http://weblint4u.com/category/laravel/)

@@ -24,6 +24,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication & authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]
 - [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 & 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
+- [URL Signer](https://github.com/spatie/laravel-url-signer) - Improve Laravel security by creating URLs with limited lifetime (similar to AWS signed URLs). \[08/16/2015\]
 
 ### Boilerplate/Customized Configurations
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]

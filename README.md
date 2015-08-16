@@ -50,6 +50,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
 - [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
+- [Laravel 5 Repository](https://github.com/prettus/l5-repository) - Package for the implementing the repository design pattern to abstract database layer of your application. \[08/16/2015\]
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.

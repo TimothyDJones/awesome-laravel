@@ -271,6 +271,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel and AngularJS Blog](https://github.com/RachidLaasri/Blog) - Simple blogging application with AngularJS front-end that uses Markdown files for posts. \[08/11/2015\]
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
 - [Laravel Blog](https://github.com/summerblue/laravel-blog) - A complete blog application, with admin features, implemented in Laravel 4.2.
+- [Laravel Bookmarks](https://github.com/yhbyun/laravel-bookmark) - Visual bookmark organizer application built with Laravel. Online version [here](https://rivario.com/bookmark/). \[08/16/2015\]
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
 - [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.

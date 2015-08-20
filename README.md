@@ -24,6 +24,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication & authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]
 - [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 & 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
+- [URL Signer](https://github.com/spatie/laravel-url-signer) - Improve Laravel security by creating URLs with limited lifetime (similar to AWS signed URLs). \[08/16/2015\]
 
 ### Boilerplate/Customized Configurations
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
@@ -50,6 +51,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
 - [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
+- [Laravel 5 Repository](https://github.com/prettus/l5-repository) - Package for the implementing the [repository design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) to abstract database layer of your application. \[08/16/2015\]
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
@@ -121,6 +123,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
 - [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
+- [PDF Laravel 5](https://github.com/vsmoraes/pdf-laravel5) - Package wrapper for [DOMPDF](http://dompdf.github.io/) HTML-to-PDF conversion library. \[08/16/2015\] 
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
 - [Registry Manager](https://github.com/Torann/laravel-registry) - Complete package for managing application configuration settings in database with cache support for better performance. \[05/20/2015\]
@@ -182,6 +185,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Philip Brown's Cribbb Tutorials](http://culttt.com/tag/cribbb/) - Comprehensive tutorials on building application with Laravel 4.
 - [Creating a Basic To Do Application in Laravel 5](https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/) - Excellent 4-part tutorial that covers all of the concepts for building Laravel application.
 - [Laravel 4 Tutorials](https://medium.com/laravel-4/) - Drills down into the details that underlie the implementation of Laravel 4 to help you better understand the concepts and principles.
+- [Laravel 5 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty) - Comprehensive, step-by-step tutorial for building a complete application with Laravel 5. \[08/13/2015\]
 
 ### Tutorials on Specific (and Frequently Occurring) Topics
 - [Eloquent Model Relationships](http://codeplanet.io/laravel-model-relationships-pt-1/) - Excellent, detailed explanation of the various [model relationship types](http://laravel.com/docs/eloquent#relationships) in Laravel.  (Source code [here](https://github.com/dtrenz/laravel-model-demo).) \[04/29/2015\]
@@ -226,6 +230,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
+- [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
@@ -240,6 +245,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Application Development Cookbook](https://www.packtpub.com/web-development/laravel-application-development-cookbook) - [Terry Matula](https://github.com/matula)
 - [Leanpub Laravel Books](https://leanpub.com/book_search?search=laravel) - Directory of Leanpub books on Laravel.  Some free!
 - [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) - [Hardik Dangar](https://plus.google.com/+HardikDangar/)
+- [Laravel 5 Beauty](https://leanpub.com/l5-beauty) - [Chuck Heintelman](http://laravelcoding.com/blog) \[08/13/2015\]
 
 ### References
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
@@ -263,8 +269,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]
 - [Larapress](https://github.com/larapress-cms/larapress) - A work-in-progress CMS built on Laravel 4, which provides good example of building application with Laravel.
+- [Laravel and AngularJS Blog](https://github.com/RachidLaasri/Blog) - Simple blogging application with AngularJS front-end that uses Markdown files for posts. \[08/11/2015\]
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
 - [Laravel Blog](https://github.com/summerblue/laravel-blog) - A complete blog application, with admin features, implemented in Laravel 4.2.
+- [Laravel Bookmarks](https://github.com/yhbyun/laravel-bookmark) - Visual bookmark organizer application built with Laravel. Online version [here](https://rivario.com/bookmark/). \[08/16/2015\]
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.
 - [Laravel Bootstrap](https://github.com/davzie/laravel-bootstrap) - A Laravel 4.1 PHP 5.4 CMS using Bootstrap 3, built with [SOLID](http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29) principles.
 - [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.
@@ -276,6 +284,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel.io](https://github.com/LaravelIO/laravel.io) - The source code for the [Laravel.IO](http://laravel.io/) website, including comprehensive tests.
 - [Library Management System](https://github.com/aziflaj/Book_io) - Simple library management system built on Laravel.
 - [Lumen and AngularJS Todo App](https://github.com/DimitriMikadze/lumen-angular-todo) - A basic "to do" tracking application with Lumen backend and [AngularJS](https://angularjs.org/) on frontend. \[08/10/2015\]
+- [MailTree](https://github.com/dud3/MailTree) - AngularJS/Laravel e-mail forwarder that uses keywords to forward to defined users. \[08/18/2015\]
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
@@ -331,6 +340,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 - [crynobone (Mior Muhammad Zaki)](http://crynobone.com/) \[04/07/2015\]
 - [Cubet Techno Labs](http://blog.cubettech.com/category/laravel-frame-work) \[04/27/2015\]
+- [Dan Course](http://www.dancourse.co.uk/category/tech/laravel/) \[08/16/2015\]
 - [Daniel Li](http://blog.danyll.com/) \[04/20/2015\]
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
 - [David Hemphill](http://davidhemphill.com/blog/) \[07/09/2015\]
@@ -399,6 +409,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Luca Bernardino](http://www.codeanchor.net/) \[07/13/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
+- [Made With Love](http://blog.madewithlove.be/) \[08/16/2015\]
 - [Maks Surguy](http://maxoffsky.com/blog/)
 - [Manan Jadhav](https://curos.in/category/laravel/) \[07/31/2015\]
 - [Mario Basic](http://mariobasic.com/)
@@ -449,6 +460,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tommy Ku](http://blog.tommyku.com/)
 - [Tutsnare](http://tutsnare.com/category/laravel/)
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
+- [Vincent Klaiber](https://vinkla.com/) \[08/11/2015\]
 - [Vehikl](http://transmission.vehikl.com/) \[08/10/2015\]
 - [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
 - [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]

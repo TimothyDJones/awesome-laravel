@@ -227,6 +227,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
+- **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.

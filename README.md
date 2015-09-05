@@ -479,6 +479,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Forums and Groups
 - [Go Laravel](http://www.golaravel.com/) - Chinese-language forum and shared blog site for Laravel. \[04/22/2015\]
 - [Google+ Laravel Community](https://plus.google.com/communities/106838454910116161868)
+- [LaraChat](https://larachat.co/) - A Slack channel for learning and sharing about Laravel framework. \[09/04/2015\]
 - [Laravel LinkedIn Group](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 - [Laravel Recipes](http://laravel-recipes.com/)
 - [Laravel Reddit](http://www.reddit.com/r/laravel/)

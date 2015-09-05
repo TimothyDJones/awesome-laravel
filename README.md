@@ -219,6 +219,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
+- [Commentum.io](https://commentum.io/) - A Reddit clone built with Laravel that scores entries based on "momentum" from events like views, comments, etc. \[08/31/2015\]
 - [DevLeaks](http://devleaks.com/) - Web development news aggregator for tutorials, tools, and other resources of interest to developers. \[08/03/2015\]
 - [Filegr.am](http://filegr.am/) - Share files up to 1GB for 24 hours with no sign up or installation. \[07/31/2015\]
 - [Flarum](http://flarum.org/) - Open-source forum software intended to make online discussions simple, fun, and fast. \[08/28/2015\]
@@ -366,6 +367,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Elliot Hesp](http://blog.elliothesp.co.uk/) \[07/13/2015\]
 - [Eric Barnes](http://ericlbarnes.com/)
+- [Ewan Valentine](http://ewanvalentine.io/) \[08/31/2015\]
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)

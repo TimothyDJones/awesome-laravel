@@ -439,6 +439,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ollie Read](http://ollieread.com/)
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]
+- [PiedCode (Simon Reinsperger)](http://www.piedcode.com/tag/laravel/) \[09/08/2015\]
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)
 - [Prosper Otemuyiwa](http://prosperotemuyiwa.com/tag/laravel/) \[05/14/2015\]
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)

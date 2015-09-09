@@ -490,6 +490,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Recipes](http://laravel-recipes.com/)
 - [Laravel Reddit](http://www.reddit.com/r/laravel/)
 - [Laravel.io Forums](http://laravel.io/forum) - The Official Laravel PHP Framework Community Portal
+- [Larazona](http://larazona.org/) - Scottsdale, AZ Laravel Meetup group. \[09/09/2015\]
 - [Learn Laravel Reddit](http://www.reddit.com/r/learnlaravel/) - Good forum for Laravel beginners (however, not very active).
 - [Quora Laravel Forum](http://www.quora.com/Laravel)
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)

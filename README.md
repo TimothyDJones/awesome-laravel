@@ -353,6 +353,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
 - [David Hemphill](http://davidhemphill.com/blog/) \[07/09/2015\]
 - [Delia Curiel](http://www.scoop.it/t/laravel-by-delia-curiel) \[07/02/2015\]
+- [Dennis Decoene](http://avidsoftware-be.github.io/) (German/[English translation](https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Favidsoftware-be.github.io%2F)) \[09/10/2015\]
 - [Designing Lives](http://designinglives.net/) \[07/07/2015\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)

@@ -341,6 +341,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Chuck Heintzelman](http://laravelcoding.com/blog) \[06/11/2015\]
 - [Clivern](http://clivern.com/tag/laravel/)
+- [Code And Be Happy (Jesse Walton)](http://codeandbehappy.com/tags/#laravel) \[09/23/2015\]
 - [Code Gains](http://codegains.com/tag/laravel-2/)
 - [CodeHeaps](http://www.codeheaps.com/)
 - [Codelution](http://codelution.com/tag/laravel/) \[04/16/2015\]

@@ -478,6 +478,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Techigniter](http://www.techigniter.in/category/laravel/) \[07/13/2015\]
 - [Terry Matula](http://www.terrymatula.com/)
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
+- [Tim Leland](http://timleland.com/) \[09/29/2015\]
 - [TNT Studio](http://tntstudio.us/blog)
 - [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
 - [Tommy Ku](http://blog.tommyku.com/)

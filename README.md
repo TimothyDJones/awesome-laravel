@@ -457,6 +457,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Prosper Otemuyiwa](http://prosperotemuyiwa.com/tag/laravel/) \[05/14/2015\]
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)
 - [Recursive Iterator](https://recursiveiterator.wordpress.com/category/laravel/)
+- [Reza Shadman](http://rezashadman.ir/) \[09/30/2015\]
 - [Richard Bagshaw](http://www.richardbagshaw.co.uk/)
 - [Richard Hawthorn](http://richardhawthorn.com/)
 - [Ringaal Sandbox](http://sandbox.ringaal.com/category/tutorials/laravel-tutorials/)

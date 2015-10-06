@@ -376,6 +376,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dunebook](http://dunebook.com/category/useful-resources-for-laravel/) \[08/08/2015\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [EasyLara](http://www.easylara.com/)
+- [Edvinas Krucas](http://blog.krucas.lt/category/laravel/) \[10/06/2015\]
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
 - [El Coderino](http://www.elcoderino.com/)
 - [Elena Kolevska](http://blog.elenakolevska.com/)

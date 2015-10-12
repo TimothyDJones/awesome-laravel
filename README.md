@@ -122,6 +122,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Auto Presenter](https://github.com/ShawnMcCool/laravel-auto-presenter) - Automatically decorates (applies formatting to) model objects bound to views during the view render process.
 - [Laravel Calendar](https://github.com/makzumi/laravel-calendar) - A comprehensive calendar package with built-in support for events. \[04/22/2015\]
 - [Laravel DOMPDF Wrapper](https://github.com/barryvdh/laravel-dompdf) - Laravel 4/5 package wrapper around [DOMPDF](http://dompdf.github.io/) for generating PDFs from Laravel views.
+- [Laravel Email Database Log](https://github.com/shvetsgroup/laravel-email-database-log) - Simple pakcage that logs all out-going e-mails sent from Laravel to `email_log` table in application database. \[10/12/2015\]
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel Formatter](https://github.com/SoapBox/laravel-formatter) - Port of [FuelPHP](http://fuelphp.com/) formatter library for formatting JSON, XML, YAML, and CSV data.
 - [Laravel Forum](https://github.com/Riari/laravel-forum) - A complete forum package designed for easy integration into any Laravel 4 application.

@@ -390,6 +390,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
 - [Flynsarmy](https://www.flynsarmy.com/)
+- [For Laravel](https://forlaravel.com/) \[10/12/2015\]
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
 - [Francesco Malatesta](http://hellofrancesco.com/) \[09/09/2015\]
 - [Full Stack Blog](http://fullstack4u.com/category/laravel/) \[07/21/2015\]

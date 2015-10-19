@@ -459,6 +459,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Murze.be](https://murze.be/tag/laravel/)
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Ollie Read](http://ollieread.com/)
+- [Paul Foryt](http://blog.goforyt.com/category/laravel/)
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]
 - [PiedCode (Simon Reinsperger)](http://www.piedcode.com/tag/laravel/) \[09/08/2015\]

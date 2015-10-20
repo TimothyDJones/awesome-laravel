@@ -222,6 +222,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
 - [AccountsPortal](http://www.accountsportal.com/) - Hosted online accounting application with support for invoicing, books and accounts. \[04/20/2015\]
 - [Asgard CMS](http://asgardcms.com/) - CMS built with Laravel with goals of modularity, multi-language support, and ease of installation.
+- [Author's Republic](https://www.authorsrepublic.com/) - E-commerce site for authors to sell audio books. \[10/20/2015\]
 - [Bootsnipp](http://bootsnipp.com/) - Element gallery, playground and code snippets for Bootstrap framework.
 - [BootstrapCMS](https://github.com/BootstrapCMS/CMS) - Comprehensive CMS built with Laravel using [Sentry](https://cartalyst.com/manual/sentry/) for user management/authentication.
 - [Bumble CMS](http://bumblecms.com/) - CMS platform for Laravel framework with focus on simplicity. \[09/04/2015\]

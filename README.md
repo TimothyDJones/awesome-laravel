@@ -249,6 +249,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
+- [snapr.pw](https://snapr.pw/) - Free online image hosting site built on Laravel. \[10/21/2015\]
 - [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
 - [Spiral](http://spiral.ac/) - Educational technology tools for collaboration and progress reporting. \[10/21/2015\]
 - [Stomt](https://www.stomt.com/) - A social platform for providing feedback on anything and anyone built with Laravel and AngularJS. \[08/30/2015\]

@@ -298,6 +298,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]
 - [Larapress](https://github.com/larapress-cms/larapress) - A work-in-progress CMS built on Laravel 4, which provides good example of building application with Laravel.
 - [Laravel and AngularJS Blog](https://github.com/RachidLaasri/Blog) - Simple blogging application with AngularJS front-end that uses Markdown files for posts. \[08/11/2015\]
+- [Laravel and AngularJS CMS]() - CMS built on Laravel 5.1, AngularJS 1.4.7 and Responsive Material Design with REST API. \[10/30/2015\]
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
 - [Laravel Blog](https://github.com/summerblue/laravel-blog) - A complete blog application, with admin features, implemented in Laravel 4.2.
 - [Laravel Bookmarks](https://github.com/yhbyun/laravel-bookmark) - Visual bookmark organizer application built with Laravel. Online version [here](https://rivario.com/bookmark/). \[08/16/2015\]

@@ -210,6 +210,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sharing Laravel Homestead Sites](https://medium.com/@genealabs/sharing-laravel-homestead-sites-ad05aa218022) with [ngrok](https://ngrok.com/) - If you have a Laravel Homestead (or *[other Vagrant Laravel environment](https://github.com/TimothyDJones/laravel-precise32-php5.4)*) that you want to share with others, these instructions will help you get it going.
 
 ## Resources
+- [LaraBrain](http://larabrain.com/) - Directory of tips and tutorials for all aspects of Laravel development. \[11/03/2015\]
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
 - [Laracon 2014 Videos](http://userscape.com/laracon/2014/) - Directory of videos from 2014 Laracon in NYC.
 - [Laravel Database Designer](https://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Online tool for creating database model, including exporting as migration. \[05/16/2015\]

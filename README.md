@@ -458,6 +458,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Manan Jadhav](https://curos.in/category/laravel/) \[07/31/2015\]
 - [Mario Basic](http://mariobasic.com/)
 - [Marc Mulzer](http://mulzer.tumblr.com/)
+- [Marcel Pociot](http://marcelpociot.com/tag:Laravel) \[11/04/2015\]
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]

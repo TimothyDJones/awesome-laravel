@@ -439,6 +439,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Keith Watanabe](http://www.keithwatanabe.net/tag/laravel/) \[07/29/2015\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [Kirk Bushell](http://kirkbushell.me/) \[04/14/2015\]
+- [Kode Blog](http://www.tutorials.kode-blog.com/laravel-5-tutorial) \[11/05/2015\]
 - [KodeInfo](http://kodeinfo.com/main_category/laravel)
 - [Kongnir](http://blog.kongnir.com/)
 - [Koomai](http://blog.koomai.net/)

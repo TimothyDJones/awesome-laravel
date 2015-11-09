@@ -350,6 +350,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Arda Kılıçdağı](https://arda.pw/tag/laravel/) \[09/30/2015\]
 - [Armen Markossyan](http://blog.armen.im/tag/laravel/) \[06/01/2015\]
 - [AskJong](http://www.askjong.com/) \[10/08/2015\]
+- [Baljeet Singh](http://baljeetsingh.in/blog/tag/laravel/) \[11/09/2015\]
 - [Barry vd. Heuvel](http://barryvdh.nl/)
 - [Belar Design](http://belardesign.com/category/dev/laravel/)
 - [Ben Smith](http://bensmith.io/) \[07/07/2015\]

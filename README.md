@@ -447,6 +447,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [KodeInfo](http://kodeinfo.com/main_category/laravel)
 - [Kongnir](http://blog.kongnir.com/)
 - [Koomai](http://blog.koomai.net/)
+- [Kovah](https://kovah.me/en/tag/laravel/) \[11/09/2015\]
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laravel 5 Tutorials](https://medium.com/laravel-5-tutorials) \[06/01/2015\]

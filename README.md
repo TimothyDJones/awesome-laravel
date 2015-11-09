@@ -247,6 +247,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
+- [HiveStory](http://hivestory.com/) - Online collaborative story-writing application. \[11/09/2015\]
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
 - **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]

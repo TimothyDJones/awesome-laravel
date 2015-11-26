@@ -503,6 +503,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ringaal Sandbox](http://sandbox.ringaal.com/category/tutorials/laravel-tutorials/)
 - [Ryan Chenkie](http://ryanchenkie.com/category/laravel/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+- [Sarav](http://sarav.co/blog/) 
 - [Scotch.io](http://scotch.io/)
 - [Simon Archer (ArchyBold)](http://www.archybold.com/blog/tagged/laravel) \[06/08/2015\]
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)

@@ -326,6 +326,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Lumen and AngularJS Todo App](https://github.com/DimitriMikadze/lumen-angular-todo) - A basic "to do" tracking application with Lumen backend and [AngularJS](https://angularjs.org/) on frontend. \[08/10/2015\]
 - [MailTree](https://github.com/dud3/MailTree) - AngularJS/Laravel e-mail forwarder that uses keywords to forward to defined users. \[08/18/2015\]
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
+- [Mapigniter](http://sourceforge.net/projects/mapigniter2/) - A web mapping platform to publish and manage geographic information powered by Laravel 5, [OpenLayers 3](http://openlayers.org/) and AngularJS packaged as a [Virtual Box](https://www.virtualbox.org/) OVA. \[12/05/2015\]
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.

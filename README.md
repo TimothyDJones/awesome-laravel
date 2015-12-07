@@ -298,6 +298,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=http://blog.kyawzinwin.me/wp-content/uploads/2014/03/Laravel-Cheatsheet.pdf)
 - Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=https://github.com/Turaylon/laravel4-cheat-sheet/raw/master/cheat-sheet-A4.pdf) \[04/30/2015\]
 - [Laravel The Right Way](http://www.laravelbestpractices.com/) - *Opinionated* guide to Laravel development best practices, inspired by [PHP The Right Way](http://www.phptherightway.com/).
+- [LaraVer](https://laraver.xyz/) - Online reference to the current released version of Laravel.  With free account, you can see differences of current version to any previous version. \[12/07/2015\]
 
 ### Example Applications
 - [Anvil CMS](https://github.com/loic-sharma/Anvil) - A basic CMS built on top of Laravel 4 with other components.
@@ -441,7 +442,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jens Segers](http://jenssegers.be/)
 - [Joe Ferguson](http://www.joeferguson.me/blog/) \[08/30/2015\]
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
+- [Jon Phipps](http://jonstuff.blogspot.ca/search/label/Laravel%205) \[11/30/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
+- [José Padilla](http://jpadilla.com/tagged/laravel) \[12/01/2015\]
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]

@@ -167,6 +167,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CloudConvert Laravel API](http://robbiepaul.github.io/cloudconvert-laravel/) - A Laravel package wrapper for the [CloudConvert API](https://cloudconvert.com/apiconsole).
 - [Google API for Laravel](https://github.com/jadulled/googleapi-laravel) - Laravel 4 wrapper for Google APIs, including support for OAuth/Log in via Google.
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
+- [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
 
 ### REST/Web Services
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.

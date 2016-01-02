@@ -33,6 +33,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
 - [Bootstrapper for Laravel](http://bootstrapper.eu1.frbit.net/) - Laravel package that provides fluent interface for using [Bootstrap](http://getbootstrap.com/) CSS framework in Laravel. \[11/09/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
+- [Hexavel](https://github.com/peterfox/hexavel) - Restructured version of Laravel framework to provide streamlined workflows and simplify development process. \[12/30/2015\]
 - [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]
 - [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]
 - [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Laravel 5 and [Angular Material](https://material.angularjs.org/) with sample config for ui-router, Restangular, theming, etc. See tutorial on use [here](http://www.sitepoint.com/flexible-and-easily-maintainable-laravel-angular-material-apps/).
@@ -57,12 +58,14 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
 - [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Adds a sortable [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models for Laravel 4/5. \[05/25/2015\]
 - [Eloquent Versioned](https://github.com/sbarre/eloquent-versioned) - Adds transparent versioning to Eloquent models, which persists an entirely new row in database when updating a model instance. \[06/08/2015\]
+- [Eloquent Preferences](https://github.com/klaude/eloquent-preferences) - Allows binding of multiple key-value pair preferences to your Eloquent models. \[12/29/2015\]
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Doctrine](http://laraveldoctrine.org/) - A package that tightly integrates the [Doctrine](http://www.doctrine-project.org/) ORM with Laravel. \[09/10/2015\]
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
 - [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
 - [Laravel 5 Repository](https://github.com/prettus/l5-repository) - Package for the implementing the [repository design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) to abstract database layer of your application. \[08/16/2015\]
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
+- [Laravel Value Objects](https://github.com/redcrystalcode/laravel-value-objects) - Cast Eloquent model attributes to [value objects](https://en.wikipedia.org/wiki/Value_object) with ease. \[12/07/2015\]
 - [LODM](https://github.com/wolfy-j/lodm) - ODM package for Laravel with native support for MongoDB that supports inheritance, composition, and aggregation, as well as hierarchical data. \[10/12/2015\]
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
@@ -100,6 +103,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### E-commerce
 - [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]
+- [Amazon ECS (E-Commerce Services)](https://github.com/JoeDawson/amazon-ecs) - Package to allow searching the Amazon product catalog. \[12/18/2015\]
 - [Laragento](https://github.com/develpr/laragento) - A Laravel + [Magento](http://magento.com/) mashup, for directly accessing Magento data via RESTful API provided by Laravel. \[10/12/2015\]
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
@@ -163,6 +167,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CloudConvert Laravel API](http://robbiepaul.github.io/cloudconvert-laravel/) - A Laravel package wrapper for the [CloudConvert API](https://cloudconvert.com/apiconsole).
 - [Google API for Laravel](https://github.com/jadulled/googleapi-laravel) - Laravel 4 wrapper for Google APIs, including support for OAuth/Log in via Google.
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
+- [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
 
 ### REST/Web Services
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
@@ -254,6 +259,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [HiveStory](http://hivestory.com/) - Online collaborative story-writing application. \[11/09/2015\]
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
+- [Koel](http://koel.phanan.net) - A simple, [open-source](https://github.com/phanan/koel) web-based personal audio streaming service (i.e., [Spotify](https://www.spotify.com/) clone) written in [Vue.js](http://vuejs.org/) on the client side and Laravel on server side. \[12/14/2015\]
 - **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
@@ -298,9 +304,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=http://blog.kyawzinwin.me/wp-content/uploads/2014/03/Laravel-Cheatsheet.pdf)
 - Another [Laravel Cheat Sheet (PDF)](https://docs.google.com/viewer?url=https://github.com/Turaylon/laravel4-cheat-sheet/raw/master/cheat-sheet-A4.pdf) \[04/30/2015\]
 - [Laravel The Right Way](http://www.laravelbestpractices.com/) - *Opinionated* guide to Laravel development best practices, inspired by [PHP The Right Way](http://www.phptherightway.com/).
+- [LaraVer](https://laraver.xyz/) - Online reference to the current released version of Laravel.  With free account, you can see differences of current version to any previous version. \[12/07/2015\]
 
 ### Example Applications
 - [Anvil CMS](https://github.com/loic-sharma/Anvil) - A basic CMS built on top of Laravel 4 with other components.
+- [Arcanesoft CMS](https://github.com/ARCANESOFT/ARCANESOFT) - CMS built on Laravel with multiple packages that can be used independently. \[12/18/2015\]
 - [Auto-Generating Gallery](https://github.com/martindilling/auto-generating-gallery) - Basic image gallery application with support for auto-generation of thumbnails, albums, and more.
 - [BookStack](https://github.com/ssddanbrown/BookStack) - A simple, self-hosted, easy-to-use, wiki-like platform and [Confluence](https://www.atlassian.com/software/confluence/) alternative for organising and storing information. \[01/02/2016\]
 - [Bookymark](https://github.com/mikedfunk/bookymark) - Basic web site bookmarking application built with Laravel 4, including full tests. \[04/28/2015\]
@@ -443,7 +451,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jens Segers](http://jenssegers.be/)
 - [Joe Ferguson](http://www.joeferguson.me/blog/) \[08/30/2015\]
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
+- [Jon Phipps](http://jonstuff.blogspot.ca/search/label/Laravel%205) \[11/30/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
+- [José Padilla](http://jpadilla.com/tagged/laravel) \[12/01/2015\]
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]

@@ -488,6 +488,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Marcel Pociot](http://marcelpociot.com/tag:Laravel) \[11/04/2015\]
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
+- [Mateus Guimarães](http://mguimaraes.co/) \[01/16/2016\]
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)

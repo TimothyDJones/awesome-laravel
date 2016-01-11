@@ -572,6 +572,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Daily Laravel](http://paper.li/stevenklar/1389804586) - Aggregator of new/upcoming Laravel articles and tutorials. \[07/09/2015\]
 - [Laravel Weekly](https://github.com/LaravelIO/LaravelWeekly) - Publication currently suspended, but lots of good information in back issues.
 - [Laravel News](http://laravel-news.com/) - Popular newsletter with updates from the Laravel community including excellent profiles of community members.
+- [Laravel Quick Tips](http://codebyjeff.com/newsletter) - Weekly e-mail with tips on Laravel to be read in under 5 minutes. \[01/11/2016\]
 - [paper.li Laravel Weekly](http://paper.li/akhy/1356948419#!) - Weekly news and articles on Laravel.
 
 ### Job Sites/Postings

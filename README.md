@@ -122,6 +122,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [dd](https://github.com/marktopper/dd) - Laravel 4 helper similar to [new `dd` from Laravel 5](https://laravel-news.com/2014/12/laravel-5-dd-gets-upgrade/).
 - [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 - [Ekko](https://github.com/laravelista/Ekko) - Laravel helper package that detects active Bootstrap navigation menu (navbar) item and applies `'active'` class. \[07/18/2015\]
+- [Flashy](https://github.com/mercuryseries/flashy) - Easy flash notifications for Laravel. \[01/21/2016\]
 - [Full Calendar Helper](https://github.com/maddhatter/laravel-fullcalendar) - Package to simplify interaction with [FullCalendar.io](http://fullcalendar.io/) in Laravel. \[09/08/2015\]
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
 - [HTML5 Inputs](https://github.com/smalldogs/html5inputs/) - Extends Laravel [Form class](http://laravel.com/docs/4.2/html) to support [HTML5 form controls](http://diveintohtml5.info/forms.html), including `color`, `date`, `datetime`, `datatime-local`, `month`, `number`, `range`, `search`, `tel`, `time`, and `week`. \[04/27/2015\]
@@ -442,6 +443,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Ionut Bajescu](http://ionut-bajescu.com/)
 - [Jack Wall](https://jackwall.io/)
+- [Jacob Bennett](https://gistlog.co/JacobBennett)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
 - [James Brooks](http://james-brooks.uk/)
 - [Jamie Rumbelow](http://jamieonsoftware.com/tagged/laravel) \[04/12/2015\]

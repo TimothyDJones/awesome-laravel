@@ -520,6 +520,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sarav](http://sarav.co/blog/) 
 - [Scotch.io](http://scotch.io/)
 - [Simon Archer (ArchyBold)](http://www.archybold.com/blog/tagged/laravel) \[06/08/2015\]
+- [Simon Hamp](https://medium.com/@simonhamp) \[02/08/2016\]
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Slashnode](http://slashnode.com/blog/)
 - [Small Dog Studios](https://blog.smalldo.gs/category/code-2/laravel/) \[04/27/2015\]

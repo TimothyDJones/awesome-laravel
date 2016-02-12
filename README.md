@@ -294,6 +294,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Leanpub Laravel Books](https://leanpub.com/book_search?search=laravel) - Directory of Leanpub books on Laravel.  Some free!
 - [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) - [Hardik Dangar](https://plus.google.com/+HardikDangar/)
 - [Laravel 5 Beauty](https://leanpub.com/l5-beauty) - [Chuck Heintelman](http://laravelcoding.com/blog) \[08/13/2015\]
+- [Laravel: Up and Running](http://laravelupandrunning.com/) - Upcoming book from [Matt Stauffer](https://twitter.com/stauffermatt) for experienced developers looking to learn Laravel for the first time. \[02/11/2016\]
 
 ### References
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).

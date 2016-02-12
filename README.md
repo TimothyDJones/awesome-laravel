@@ -128,6 +128,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
 - [HTML5 Inputs](https://github.com/smalldogs/html5inputs/) - Extends Laravel [Form class](http://laravel.com/docs/4.2/html) to support [HTML5 form controls](http://diveintohtml5.info/forms.html), including `color`, `date`, `datetime`, `datatime-local`, `month`, `number`, `range`, `search`, `tel`, `time`, and `week`. \[04/27/2015\]
 - [HTML5 Forms for Laravel](https://github.com/Braunson/laravel-html5-forms) - Another package to extend Laravel FormBuilder to support HTML5 form elements. \[06/11/2015\]
+- [Intervention Image](http://image.intervention.io/) - An open-source PHP image handling and manipulation library with Laravel facades and service providers. \[02/11/2016\]
 - [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
 - [Ixudra Curl](https://github.com/ixudra/curl) - Laravel package for fluent curl support. \[01/23/2016\]
 - [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.

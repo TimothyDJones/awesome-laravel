@@ -68,6 +68,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [Laravel Value Objects](https://github.com/redcrystalcode/laravel-value-objects) - Cast Eloquent model attributes to [value objects](https://en.wikipedia.org/wiki/Value_object) with ease. \[12/07/2015\]
 - [LODM](https://github.com/wolfy-j/lodm) - ODM package for Laravel with native support for MongoDB that supports inheritance, composition, and aggregation, as well as hierarchical data. \[10/12/2015\]
+- [MySQL to Laravel](https://github.com/dachusa/MySQLToLaravel) - Script to generate Laravel migrations from an existing MySQL database. \[02/20/2016\]
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
 - [PHP Eloquent Repository](https://github.com/nilportugues/php-eloquent-repository) - Repository package for Eloquent for use with Eloquent or plain PHP. \[02/15/2016\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.

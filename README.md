@@ -74,6 +74,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Single-Table Inheritance](https://github.com/phaza/single-table-inheritance) - Adds a [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models to allow multiple models to be stored in the same database table. \[07/12/2015\]
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
+- [QueryBuilderParser](https://github.com/timgws/QueryBuilderParser) - A Laravel package that builds SQL queries based on input from a jQuery QueryBuilder.
 
 
 ### Design Pattern Tools

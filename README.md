@@ -514,6 +514,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
+- [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]
 - [PiedCode (Simon Reinsperger)](http://www.piedcode.com/tag/laravel/) \[09/08/2015\]
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)

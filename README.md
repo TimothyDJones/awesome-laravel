@@ -15,6 +15,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Authentication/Security
 - [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
+- [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Dingo](https://github.com/dingo) - Laravel package/API for using [JWT Authentication](http://jwt.io/). \[11/06/2015\]
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.

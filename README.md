@@ -45,6 +45,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Scaffold Generator](https://github.com/laralib/l5scaffold) - Artisan extension package to build scaffolding.  Single command creates model, controller, migration, seeder, and RESTful views. \[04/27/2015\]
 - [Laravel 5 Starter Package](https://github.com/andyjessop/laravel5-starter-package) - A starter package for Laravel 5 with boilerplate views, configs, and routes. \[07/22/2015\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
+- [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel/Angular Material Starter] - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]

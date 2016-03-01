@@ -15,6 +15,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Authentication/Security
 - [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
+- [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Dingo](https://github.com/dingo) - Laravel package/API for using [JWT Authentication](http://jwt.io/). \[11/06/2015\]
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
@@ -44,9 +45,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Scaffold Generator](https://github.com/laralib/l5scaffold) - Artisan extension package to build scaffolding.  Single command creates model, controller, migration, seeder, and RESTful views. \[04/27/2015\]
 - [Laravel 5 Starter Package](https://github.com/andyjessop/laravel5-starter-package) - A starter package for Laravel 5 with boilerplate views, configs, and routes. \[07/22/2015\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
+- [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel/Angular Material Starter] - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
+- [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel) - A Laravel 5 package that switch default Laravel scaffolding / boilerplate to AdminLTE template with Bootstrap 3.0 and Pratt Landing Page. \[02/02/2016\]
 
 
 ### Database/Eloquent/Models
@@ -68,10 +71,13 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [Laravel Value Objects](https://github.com/redcrystalcode/laravel-value-objects) - Cast Eloquent model attributes to [value objects](https://en.wikipedia.org/wiki/Value_object) with ease. \[12/07/2015\]
 - [LODM](https://github.com/wolfy-j/lodm) - ODM package for Laravel with native support for MongoDB that supports inheritance, composition, and aggregation, as well as hierarchical data. \[10/12/2015\]
+- [MySQL to Laravel](https://github.com/dachusa/MySQLToLaravel) - Script to generate Laravel migrations from an existing MySQL database. \[02/20/2016\]
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
+- [PHP Eloquent Repository](https://github.com/nilportugues/php-eloquent-repository) - Repository package for Eloquent for use with Eloquent or plain PHP. \[02/15/2016\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Single-Table Inheritance](https://github.com/phaza/single-table-inheritance) - Adds a [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models to allow multiple models to be stored in the same database table. \[07/12/2015\]
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
+- [QueryBuilderParser](https://github.com/timgws/QueryBuilderParser) - A Laravel package that builds SQL queries based on input from a jQuery QueryBuilder.
 
 
 ### Design Pattern Tools
@@ -129,6 +135,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
 - [HTML5 Inputs](https://github.com/smalldogs/html5inputs/) - Extends Laravel [Form class](http://laravel.com/docs/4.2/html) to support [HTML5 form controls](http://diveintohtml5.info/forms.html), including `color`, `date`, `datetime`, `datatime-local`, `month`, `number`, `range`, `search`, `tel`, `time`, and `week`. \[04/27/2015\]
 - [HTML5 Forms for Laravel](https://github.com/Braunson/laravel-html5-forms) - Another package to extend Laravel FormBuilder to support HTML5 form elements. \[06/11/2015\]
+- [Intervention Image](http://image.intervention.io/) - An open-source PHP image handling and manipulation library with Laravel facades and service providers. \[02/11/2016\]
 - [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
 - [Ixudra Curl](https://github.com/ixudra/curl) - Laravel package for fluent curl support. \[01/23/2016\]
 - [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
@@ -267,6 +274,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
+- [Lightweight Hiker](https://lwhiker.com/) - Site to search for used hiking/backpacking gear. \[02/15/2016\]
+- [Listymail](https://listymail.com/) - Free online tool for email distribution lists. \[02/15/2016\]
 - [Maghnatis](http://maghnatis.com/) - Open-source Reddit clone forum application built with Laravel.  (Source code available [here](https://github.com/Halnex/laravel-reddit).) \[10/27/2015\]
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
@@ -294,6 +303,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Leanpub Laravel Books](https://leanpub.com/book_search?search=laravel) - Directory of Leanpub books on Laravel.  Some free!
 - [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) - [Hardik Dangar](https://plus.google.com/+HardikDangar/)
 - [Laravel 5 Beauty](https://leanpub.com/l5-beauty) - [Chuck Heintelman](http://laravelcoding.com/blog) \[08/13/2015\]
+- [Laravel: Up and Running](http://laravelupandrunning.com/) - Upcoming book from [Matt Stauffer](https://twitter.com/stauffermatt) for experienced developers looking to learn Laravel for the first time. \[02/11/2016\]
 
 ### References
 - [75 Laravel Tutorials, Packages, and Resources from 2014](https://laravel-news.com/2014/12/75-laravel-tutorials-packages-resources-2014/) - Nice summary of the key events and tutorials in the Laravel world for 2014, from the folks at [Laravel News](https://laravel-news.com/).
@@ -505,10 +515,12 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Mulia Arifandi Nasution](https://mul14.wordpress.com/tag/laravel/) \[07/16/2015\]
 - [Murze.be](https://murze.be/tag/laravel/)
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
+- [Nick Boyle](http://bicknoyle.com/) \[02/15/2016\]
 - [Ollie Read](http://ollieread.com/)
 - [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
+- [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]
 - [PiedCode (Simon Reinsperger)](http://www.piedcode.com/tag/laravel/) \[09/08/2015\]
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)

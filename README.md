@@ -132,6 +132,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ekko](https://github.com/laravelista/Ekko) - Laravel helper package that detects active Bootstrap navigation menu (navbar) item and applies `'active'` class. \[07/18/2015\]
 - [Flashy](https://github.com/mercuryseries/flashy) - Easy flash notifications for Laravel. \[01/21/2016\]
 - [Full Calendar Helper](https://github.com/maddhatter/laravel-fullcalendar) - Package to simplify interaction with [FullCalendar.io](http://fullcalendar.io/) in Laravel. \[09/08/2015\]
+- [Gazatem DbLogger](http://www.gazatem.com/) - Package for saving Monolog log output to database using the existing Laravel API. \[03/01/2016\]
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
 - [HTML5 Inputs](https://github.com/smalldogs/html5inputs/) - Extends Laravel [Form class](http://laravel.com/docs/4.2/html) to support [HTML5 form controls](http://diveintohtml5.info/forms.html), including `color`, `date`, `datetime`, `datatime-local`, `month`, `number`, `range`, `search`, `tel`, `time`, and `week`. \[04/27/2015\]
 - [HTML5 Forms for Laravel](https://github.com/Braunson/laravel-html5-forms) - Another package to extend Laravel FormBuilder to support HTML5 form elements. \[06/11/2015\]
@@ -326,6 +327,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Auto-Generating Gallery](https://github.com/martindilling/auto-generating-gallery) - Basic image gallery application with support for auto-generation of thumbnails, albums, and more.
 - [BookStack](https://github.com/ssddanbrown/BookStack) - A simple, self-hosted, easy-to-use, wiki-like platform and [Confluence](https://www.atlassian.com/software/confluence/) alternative for organising and storing information. \[01/02/2016\]
 - [Bookymark](https://github.com/mikedfunk/bookymark) - Basic web site bookmarking application built with Laravel 4, including full tests. \[04/28/2015\]
+- [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
 - [EESTEC Platform for Local Committees](https://github.com/angelov/eestec-platform) - Committee management tool for engineering student association. \[11/23/2015\]
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]

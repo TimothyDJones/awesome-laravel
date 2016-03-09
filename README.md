@@ -32,6 +32,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [URL Signer](https://github.com/spatie/laravel-url-signer) - Improve Laravel security by creating URLs with limited lifetime (similar to AWS signed URLs). \[08/16/2015\]
 
 ### Boilerplate/Customized Configurations
+- [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel) - A Laravel 5 package that switches default Laravel scaffolding/boilerplate to AdminLTE template with Bootstrap 3.0 and [Pratt Landing Page](http://blacktie.co/demo/pratt/). \[02/02/2016\]
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
 - [Bootstrapper for Laravel](http://bootstrapper.eu1.frbit.net/) - Laravel package that provides fluent interface for using [Bootstrap](http://getbootstrap.com/) CSS framework in Laravel. \[11/09/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
@@ -49,8 +50,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel/Angular Material Starter] - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
-- [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel) - A Laravel 5 package that switch default Laravel scaffolding / boilerplate to AdminLTE template with Bootstrap 3.0 and Pratt Landing Page. \[02/02/2016\]
-
 
 ### Database/Eloquent/Models
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]

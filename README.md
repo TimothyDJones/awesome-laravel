@@ -60,9 +60,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Datagrid](https://github.com/aginev/datagrid) - Self-contained (no external dependencies) data grid package for Laravel 5 with support for filtering, sorting, and Bootstrap. \[07/20/2015\]
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
+- [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Provides customized filtering capability for Eloquent models via a Filterable attribute. \[03/05/2016\]
 - [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Adds a sortable [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models for Laravel 4/5. \[05/25/2015\]
 - [Eloquent Versioned](https://github.com/sbarre/eloquent-versioned) - Adds transparent versioning to Eloquent models, which persists an entirely new row in database when updating a model instance. \[06/08/2015\]
 - [Eloquent Preferences](https://github.com/klaude/eloquent-preferences) - Allows binding of multiple key-value pair preferences to your Eloquent models. \[12/29/2015\]
+- [Laraformer](https://github.com/kamranahmedse/laraformer) - Laravel package to add a transformation layer to your Eloquent model. \[03/05/2016\]
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Doctrine](http://laraveldoctrine.org/) - A package that tightly integrates the [Doctrine](http://www.doctrine-project.org/) ORM with Laravel. \[09/10/2015\]
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]

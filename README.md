@@ -593,10 +593,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Quora Laravel Forum](http://www.quora.com/Laravel)
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
 
-### Conferences and Meetups
+### Conferences, Meetups, and User Groups
 - [ArtisanConf](https://www.artisanconf.com/) \[04/20/2015\]
 - [Laracon EU](http://laracon.eu/)
 - [Laracon US](http://laracon.us/) \[04/09/2015\]
+- [San Diego Laravel User Group (SDLUG)](https://www.sdlug.com/) \[03/28/2016\]
 
 ### Newsletters
 - [Daily Laravel](http://paper.li/stevenklar/1389804586) - Aggregator of new/upcoming Laravel articles and tutorials. \[07/09/2015\]

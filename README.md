@@ -18,6 +18,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Dingo](https://github.com/dingo) - Laravel package/API for using [JWT Authentication](http://jwt.io/). \[11/06/2015\]
+- [EasyAdmin](https://github.com/Laravelish/EasyAdmin) - An advanced Laravel login and user management package with support for [two-factor authentication](https://twofactorauth.org/). \[03/26/2016\]
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]
 - [LDAP-Auth](https://github.com/krenor/ldap-auth) - Very basic read-only LDAP authentication driver for Laravel 5.1+. \[11/23/2015\]
@@ -44,6 +45,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Boilerplate](https://github.com/rappasoft/Laravel-5-Boilerplate) - Responsive Laravel 5 application template with [Bootstrap 3](http://www.getbootstrap.com/), [HTML 5 Boilerplate](http://www.html5boilerplate.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), and more.
 - [Laravel 5 Bootstrap 3 Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 site template using [Bootstrap 3](http://www.getbootstrap.com/) with built-in support for managing videos, pictures, and news, [DataTables](https://datatables.net/), and much more. \[04/30/2015\]
 - [Laravel 5 Scaffold Generator](https://github.com/laralib/l5scaffold) - Artisan extension package to build scaffolding.  Single command creates model, controller, migration, seeder, and RESTful views. \[04/27/2015\]
+- [Laravel 5 Starter](https://github.com/Imaginarydesign/laravel-5-admin-starter) - A complete Laravel starter configuration using Bootstrap and [AdminLTE](https://www.almsaeedstudio.com/) for admin functions. \[03/26/2016\]
 - [Laravel 5 Starter Package](https://github.com/andyjessop/laravel5-starter-package) - A starter package for Laravel 5 with boilerplate views, configs, and routes. \[07/22/2015\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
 - [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
@@ -294,6 +296,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Spiral](http://spiral.ac/) - Educational technology tools for collaboration and progress reporting. \[10/21/2015\]
 - [Stomt](https://www.stomt.com/) - A social platform for providing feedback on anything and anyone built with Laravel and AngularJS. \[08/30/2015\]
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.
+- [TestApi.io](https://testapi.io/) - Free, online API mock creator. \[03/23/2016\]
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
 - [TimeGrid.io](http://www.timegrid.io/) - Online reservation-booking application. Open-source application with source code available [here](https://github.com/alariva/timegrid). \[11/23/2015\]

@@ -597,6 +597,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [ArtisanConf](https://www.artisanconf.com/) \[04/20/2015\]
 - [Laracon EU](http://laracon.eu/)
 - [Laracon US](http://laracon.us/) \[04/09/2015\]
+- [Laravel Austin](http://laravelaustin.com/) \[03/28/2016\]
+- [Laravel Berlin](http://www.meetup.com/laravel-berlin/) \[03/28/2016\]
 - [Laravel Chicago](http://www.meetup.com/laravel-chicago/) \[03/28/2016\]
 - [Laravel Tokyo](https://laravel.tokyo/) \[03/28/2016\]
 - [San Diego Laravel User Group (SDLUG)](https://www.sdlug.com/) \[03/28/2016\]

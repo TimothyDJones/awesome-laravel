@@ -281,6 +281,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
 - [HiveStory](http://hivestory.com/) - Online collaborative story-writing application. \[11/09/2015\]
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
+- [Jigsaw](http://jigsaw.tighten.co/) - [Open-source](https://github.com/tightenco/jigsaw) static site generator and CMS tool built with Laravel that supports Blade templating and markdown. \[04/13/2016\]
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
 - [Koel](http://koel.phanan.net) - A simple, [open-source](https://github.com/phanan/koel) web-based personal audio streaming service (i.e., [Spotify](https://www.spotify.com/) clone) written in [Vue.js](http://vuejs.org/) on the client side and Laravel on server side. \[12/14/2015\]
 - **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]

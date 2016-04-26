@@ -16,6 +16,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Authentication/Security
 - [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
 - [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.
+- [Captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5 - An anti-bot image captcha system.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Dingo](https://github.com/dingo) - Laravel package/API for using [JWT Authentication](http://jwt.io/). \[11/06/2015\]
 - [EasyAdmin](https://github.com/Laravelish/EasyAdmin) - An advanced Laravel login and user management package with support for [two-factor authentication](https://twofactorauth.org/). \[03/26/2016\]
@@ -26,6 +27,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [OAuth-4-Laravel](https://github.com/artdarek/oauth-4-laravel) - Laravel package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers.
 - [OAuth-5-Laravel](https://github.com/andrewxtsang/oauth-5-laravel) - Laravel **5.x** package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers. \[07/20/2015\]
 - [PropAuth](https://github.com/psecio/propauth) - Package that supports property-based security policy evaluation. See tutorial [here](https://websec.io/2015/10/07/Security-Policy-Evaluation-Laravel-PropAuth.html). \[01/04/2015\]
+- [Purifier](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
 - [Roles](https://github.com/romanbican/roles) - Powerful package for handling roles and permissions in Laravel. \[07/16/2015\]
 - [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication & authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]

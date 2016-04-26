@@ -583,6 +583,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Taylor Otwell](http://taylorotwell.com/)
 - [Techigniter](http://www.techigniter.in/category/laravel/) \[07/13/2015\]
 - [Terry Matula](http://www.terrymatula.com/)
+- [The App Guruz](http://www.theappguruz.com/blog) \[04/26/2016\]
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [Tighten.co](http://blog.tighten.co/) \[04/13/2016\]
 - [Tim Leland](http://timleland.com/) \[09/29/2015\]

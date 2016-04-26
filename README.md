@@ -475,6 +475,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Gilbert Pellegrom](http://gilbert.pellegrom.me/tag/laravel/)
 - [Gliding Phenomena (Ravi Panchumarthy)](http://glidingphenomena.blogspot.com/search/label/laravel)
 - [Gufran.me](http://www.gufran.me/)
+- [Goodheads](http://goodheads.io/category/laravel/) \[04/26/2016\]
 - [Isaac Castillo](http://icastwork.com/) \[09/10/2015\]
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
 - [IntoLaravel.com](http://www.intolaravel.com/)

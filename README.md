@@ -49,6 +49,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Starter](https://github.com/Imaginarydesign/laravel-5-admin-starter) - A complete Laravel starter configuration using Bootstrap and [AdminLTE](https://www.almsaeedstudio.com/) for admin functions. \[03/26/2016\]
 - [Laravel 5 Starter Package](https://github.com/andyjessop/laravel5-starter-package) - A starter package for Laravel 5 with boilerplate views, configs, and routes. \[07/22/2015\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
+- [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) - API, Scaffold, CRUD Laravel Generator \[05/01/2016\]
 - [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
 - [Laravel/Angular Material Starter] - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]

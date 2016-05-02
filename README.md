@@ -16,6 +16,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Authentication/Security
 - [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
 - [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.
+- [Captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5 - An anti-bot image captcha system.
 - [Confide](https://github.com/zizaco/confide) - An authentication solution for Laravel with features like  account creation, login, logout, confirmation by e-mail, password reset, etc.
 - [Dingo](https://github.com/dingo) - Laravel package/API for using [JWT Authentication](http://jwt.io/). \[11/06/2015\]
 - [EasyAdmin](https://github.com/Laravelish/EasyAdmin) - An advanced Laravel login and user management package with support for [two-factor authentication](https://twofactorauth.org/). \[03/26/2016\]
@@ -26,6 +27,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [OAuth-4-Laravel](https://github.com/artdarek/oauth-4-laravel) - Laravel package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers.
 - [OAuth-5-Laravel](https://github.com/andrewxtsang/oauth-5-laravel) - Laravel **5.x** package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers. \[07/20/2015\]
 - [PropAuth](https://github.com/psecio/propauth) - Package that supports property-based security policy evaluation. See tutorial [here](https://websec.io/2015/10/07/Security-Policy-Evaluation-Laravel-PropAuth.html). \[01/04/2015\]
+- [Purifier](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
 - [Roles](https://github.com/romanbican/roles) - Powerful package for handling roles and permissions in Laravel. \[07/16/2015\]
 - [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication & authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]
@@ -49,6 +51,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Starter](https://github.com/Imaginarydesign/laravel-5-admin-starter) - A complete Laravel starter configuration using Bootstrap and [AdminLTE](https://www.almsaeedstudio.com/) for admin functions. \[03/26/2016\]
 - [Laravel 5 Starter Package](https://github.com/andyjessop/laravel5-starter-package) - A starter package for Laravel 5 with boilerplate views, configs, and routes. \[07/22/2015\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
+- [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) - API, Scaffold, CRUD Laravel Generator \[05/01/2016\]
 - [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
 - [Laravel/Angular Material Starter] - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
@@ -181,6 +184,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [react-laravel](https://github.com/talyssonoc/react-laravel) - Package to allow using ReactJS components directly in Laravel Blade views. \[07/18/2015\]
 - [Sweet Alert](https://github.com/uxweb/sweet-alert) - Package wrapper for the stylish [Sweet Alert](http://t4t5.github.io/sweetalert/) JavaScript `alert` replacement window utility.  See this [excellent tutorial on how to use the package](http://www.askjong.com/howto/notify-like-a-boss-with-sweet-alert-and-laravel). \[07/20/2015\] 
 - [vue-starter Backend API](https://github.com/layer7be/vue-starter-laravel-api) - Adds Laravel backend support, including [JWT Authentication](http://jwt.io/) using the [Dingo](https://github.com/dingo) package, to [vue-starter](https://github.com/layer7be/vue-starter). \[11/06/2015\]
+- [Webpack Laravel](https://github.com/dolbex/webpack-laravel) - A full-featured Webpack + Vue.JS-loader setup for Laravel with hot reload, linting, testing & CSS extraction. \[04/30/2016\]
 
 ### Third-Party API Support
 - [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.

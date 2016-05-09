@@ -241,6 +241,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Tutorial Series (Multi-part tutorials on Laravel basics)
 - [Philip Brown's Cribbb Tutorials](http://culttt.com/tag/cribbb/) - Comprehensive tutorials on building application with Laravel 4.
 - [Creating a Basic To Do Application in Laravel 5](https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/) - Excellent 4-part tutorial that covers all of the concepts for building Laravel application.
+- [Laracademy](https://laracademy.co/) - Video tutorials on Laravel topics, similar to Laracasts. \[05/09/2016\]
 - [Laravel 4 Tutorials](https://medium.com/laravel-4/) - Drills down into the details that underlie the implementation of Laravel 4 to help you better understand the concepts and principles.
 - [Laravel 5 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty) - Comprehensive, step-by-step tutorial for building a complete application with Laravel 5. \[08/13/2015\]
 

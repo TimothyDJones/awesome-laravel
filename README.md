@@ -458,6 +458,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dev Problems](http://www.devproblems.com/category/laravel/) \[05/03/2016\]
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)
+- [Dhviti Infotech](http://www.dhvitiinfotech.com/blog/) \[05/09/2016\]
 - [Diego Hernandes](http://blog.hernandev.com/en)
 - [Discuss Desk](http://www.discussdesk.com/) \[11/09/2015\]
 - [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)

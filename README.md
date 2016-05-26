@@ -394,6 +394,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
 - [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application build on Laravel 5.x that supports task weighting and project sharing. \[03/28/2016\]
+- [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
 - [Scrumwala](https://github.com/modestkdr/Scrumwala) - A Scrum/agile web application, with plan and work views, for personal use. \[05/29/2015\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.

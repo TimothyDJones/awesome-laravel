@@ -560,6 +560,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
+- [Michael Dyrynda](https://dyrynda.com.au/blog?tag=laravel) \[05/26/2016\]
 - [Mitch Stanley](http://fullstackstanley.com/read/categories/laravel) \[09/16/2015\]
 - [Mohamed Said](http://themsaid.github.io/) \[04/13/2016\]
 - [Muhammad Usman](http://usman.it/tag/laravel/)

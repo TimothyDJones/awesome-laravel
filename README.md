@@ -398,6 +398,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
 - [Scrumwala](https://github.com/modestkdr/Scrumwala) - A Scrum/agile web application, with plan and work views, for personal use. \[05/29/2015\]
+- [TodoParrot](https://github.com/wjgilmore/todoparrot) - Simple "To Do" application described in [Easy Laravel 5](http://easylaravelbook.com/). \[05/28/2016\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
 - [Todo Laravel](https://github.com/anam-hossain/Todo-laravel) - A simple Todo app which is built with Laravel 4, Bootstrap 3.0 and AngularJS. \[05/13/2015\]
 - [Webloyer](https://github.com/ngmy/webloyer) - A Web UI for managing [Deployer](http://deployer.org/) deployments. \[11/23/2015\]

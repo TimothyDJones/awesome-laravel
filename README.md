@@ -42,6 +42,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Hexavel](https://github.com/peterfox/hexavel) - Restructured version of Laravel framework to provide streamlined workflows and simplify development process. \[12/30/2015\]
 - [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]
 - [Laracogs](http://laracogs.com/) - Package that includes helpers for Bootstrap, CRUD, notifications, billing via Cashier, and form generation. \[04/26/2016\]
+- [LaraLTE2](https://github.com/kossa/laralte2) - Laravel PHP Framework with [AdminLTE2](https://almsaeedstudio.com/AdminLTE) and other packages and JavaScript tools. \[06/04/2016\]
 - [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]
 - [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Laravel 5 and [Angular Material](https://material.angularjs.org/) with sample config for ui-router, Restangular, theming, etc. See tutorial on use [here](http://www.sitepoint.com/flexible-and-easily-maintainable-laravel-angular-material-apps/).
 - [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).

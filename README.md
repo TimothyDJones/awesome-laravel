@@ -358,6 +358,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraVer](https://laraver.xyz/) - Online reference to the current released version of Laravel.  With free account, you can see differences of current version to any previous version. \[12/07/2015\]
 
 ### Example Applications
+- [EasyAdmin](https://github.com/laravelish/EasyAdmin) - Advanced Laravel Login and User Management with Two-Factor Authentication. \[06/09/2016\]
 - [Alfred CMS](http://www.alfred-cms.com/) - CMS built with Laravel and AngularJS that supports developer needs, but is simple for users. \[05/09/2016\]
 - [Anvil CMS](https://github.com/loic-sharma/Anvil) - A basic CMS built on top of Laravel 4 with other components.
 - [Arcanesoft CMS](https://github.com/ARCANESOFT/ARCANESOFT) - CMS built on Laravel with multiple packages that can be used independently. \[12/18/2015\]

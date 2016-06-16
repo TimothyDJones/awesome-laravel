@@ -475,6 +475,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Discuss Desk](http://www.discussdesk.com/) \[11/09/2015\]
 - [Dixit Patel](http://dixitpatel.com/category/web-2/laravel/)
 - [dor.ky](http://dor.ky/tag/laravel/)
+- [dotdev](https://dotdev.co/tagged/laravel) \[06/16/2016\]
 - [Duilio Palacios](http://duilio.me/) \[04/12/2015\]
 - [Dunebook](http://dunebook.com/category/useful-resources-for-laravel/) \[08/08/2015\]
 - [Dustin Parham](http://imbringingsyntaxback.com/) \[05/16/2016\]

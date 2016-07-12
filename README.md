@@ -177,6 +177,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
 - [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
+- [MailThief](https://github.com/tightenco/mailthief) - A fake mailer for Laravel applications that makes it easy to test mail without actually sending any emails. \[07/07/2016\]
 - [PDF Laravel 5](https://github.com/vsmoraes/pdf-laravel5) - Package wrapper for [DOMPDF](http://dompdf.github.io/) HTML-to-PDF conversion library. \[08/16/2015\] 
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
 - [Quarx](https://quarx.info/) - [Open-source](https://github.com/YABhq/Quarx/) package to add CMS capabilities to your Laravel application. \[05/04/2016\]
@@ -284,6 +285,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bumble CMS](http://bumblecms.com/) - CMS platform for Laravel framework with focus on simplicity. \[09/04/2015\]
 - [Burnmsg](https://burnmsg.com/) - Simple self-destructing, [encrypted messaging application](http://www.edzynda.com/create-a-self-destructing-encrypted-message-app-in-laravel-part-1/) built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
 - [Cachet](https://cachethq.io/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
+- [Canvas](http://austintoddj.github.io/Canvas/) - A minimalist blogging platform for developers which uses [Summernote WYSIWIG editor](http://summernote.org/) for Markdown support built with Laravel. \[07/07/2016\] 
 - [Circuits.com](https://circuits.com/) - Electronic components marketplace with comprehensive search capability and over 3 billion parts in stock.
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
@@ -367,6 +369,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Auto-Generating Gallery](https://github.com/martindilling/auto-generating-gallery) - Basic image gallery application with support for auto-generation of thumbnails, albums, and more.
 - [BookStack](https://github.com/ssddanbrown/BookStack) - A simple, self-hosted, easy-to-use, wiki-like platform and [Confluence](https://www.atlassian.com/software/confluence/) alternative for organising and storing information. \[01/02/2016\]
 - [Bookymark](https://github.com/mikedfunk/bookymark) - Basic web site bookmarking application built with Laravel 4, including full tests. \[04/28/2015\]
+- [Communalizer](https://github.com/communalizer) - Free, open-source and self-hosted forum system written on top of the Laravel framework. \[06/23/2016\]
 - [Dingo Project Management](https://github.com/zeeshanu/dingo-project-managment) - A full-featured personal project management tool with task boards. \[04/26/2016\]
 - [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
 - [EESTEC Platform for Local Committees](https://github.com/angelov/eestec-platform) - Committee management tool for engineering student association. \[11/23/2015\]
@@ -454,6 +457,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Codelution](http://codelution.com/tag/laravel/) \[04/16/2015\]
 - [CodeRabbi (Yitzchok Willroth)](http://coderabbi.github.io/)
 - [CODETutorial.io](http://www.codetutorial.io/tutorial/laravel-5/) \[08/06/2015\]
+- [Codingo](https://tuts.codingo.me/category/web-development/laravel) \[07/07/2016\]
 - [CoffeeCupWeb](http://coffeecupweb.com/category/laravel/) \[08/06/2015\]
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
 - [Coveros](https://www.coveros.com/tag/laravel/) \[05/17/2016\]
@@ -522,6 +526,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jeff Madsen (codebyjeff)](http://codebyjeff.com/blog) \[06/08/2015\]
 - [Jens Segers](http://jenssegers.be/)
 - [Jesse Schutt](http://zaengle.com/blog/tag/laravel) \[04/13/2016\]
+- [Jim Frenette](http://jimfrenette.com/tag/laravel/) \[07/09/2016\]
 - [Joe Ferguson](http://www.joeferguson.me/blog/) \[08/30/2015\]
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
 - [Jon Phipps](http://jonstuff.blogspot.ca/search/label/Laravel%205) \[11/30/2015\]
@@ -543,6 +548,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kovah](https://kovah.me/en/tag/laravel/) \[11/09/2015\]
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
+- [Laratips](https://laratips.io/) \[07/07/2016\]
 - [Laravel 5 Tutorials](https://medium.com/laravel-5-tutorials) \[06/01/2015\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]

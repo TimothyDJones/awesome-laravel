@@ -8,6 +8,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
+- [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
 
 ### Algorithms/Data Structures
 - [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.

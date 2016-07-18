@@ -308,6 +308,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jumpertrax](https://www.jumpertrax.com/homepage) - Online sports event entry and tracking tool. \[05/10/2016\]
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
 - [Koel](http://koel.phanan.net) - A simple, [open-source](https://github.com/phanan/koel) web-based personal audio streaming service (i.e., [Spotify](https://www.spotify.com/) clone) written in [Vue.js](http://vuejs.org/) on the client side and Laravel on server side. \[12/14/2015\]
+- [Kyle](https://github.com/laravelista/kyle) - Monthly billing/invoicing application built on Laravel. \[06/18/2016\]
 - **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.

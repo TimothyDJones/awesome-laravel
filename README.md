@@ -336,6 +336,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Vale Brewing](http://valebrewing.com.au/) - Nice, well-structured web site for Australian craft brewer. \[10/20/2015\]
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
 - [Visual Bookmark Organizer](https://rivario.com/bookmark/) - Online bookmark tool that shows thumbnails of bookmarked site.  (Source code on [Github](https://github.com/yhbyun/laravel-bookmark).) \[04/22/2015\]
+- [Vuedo](https://github.com/vuedo/vuedo) - Open-source blogging platform built with Laravel and [Vue.js](https://vuejs.org/) with Markdown editor and Amazon S3 integration. \[06/18/2016\]
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.
 
@@ -407,6 +408,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
+- [ReMark](https://github.com/Technopathic/ReMark) - Blogging platform with built-in feed aggregator and multimedia hosting built on Laravel and [AngularJS](https://angularjs.org/). \[07/22/2016\]
 - [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application build on Laravel 5.x that supports task weighting and project sharing. \[03/28/2016\]
 - [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.

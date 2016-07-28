@@ -446,6 +446,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Asked.io](https://asked.io/search/laravel) \[04/13/2016\]
 - [AskJong](http://www.askjong.com/) \[10/08/2015\]
 - [Baljeet Singh](http://baljeetsingh.in/blog/tag/laravel/) \[11/09/2015\]
+- [Bao Pham](http://baopham.github.io/) \[07/27/2016\]
 - [Barry vd. Heuvel](http://barryvdh.nl/)
 - [Belar Design](http://belardesign.com/category/dev/laravel/)
 - [Ben Smith](http://bensmith.io/) \[07/07/2015\]

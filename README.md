@@ -8,6 +8,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
+- [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
 
 ### Algorithms/Data Structures
 - [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
@@ -296,6 +297,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [DevLeaks](http://devleaks.com/) - Web development news aggregator for tutorials, tools, and other resources of interest to developers. \[08/03/2015\]
 - [Easy Decision Maker](http://easydecisionmaker.com/) - Online tool for creating multiple-choice questions. \[10/21/2015\]
 - [Filegr.am](http://filegr.am/) - Share files up to 1GB for 24 hours with no sign up or installation. \[07/31/2015\]
+- [Flarepoint CRM](https://github.com/Bottelet/Flarepoint-crm) - Full-features CRM application with tasks and lead management, role-based settings, document attachements, and more. \[06/18/2016\]
 - [Flarum](http://flarum.org/) - Open-source forum software intended to make online discussions simple, fun, and fast. \[08/28/2015\]
 - [Flashtag CMS](https://flashtag.org/) - [Open-source](https://github.com/flashtag/cms) simple CMS and blogging platform built with Laravel. \[04/12/2016\]
 - [Food Zoo Menu](http://www.umt.edu/dining/foodzoomenu) - University cafeteria menu listings using Laravel REST API and AngularJS. \[05/09/2016\]
@@ -308,6 +310,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jumpertrax](https://www.jumpertrax.com/homepage) - Online sports event entry and tracking tool. \[05/10/2016\]
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
 - [Koel](http://koel.phanan.net) - A simple, [open-source](https://github.com/phanan/koel) web-based personal audio streaming service (i.e., [Spotify](https://www.spotify.com/) clone) written in [Vue.js](http://vuejs.org/) on the client side and Laravel on server side. \[12/14/2015\]
+- [Kyle](https://github.com/laravelista/kyle) - Monthly billing/invoicing application built on Laravel. \[06/18/2016\]
 - **[Larasites](https://www.larasites.com/)** - Directory of applications built with Laravel and Lumen. \[08/30/2015\]
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
@@ -330,9 +333,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
 - [TimeGrid.io](http://www.timegrid.io/) - Online reservation-booking application. Open-source application with source code available [here](https://github.com/alariva/timegrid). \[11/23/2015\]
+- [TruckJee](http://www.truckjee.com/) - Similar to Uber for truck transport in India. \[07/12/2016\]
 - [Vale Brewing](http://valebrewing.com.au/) - Nice, well-structured web site for Australian craft brewer. \[10/20/2015\]
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
 - [Visual Bookmark Organizer](https://rivario.com/bookmark/) - Online bookmark tool that shows thumbnails of bookmarked site.  (Source code on [Github](https://github.com/yhbyun/laravel-bookmark).) \[04/22/2015\]
+- [Vuedo](https://github.com/vuedo/vuedo) - Open-source blogging platform built with Laravel and [Vue.js](https://vuejs.org/) with Markdown editor and Amazon S3 integration. \[07/18/2016\]
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.
 
@@ -389,6 +394,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.
 - [Laravel Datatables Package Demo](https://github.com/yajra/laravel-datatables-demo) - Demo application to show how to use [DataTables](http://datatables.net/) with Laravel 4/5. \[06/11/2015\]
 - [Laravel Feed Reader](https://github.com/awjudd/l4-feed-reader) - A simple, self-hosted, online RSS feed reader based on SimplePie for Laravel 4/5. \[05/13/2015\]
+- [Laravel To Do App](https://github.com/lourenci/laravel-todo-app) - Basic "to do" application to demonstrate Laravel 5.2 services including [authentication](https://laravel.com/docs/5.2/authentication), [e-mail](https://laravel.com/docs/5.2/mail), [Eloquent ORM](https://laravel.com/docs/5.2/eloquent), and [middleware](https://laravel.com/docs/5.2/middleware). \[06/18/2016\]
 - [Laravel 4 CMS](https://github.com/alnutile/l4cms) - Quick intro to Laravel using a custom CMS application.
 - [Laravel 5 Example](https://github.com/bestmomo/laravel5-example) - Basic blog application with authentication, user roles, admin dashboard, and more. \[05/11/2015\]
 - **[Laravel 5 Projects](https://github.com/StreetGT/Laravel-5-Projects/)** - Directory for Laravel 5 example projects for those new to Laravel. \[07/20/2015\]
@@ -403,6 +409,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
+- [Owl](https://github.com/owl/owl) - Simple collaboration tool built on Laravel with support for "favorites" and tags, full text search, email and Slack notifications, and more. \[07/22/2016\]
+- [ReMark](https://github.com/Technopathic/ReMark) - Blogging platform with built-in feed aggregator and multimedia hosting built on Laravel and [AngularJS](https://angularjs.org/). \[07/22/2016\]
 - [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application build on Laravel 5.x that supports task weighting and project sharing. \[03/28/2016\]
 - [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
@@ -487,6 +495,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dunebook](http://dunebook.com/category/useful-resources-for-laravel/) \[08/08/2015\]
 - [Dustin Parham](http://imbringingsyntaxback.com/) \[05/16/2016\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
+- [Dwight Watson](https://www.neontsunami.com/) \[07/12/2016\]
 - [EasyLara](http://www.easylara.com/)
 - [Edvinas Krucas](http://blog.krucas.lt/category/laravel/) \[10/06/2015\]
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
@@ -524,6 +533,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Janik von Rotz](https://janikvonrotz.ch/category/work/laravel/) \[04/14/2015\]
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jeff Madsen (codebyjeff)](http://codebyjeff.com/blog) \[06/08/2015\]
+- [Jeff Mould](http://www.jeffmould.com/category/laravel/) \[07/22/2016\]
 - [Jens Segers](http://jenssegers.be/)
 - [Jesse Schutt](http://zaengle.com/blog/tag/laravel) \[04/13/2016\]
 - [Jim Frenette](http://jimfrenette.com/tag/laravel/) \[07/09/2016\]
@@ -612,6 +622,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Slashnode](http://slashnode.com/blog/)
 - [Small Dog Studios](https://blog.smalldo.gs/category/code-2/laravel/) \[04/27/2015\]
 - [SOFTonSOFA](http://softonsofa.com/)
+- [Stefan Zweifel](https://stefanzweifel.io/posts/) \[07/22/2016\]
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Steve Azzopardi](https://medium.com/@steveazz) \[04/05/2016\]
 - [Stidges' Blog](http://blog.stidges.com/)

@@ -602,6 +602,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Murze.be](https://murze.be/tag/laravel/)
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Nick Boyle](http://bicknoyle.com/) \[02/15/2016\]
+- [Nicolas Widart](https://nicolaswidart.com/blog) \[07/28/2016\]
 - [Ollie Read](http://ollieread.com/)
 - [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]

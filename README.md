@@ -713,6 +713,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 - [Laravel Docker](https://github.com/SteveAzz/laravel-docker) - [Docker](http://docker.io/) configuration for building Laravel development environment. \[10/30/2015\]
 - [Laravel Drydock](https://github.com/atrauzzi/laravel-drydock) - A pre-built local development environment for Laravel using Docker. \[02/08/2016\]
+- [Laravel Model/Migration Generator](http://andressantibanez.com/laravel-model-generator/) - Simple online tool for generating Laravel model class definition and database migration code by entering details about database table. \[08/04/2016\]
 - [Laravel Valet *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
 - [PHP Framework Benchmarks](https://github.com/kenjis/php-framework-benchmark) - Real-world benchmarks of many popular (and a few obscure!) PHP frameworks, including Laravel 4.x and 5.x and Lumen. \[07/28/2016\]

@@ -337,9 +337,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
 - [Spiral](http://spiral.ac/) - Educational technology tools for collaboration and progress reporting. \[10/21/2015\]
 - [StackPile](https://stackpile.io/) - Online tool for managing third-party APIs used by your application, built with Laravel and [Vue.js](http://vuejs.org/). \[03/28/2016\]
+- [Statimgram](https://statimgram.com/) - Allows you to publish images to multiple Instagram accounts simultaneously and schedule your posts. \[08/11/2016\]
 - [Stomt](https://www.stomt.com/) - A social platform for providing feedback on anything and anyone built with Laravel and AngularJS. \[08/30/2015\]
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.
-- [TestApi.io](https://testapi.io/) - Free, online API mock creator. \[03/23/2016\]
+- [TestApi.io](https://testapi.io/) - Free, online API mock creator. \[03/23/2016\] - Allows you to publish images to multiple Instagram accounts simultaneously and schedule your posts. \[08/11/2016\]
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
 - [TimeGrid.io](http://www.timegrid.io/) - Online reservation-booking application. Open-source application with source code available [here](https://github.com/alariva/timegrid). \[11/23/2015\]

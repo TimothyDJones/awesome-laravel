@@ -643,7 +643,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Steve Azzopardi](https://medium.com/@steveazz) \[04/05/2016\]
 - [Stidges' Blog](http://blog.stidges.com/)
-- [StillAt (Johnathon Koster)](http://www.stillat.com/)
+- [StillAt (Johnathon Koster)](http://www.stillat.com/) 
+- [Stormpath](https://stormpath.com/blog/category/php) \[08/11/2016\]
 - [Styde](https://styde.net/category/laravel-5/) (Spanish/[English translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fstyde.net%2Fcategory%2Flaravel-5%2F&edit-text=&act=url)) \[05/30/2015\]
 - [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
 - [Taha Shashtari](http://taha-sh.com/tags/laravel) \[10/07/2015\]

@@ -79,6 +79,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Adds a sortable [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models for Laravel 4/5. \[05/25/2015\]
 - [Eloquent Versioned](https://github.com/sbarre/eloquent-versioned) - Adds transparent versioning to Eloquent models, which persists an entirely new row in database when updating a model instance. \[06/08/2015\]
 - [Eloquent Preferences](https://github.com/klaude/eloquent-preferences) - Allows binding of multiple key-value pair preferences to your Eloquent models. \[12/29/2015\]
+- [Laradump](https://github.com/yadakhov/laradump) - A Laravel wrapper package for the MySQL [mysqldump](http://dev.mysql.com/doc/refman/5.7/en/mysqldump.html) tool to allow exporting of your database and reloading via Laravel [Artisan](https://laravel.com/docs/artisan) commands. \[08/03/2016\]
 - [Laraformer](https://github.com/kamranahmedse/laraformer) - Laravel package to add a transformation layer to your Eloquent model. \[03/05/2016\]
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Doctrine](http://laraveldoctrine.org/) - A package that tightly integrates the [Doctrine](http://www.doctrine-project.org/) ORM with Laravel. \[09/10/2015\]
@@ -115,6 +116,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Environment Manager](https://github.com/tommyku/laravel5_env) - Artisan command for managing multiple environments (`.env`) for a Laravel 5 application.
 - [Laravel Feature Flag/Switch](https://github.com/jonathan-bird/feature-switch) - Simple tool for adding [feature flag](https://en.wikipedia.org/wiki/Feature_toggle) capability to your Laravel applications. \[06/16/2016\]
 - [Laravel IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Adds auto-complete support for Laravel syntax to a variety of IDEs and text editors, including [Aptana Studio](http://aptana.com/), [Eclipse](http://eclipse.org/), [PHP Storm](http://www.jetbrains.com/phpstorm/), and more.
+- [Laravel Inspector](https://github.com/lsrur/inspector/) - Comprehensive debugging and profiling tool with full logging capabilities that outputs errors and logged actions to browser JavaScript console. \[08/03/2016\]
 - [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Add on which allows you to view your Laravel 4.2/5.0 log file within the application itself by opening the `logs` (or other) route.
 - [Laravel PackMe](https://github.com/ptondereau/laravel-packme) - A shell/command-line starter kit for developing pakcages for Laravel 5. \[06/16/2016\]
 - [Laravel Permission](https://github.com/spatie/laravel-permission) - A simple package to manage users, roles, and permissions in Laravel. \[09/22/2015\]
@@ -175,6 +177,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel Formatter](https://github.com/SoapBox/laravel-formatter) - Port of [FuelPHP](http://fuelphp.com/) formatter library for formatting JSON, XML, YAML, and CSV data.
 - [Laravel Forum](https://github.com/Riari/laravel-forum) - A complete forum package designed for easy integration into any Laravel 4 application.
+- [Laravel Handlebars](https://github.com/ProAI/laravel-handlebars) - Provides support for using [Handlebars](http://handlebarsjs.com/) and [Mustache](https://github.com/bobthecow/mustache.php) templates with Laravel, including in conjunction with Blade. \[08/02/2016\]
 - [Laravel Javascript Routes](https://github.com/fedeisas/laravel-js-routes) - Package to allow simple matching of Laravel routes to JavaScript/jQuery on client side.
 - [Laravel Kint](https://github.com/rtconner/laravel-kint) - Package wrapper for [Kint](http://raveren.github.io/kint/) debugging library that includes native service provider. \[08/10/2015\]
 - [Laravel Medium Editor](http://www.codeforest.net/laravel-wysiwyg-editor) - Laravel package for using the [Medium WYSIWYG JavaScript Editor](http://daviferreira.github.io/medium-editor/) with Laravel 4.x.
@@ -388,6 +391,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
 - [EESTEC Platform for Local Committees](https://github.com/angelov/eestec-platform) - Committee management tool for engineering student association. \[11/23/2015\]
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
+- [IVD Assets](https://github.com/TTFerreira/ivd-assets) - IT asset management and ticketing application. \[08/02/2016\]
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]
 - [Larapress](https://github.com/larapress-cms/larapress) - A work-in-progress CMS built on Laravel 4, which provides good example of building application with Laravel.
@@ -469,6 +473,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Chuck Heintzelman](http://laravelcoding.com/blog) \[06/11/2015\]
 - [Clivern](http://clivern.com/tag/laravel/)
+- [Cloudways Blog](http://www.cloudways.com/blog/category/applications/laravel/) \[08/02/2016\]
 - [Code And Be Happy (Jesse Walton)](http://codeandbehappy.com/tags/#laravel) \[09/23/2015\]
 - [Code Gains](http://codegains.com/tag/laravel-2/)
 - [CodeHeaps](http://www.codeheaps.com/)
@@ -709,6 +714,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Awesome tool that adds a JavaScript-based bar to bottom of page which shows details about routes, HTTP requests, variables, and much more.
 - [Laravel Docker](https://github.com/SteveAzz/laravel-docker) - [Docker](http://docker.io/) configuration for building Laravel development environment. \[10/30/2015\]
 - [Laravel Drydock](https://github.com/atrauzzi/laravel-drydock) - A pre-built local development environment for Laravel using Docker. \[02/08/2016\]
+- [Laravel Model/Migration Generator](http://andressantibanez.com/laravel-model-generator/) - Simple online tool for generating Laravel model class definition and database migration code by entering details about database table. \[08/04/2016\]
 - [Laravel Valet *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
 - [PHP Framework Benchmarks](https://github.com/kenjis/php-framework-benchmark) - Real-world benchmarks of many popular (and a few obscure!) PHP frameworks, including Laravel 4.x and 5.x and Lumen. \[07/28/2016\]

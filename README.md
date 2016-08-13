@@ -560,6 +560,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
+- [KaltenCoder](http://kaltencoder.com/category/laravel/) \[08/13/2016\]
 - [Kane Cohen](http://kanecohen.github.io/) \[07/12/2015\]
 - [Kathir 'Sid' Vel](http://www.kathirvel.com/blog/) \[05/06/2015\]
 - [KaixersofT](https://kaixersoft.wordpress.com/category/php-2/laravel/) \[07/02/2015\]

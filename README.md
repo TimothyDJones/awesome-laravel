@@ -718,6 +718,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
 - [PHP Framework Benchmarks](https://github.com/kenjis/php-framework-benchmark) - Real-world benchmarks of many popular (and a few obscure!) PHP frameworks, including Laravel 4.x and 5.x and Lumen. \[07/28/2016\]
 - [PHP Storm Laravel Live Templates](https://github.com/koomai/phpstorm-laravel-live-templates) - Comprehensive set of templates for Laravel for [PHP Storm](https://www.jetbrains.com/phpstorm/). \[05/25/2015\]
+- [Pier](https://github.com/codecasts/pier) - A set of customized Docker images for running Laravel with support for PHP 7.x, Nginx, Caddy, MySQL, and PostgreSQL. \[08/15/2016\]
 - [Scotch Box](https://box.scotch.io/) - A complete [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) [Vagrant](http://vagrantup.com/) box with PHP 5.5, Laravel installer, and Node.JS front-end tools. \[05/22/2015\]
 - [SQL to Laravel Seeder Converter](http://laravel.stonelab.ch/sql-seeder-converter/) - Online tool to convert SQL INSERT statements to Laravel seeder syntax. \[05/05/2015\]
 - [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]

@@ -313,6 +313,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
+- [HasYourBabyArrivedYet.com](http://hasyourbabyarrivedyet.com/) - Free, simple service for sharing news about the arrival of your baby. \[08/11/2016\]
 - [HiveStory](http://hivestory.com/) - Online collaborative story-writing application. \[11/09/2015\]
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
 - [Jigsaw](http://jigsaw.tighten.co/) - [Open-source](https://github.com/tightenco/jigsaw) static site generator and CMS tool built with Laravel that supports Blade templating and markdown. \[04/13/2016\]
@@ -336,9 +337,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
 - [Spiral](http://spiral.ac/) - Educational technology tools for collaboration and progress reporting. \[10/21/2015\]
 - [StackPile](https://stackpile.io/) - Online tool for managing third-party APIs used by your application, built with Laravel and [Vue.js](http://vuejs.org/). \[03/28/2016\]
+- [Statimgram](https://statimgram.com/) - Allows you to publish images to multiple Instagram accounts simultaneously and schedule your posts. \[08/11/2016\]
 - [Stomt](https://www.stomt.com/) - A social platform for providing feedback on anything and anyone built with Laravel and AngularJS. \[08/30/2015\]
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.
-- [TestApi.io](https://testapi.io/) - Free, online API mock creator. \[03/23/2016\]
+- [TestApi.io](https://testapi.io/) - Free, online API mock creator. \[03/23/2016\] - Allows you to publish images to multiple Instagram accounts simultaneously and schedule your posts. \[08/11/2016\]
 - [Thermosis Framework](http://framework.themosis.com/) - [WordPress](http://wordpress.org/) framework that embeds Laravel to build complex applications.
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
 - [TimeGrid.io](http://www.timegrid.io/) - Online reservation-booking application. Open-source application with source code available [here](https://github.com/alariva/timegrid). \[11/23/2015\]
@@ -558,6 +560,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
+- [KaltenCoder](http://kaltencoder.com/category/laravel/) \[08/13/2016\]
 - [Kane Cohen](http://kanecohen.github.io/) \[07/12/2015\]
 - [Kathir 'Sid' Vel](http://www.kathirvel.com/blog/) \[05/06/2015\]
 - [KaixersofT](https://kaixersoft.wordpress.com/category/php-2/laravel/) \[07/02/2015\]
@@ -571,6 +574,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kovah](https://kovah.me/en/tag/laravel/) \[11/09/2015\]
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
+- [Laracasts Snippets](https://laracasts.simplecast.fm/) \[08/11/2016\]
 - [Laratips](https://laratips.io/) \[07/07/2016\]
 - [Laravel 5 Tutorials](https://medium.com/laravel-5-tutorials) \[06/01/2015\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
@@ -640,7 +644,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Steve Azzopardi](https://medium.com/@steveazz) \[04/05/2016\]
 - [Stidges' Blog](http://blog.stidges.com/)
-- [StillAt (Johnathon Koster)](http://www.stillat.com/)
+- [StillAt (Johnathon Koster)](http://www.stillat.com/) 
+- [Stormpath](https://stormpath.com/blog/category/php) \[08/11/2016\]
 - [Styde](https://styde.net/category/laravel-5/) (Spanish/[English translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fstyde.net%2Fcategory%2Flaravel-5%2F&edit-text=&act=url)) \[05/30/2015\]
 - [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
 - [Taha Shashtari](http://taha-sh.com/tags/laravel) \[10/07/2015\]

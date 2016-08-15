@@ -640,6 +640,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Slashnode](http://slashnode.com/blog/)
 - [Small Dog Studios](https://blog.smalldo.gs/category/code-2/laravel/) \[04/27/2015\]
 - [SOFTonSOFA](http://softonsofa.com/)
+- [Stampede Design](http://constructs.stampede-design.com/tag/laravel/) \[08/15/2016\]
 - [Stefan Zweifel](https://stefanzweifel.io/posts/) \[07/22/2016\]
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Steve Azzopardi](https://medium.com/@steveazz) \[04/05/2016\]

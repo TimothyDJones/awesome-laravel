@@ -666,6 +666,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Vincent Klaiber](https://vinkla.com/) \[08/11/2015\]
 - [Vehikl](http://transmission.vehikl.com/) \[08/10/2015\]
+- [W3Laravel](http://www.w3laravel.com/) \[08/15/2016\]
 - [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
 - [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]
 - [Weblint4u](http://weblint4u.com/category/laravel/)

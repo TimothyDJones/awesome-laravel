@@ -540,6 +540,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Ionut Bajescu](http://ionut-bajescu.com/)
+- [ItSolutionStuff](http://itsolutionstuff.com/tag/laravel.html)
 - [Jack Wall](https://jkwl.io/)
 - [Jacob Bennett](https://gistlog.co/JacobBennett)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)

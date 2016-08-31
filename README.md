@@ -624,6 +624,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ollie Read](http://ollieread.com/)
 - [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]
+- [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]

@@ -371,6 +371,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Alternate Laravel Documentation](http://readouble.com/laravel/) - In easier to read format (Japanese/English). \[04/15/2015\]
 - [Cheatsheetr](http://cheatsheetr.com/) - [Maks Surguy](http://maxoffsky.com/)'s topical cheat sheets for Laravel and Bootstrap.
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
+- [LaraPulse](https://github.com/rinvex/larapulse) - Weekly summary of changes to Laravel framework and tips and snippets from Laravel world. \[08/31/2016\]
 - [Laravel 5 Cheat Sheet](http://www.linxiang.info/l5-cs/) \[05/11/2015\]
 - [Laravel 5.1 LTS Cheat Sheet](https://aufree.github.io/laravel5-cheatsheet/) \[04/13/2016\]
 - [Laravel 5.1 LTS Cheat Sheet](https://summerblue.github.io/laravel5-cheatsheet/) \[05/04/2016\]

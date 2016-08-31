@@ -130,6 +130,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
 - [PHP Console](https://github.com/barbushin/php-console-laravel) - Laravel package wrapper/service provider to handle PHP errors, dump variables, execute PHP code remotely, etc. in Google Chrome with [PHP Console extension](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef).
 - [Potion](https://github.com/Classy-Geeks/laravel-potion) - Asset management tool for Laravel 5 based off of Assetic with only PHP dependencies.  \[04/05/2015\]
+- [Pretty Routes](https://github.com/garygreen/pretty-routes) - Adds a `/routes` URL to your application for a nice visualization of all of the routes, including HTTP methods, middleware used, and more. \[08/31/2016\] 
 - [SmartSeeder](https://github.com/slampenny/SmartSeeder) - SmartSeeder extends database seeding beyond development to allow to use different seed data depending on the environment.
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Environment](https://github.com/jpcercal/environment) - A simple library to increase the power of your environment variables.

@@ -203,6 +203,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
 ### JavaScript Framework Support
+- [Laravel and AngularJS](https://github.com/danielschmitz/laravel_and_angularjs_codes) - Source code to go with [book](https://leanpub.com/laravel_and_angularjs) on building applications with Laravel and [AngularJS](https://angularjs.org/). \[09/02/2016\]
 - [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[07/18/2015\]
 - [Laravue](https://github.com/laravue/laravue) - Package that integrates [Vue.JS](http://vuejs.org/) JavaScript framework for single-page web applications. \[07/27/2015\]
 - [react-laravel](https://github.com/talyssonoc/react-laravel) - Package to allow using ReactJS components directly in Laravel Blade views. \[07/18/2015\]

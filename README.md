@@ -511,6 +511,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Designing Lives](http://designinglives.net/) \[07/07/2015\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [Dev Problems](http://www.devproblems.com/category/laravel/) \[05/03/2016\]
+- [Devartisans](http://devartisans.com/categories/laravel5) \[09/02/2016\]
 - [developed.be](http://www.developed.be/languages/frameworks/lavarel/)
 - [DeveloPHP](http://www.develophp.org/)
 - [Dhviti Infotech](http://www.dhvitiinfotech.com/tag/laravel-application-development/) \[05/09/2016\]

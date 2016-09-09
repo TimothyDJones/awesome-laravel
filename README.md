@@ -621,6 +621,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)
+- [Matthew Daly](http://matthewdaly.co.uk/blog/categories/laravel/) \[09/09/2016\]
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Maurizio Bonani](http://blog.mauriziobonani.com/tags/#laravel) \[09/02/2016\]

@@ -10,6 +10,12 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 - [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
 
+### Admin Tools/Panels
+- [Laralum](https://github.com/ConsoleTVs/Laralum) - Simple admin panel with database CRUD support and built-in support for Laravel Auth. \[09/06/2016\]
+- [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
+- [Laravel Admin Panel](https://github.com/appzcoder/laravel-admin) - Laravel tool for managing users, roles, permissions, and CRUD generation. \[04/12/2016\]
+- [Laravel Administrator](http://administrator.frozennode.com/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
+
 ### Algorithms/Data Structures
 - [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
 - [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
@@ -172,9 +178,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
 - [Laracurl](https://github.com/zjango/Laracurl) - Laravel wrapper package for [PHP cURL](https://github.com/anlutro/php-curl) class that provides OOP interface to [cURL](https://en.wikipedia.org/wiki/CURL). \[10/27/2015\]
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
-- [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
-- [Laravel Admin Panel](https://github.com/appzcoder/laravel-admin) - Laravel tool for managing users, roles, permissions, and CRUD generation. \[04/12/2016\]
-- [Laravel Administrator](http://administrator.frozennode.com/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
 - [Laravel Auto Presenter](https://github.com/ShawnMcCool/laravel-auto-presenter) - Automatically decorates (applies formatting to) model objects bound to views during the view render process.
 - [Laravel Calendar](https://github.com/makzumi/laravel-calendar) - A comprehensive calendar package with built-in support for events. \[04/22/2015\]

@@ -400,6 +400,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Auto-Generating Gallery](https://github.com/martindilling/auto-generating-gallery) - Basic image gallery application with support for auto-generation of thumbnails, albums, and more.
 - [BookStack](https://github.com/ssddanbrown/BookStack) - A simple, self-hosted, easy-to-use, wiki-like platform and [Confluence](https://www.atlassian.com/software/confluence/) alternative for organising and storing information. \[01/02/2016\]
 - [Bookymark](https://github.com/mikedfunk/bookymark) - Basic web site bookmarking application built with Laravel 4, including full tests. \[04/28/2015\]
+- [CocoPass](https://github.com/Elvenisboy/CocoPass) - Password management system similar to [LastPass](https://lastpass.com/) build with Laravel 5.3. \[09/13/2016\]
 - [Communalizer](https://github.com/communalizer) - Free, open-source and self-hosted forum system written on top of the Laravel framework. \[06/23/2016\]
 - [Dingo Project Management](https://github.com/zeeshanu/dingo-project-managment) - A full-featured personal project management tool with task boards. \[04/26/2016\]
 - [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
@@ -414,6 +415,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel and AngularJS Blog](https://github.com/RachidLaasri/Blog) - Simple blogging application with AngularJS front-end that uses Markdown files for posts. \[08/11/2015\]
 - [Laravel and AngularJS CMS]() - CMS built on Laravel 5.1, AngularJS 1.4.7 and Responsive Material Design with REST API. \[10/30/2015\]
 - [Laravel Blog](https://github.com/FbF/Laravel-Blog) - A Laravel 4 package to add a simple blog to a site.
+- [Laravel Blog](https://github.com/lufficc/laravel-blog) - A fast and powerful blog system powed by Laravel 5.3. \[09/21/2016\]
 - [Laravel Blog](https://github.com/summerblue/laravel-blog) - A complete blog application, with admin features, implemented in Laravel 4.2.
 - [Laravel Bookmarks](https://github.com/yhbyun/laravel-bookmark) - Visual bookmark organizer application built with Laravel. Online version [here](https://rivario.com/bookmark/). \[08/16/2015\]
 - [Laravel Bootstrap Starter Site](https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site) - Laravel 5 application starter configuration with built-in Bootstrap 3 and [DataTables](https://datatables.net/) support.
@@ -438,7 +440,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
 - [Owl](https://github.com/owl/owl) - Simple collaboration tool built on Laravel with support for "favorites" and tags, full text search, email and Slack notifications, and more. \[07/22/2016\]
 - [ReMark](https://github.com/Technopathic/ReMark) - Blogging platform with built-in feed aggregator and multimedia hosting built on Laravel and [AngularJS](https://angularjs.org/). \[07/22/2016\]
-- [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application build on Laravel 5.x that supports task weighting and project sharing. \[03/28/2016\]
+- [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application built on Laravel 5.x and [Vue.js](https://vuejs.org/) that supports task weighting and project sharing. \[03/28/2016\]
 - [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
 - [Scrumwala](https://github.com/modestkdr/Scrumwala) - A Scrum/agile web application, with plan and work views, for personal use. \[05/29/2015\]
@@ -622,6 +624,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)
+- [Matthew Daly](http://matthewdaly.co.uk/blog/categories/laravel/) \[09/09/2016\]
 - [Matthew Hailwood](http://matthewhailwood.co.nz/)
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Maurizio Bonani](http://blog.mauriziobonani.com/tags/#laravel) \[09/02/2016\]

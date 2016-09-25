@@ -158,6 +158,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraGeo](https://github.com/Fuhrmann/larageo-plugin) - Laravel package wrapper for [geoPlugin](http://www.geoplugin.com/webservices/json) IP address-to-locality web service.
 - [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Package to provide full Google Maps support to Laravel. \[07/30/2016\]
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
+- [Postcode](https://github.com/garygreen/Postcode) - Simple searching by postal codes for geographic information, including latitude/longitude. \[09/24/2016\]
 
 ### Helpers/General
 - [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
@@ -203,6 +204,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
 - [Registry Manager](https://github.com/Torann/laravel-registry) - Complete package for managing application configuration settings in database with cache support for better performance. \[05/20/2015\]
 - [Settings](https://github.com/edvinaskrucas/settings) - A persistent setting package for Laravel that includes encrypting/decrypting values, caching, events, and more. \[10/06/2015\]
+- [Socieboy Forum](https://github.com/socieboy/forum) - Forum package for use with any Laravel 5 application. \[09/24/2016\]
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 

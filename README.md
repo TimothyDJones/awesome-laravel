@@ -466,6 +466,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ahesanali Suthar](https://ahesanalisuthar.wordpress.com/tag/laravel/)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Alex Sears](http://alexsears.com/)
+- [Alex Kyriakidis](https://dotdev.co/@hootlex) \[10/01/2016\]
 - [Alexander Trauzzi](http://atrauzzi.blogspot.ca/) \[04/07/2015\]
 - [Alfred Nutile](http://alfrednutile.info/posts)
 - [Amit Gaur](http://agalaxyphp.blogspot.com/search/label/Laravel)

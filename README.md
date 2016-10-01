@@ -39,9 +39,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PropAuth](https://github.com/psecio/propauth) - Package that supports property-based security policy evaluation. See tutorial [here](https://websec.io/2015/10/07/Security-Policy-Evaluation-Laravel-PropAuth.html). \[01/04/2015\]
 - [Purifier](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
 - [Roles](https://github.com/romanbican/roles) - Powerful package for handling roles and permissions in Laravel. \[07/16/2015\]
-- [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication & authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
+- [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication and authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]
-- [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 & 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
+- [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 and 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
 - [URL Signer](https://github.com/spatie/laravel-url-signer) - Improve Laravel security by creating URLs with limited lifetime (similar to AWS signed URLs). \[08/16/2015\]
 
 ### Boilerplate/Customized Configurations
@@ -112,6 +112,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Design Pattern Tools
 - [Laravel Context](https://github.com/rtroncoso/Laravel-Context) - Provides application contextual support for using different service providers, such as the case of admin functionality versus regular functionality. \[07/07/2015\]
+- [Repositories Maker](https://github.com/abdelrahmanrafaat/repositories-maker) - Adds Artisan command to auto-generate repositories for all Eloquent models. \[10/01/2016\]
 
 ### Development Tools
 - [Artisan View](https://github.com/svenluijten/artisan-view) - Adds a `make:view` [Artisan](https://laravel.com/docs/artisan) command for generating a Blade view file. \[07/27/2016\]

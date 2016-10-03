@@ -11,6 +11,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
 
 ### Admin Tools/Panels
+- [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Simple admin panel with database CRUD support and built-in support for Laravel Auth. \[09/06/2016\]
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
 - [Laravel Admin Panel](https://github.com/appzcoder/laravel-admin) - Laravel tool for managing users, roles, permissions, and CRUD generation. \[04/12/2016\]
@@ -38,9 +39,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PropAuth](https://github.com/psecio/propauth) - Package that supports property-based security policy evaluation. See tutorial [here](https://websec.io/2015/10/07/Security-Policy-Evaluation-Laravel-PropAuth.html). \[01/04/2015\]
 - [Purifier](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
 - [Roles](https://github.com/romanbican/roles) - Powerful package for handling roles and permissions in Laravel. \[07/16/2015\]
-- [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication & authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
+- [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication and authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]
-- [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 & 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
+- [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 and 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
 - [URL Signer](https://github.com/spatie/laravel-url-signer) - Improve Laravel security by creating URLs with limited lifetime (similar to AWS signed URLs). \[08/16/2015\]
 
 ### Boilerplate/Customized Configurations
@@ -111,6 +112,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Design Pattern Tools
 - [Laravel Context](https://github.com/rtroncoso/Laravel-Context) - Provides application contextual support for using different service providers, such as the case of admin functionality versus regular functionality. \[07/07/2015\]
+- [Repositories Maker](https://github.com/abdelrahmanrafaat/repositories-maker) - Adds Artisan command to auto-generate repositories for all Eloquent models. \[10/01/2016\]
 
 ### Development Tools
 - [Artisan View](https://github.com/svenluijten/artisan-view) - Adds a `make:view` [Artisan](https://laravel.com/docs/artisan) command for generating a Blade view file. \[07/27/2016\]
@@ -144,6 +146,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [SmartSeeder](https://github.com/slampenny/SmartSeeder) - SmartSeeder extends database seeding beyond development to allow to use different seed data depending on the environment.
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Environment](https://github.com/jpcercal/environment) - A simple library to increase the power of your environment variables.
+- [TNT Search](https://github.com/teamtnt/tntsearch) - Full-featured full-text search engine. \[10/01/2016\]
 
 ### E-commerce
 - [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]
@@ -412,6 +415,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [EESTEC Platform for Local Committees](https://github.com/angelov/eestec-platform) - Committee management tool for engineering student association. \[11/23/2015\]
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [IVD Assets](https://github.com/TTFerreira/ivd-assets) - IT asset management and ticketing application. \[08/02/2016\]
+- [Kanban](https://github.com/themsaid/kanban) - Open-source [Kanban](https://en.wikipedia.org/wiki/Kanban) board build with Laravel and Vue.js. \[10/01/2016\]
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]
 - [Larapress](https://github.com/larapress-cms/larapress) - A work-in-progress CMS built on Laravel 4, which provides good example of building application with Laravel.
@@ -464,6 +468,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ahesanali Suthar](https://ahesanalisuthar.wordpress.com/tag/laravel/)
 - [Alan Storm](http://alanstorm.com/category/laravel)
 - [Alex Sears](http://alexsears.com/)
+- [Alex Kyriakidis](https://dotdev.co/@hootlex) \[10/01/2016\]
 - [Alexander Trauzzi](http://atrauzzi.blogspot.ca/) \[04/07/2015\]
 - [Alfred Nutile](http://alfrednutile.info/posts)
 - [Amit Gaur](http://agalaxyphp.blogspot.com/search/label/Laravel)
@@ -635,6 +640,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Metric Loop](https://metricloop.com/blog/tag/Laravel) \[09/02/2016\]
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Michael Dyrynda](https://dyrynda.com.au/blog?tag=laravel) \[05/26/2016\]
+- [Michael Stivala](https://michaelstivala.com/) \[10/01/2016\]
 - [Mitch Stanley](http://fullstackstanley.com/read/categories/laravel) \[09/16/2015\]
 - [Mohamed Said](http://themsaid.github.io/) \[04/13/2016\]
 - [Morgan Davidson](http://morgandavison.com/tag/laravel/) \[09/02/2016\]
@@ -715,6 +721,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Go Laravel](http://www.golaravel.com/) - Chinese-language forum and shared blog site for Laravel. \[04/22/2015\]
 - [Google+ Laravel Community](https://plus.google.com/communities/106838454910116161868)
 - [LaraChat](https://larachat.co/) - A Slack channel for learning and sharing about Laravel framework. \[09/04/2015\]
+- [Laravel China](https://laravel-china.org/) \[10/01/2016\]
 - [Laravel LinkedIn Group](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 - [Laravel Recipes](http://laravel-recipes.com/)
 - [Laravel Reddit](http://www.reddit.com/r/laravel/)

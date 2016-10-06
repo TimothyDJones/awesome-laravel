@@ -455,6 +455,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [TodoParrot](https://github.com/wjgilmore/todoparrot) - Simple "To Do" application described in [Easy Laravel 5](http://easylaravelbook.com/). \[05/28/2016\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
 - [Todo Laravel](https://github.com/anam-hossain/Todo-laravel) - A simple Todo app which is built with Laravel 4, Bootstrap 3.0 and AngularJS. \[05/13/2015\]
+- [Unreal Estate](https://github.com/thejettdurham/unrealestate) - Simple real estate listings RESTful web application. \[10/06/2016\]
 - [Webloyer](https://github.com/ngmy/webloyer) - A Web UI for managing [Deployer](http://deployer.org/) deployments. \[11/23/2015\]
 - [Zagros Bug Tracking System](http://mohsen-shafiee.github.io/Zagros/) - Simple development bug tracking application built on Laravel 4. \[04/29/2015\]
 

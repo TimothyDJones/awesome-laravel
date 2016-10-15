@@ -416,6 +416,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [EESTEC Platform for Local Committees](https://github.com/angelov/eestec-platform) - Committee management tool for engineering student association. \[11/23/2015\]
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [IVD Assets](https://github.com/TTFerreira/ivd-assets) - IT asset management and ticketing application. \[08/02/2016\]
+- [JobsToMail](https://github.com/jobapis/jobs-to-mail) - Opt-in platform for receiving daily e-mail on job postings on 8 popular job boards that uses [JobsApi](http://www.jobapis.com/). \[10/10/2016\]
 - [Kanban](https://github.com/themsaid/kanban) - Open-source [Kanban](https://en.wikipedia.org/wiki/Kanban) board build with Laravel and Vue.js. \[10/01/2016\]
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]
@@ -447,6 +448,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
+- [Origin CMS](https://github.com/akhileshdarjee/origin-cms) - Full-featured CMS built on Laravel 5.2 that can be used as application boilerplate. \[10/10/2016\]
 - [Owl](https://github.com/owl/owl) - Simple collaboration tool built on Laravel with support for "favorites" and tags, full text search, email and Slack notifications, and more. \[07/22/2016\]
 - [ReMark](https://github.com/Technopathic/ReMark) - Blogging platform with built-in feed aggregator and multimedia hosting built on Laravel and [AngularJS](https://angularjs.org/). \[07/22/2016\]
 - [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application built on Laravel 5.x and [Vue.js](https://vuejs.org/) that supports task weighting and project sharing. \[03/28/2016\]
@@ -456,6 +458,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [TodoParrot](https://github.com/wjgilmore/todoparrot) - Simple "To Do" application described in [Easy Laravel 5](http://easylaravelbook.com/). \[05/28/2016\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
 - [Todo Laravel](https://github.com/anam-hossain/Todo-laravel) - A simple Todo app which is built with Laravel 4, Bootstrap 3.0 and AngularJS. \[05/13/2015\]
+- [Unreal Estate](https://github.com/thejettdurham/unrealestate) - Simple real estate listings RESTful web application. \[10/06/2016\]
 - [Webloyer](https://github.com/ngmy/webloyer) - A Web UI for managing [Deployer](http://deployer.org/) deployments. \[11/23/2015\]
 - [Zagros Bug Tracking System](http://mohsen-shafiee.github.io/Zagros/) - Simple development bug tracking application built on Laravel 4. \[04/29/2015\]
 
@@ -658,6 +661,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
+- [PHP Expert](http://www.expertphp.in/tag/laravel-php-framework) \[10/03/2016\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]
 - [PiedCode (Simon Reinsperger)](http://www.piedcode.com/tag/laravel/) \[09/08/2015\]
 - [Prasenjit Kumar Nag](http://joycse06.github.io/blog/categories/laravel/) \[03/09/2016\]

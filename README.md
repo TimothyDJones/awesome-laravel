@@ -677,6 +677,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rizqi Djamaluddin](http://rizqi.id/archive) \[05/03/2016\]
 - [Ryan Chenkie](http://ryanchenkie.com/category/laravel/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+- [Ryan Winchester](https://ryanwinchester.ca/posts) \[10/15/2016\]
 - [Sarav](http://sarav.co/blog/) 
 - [Scotch.io](http://scotch.io/)
 - [Servage](https://www.servage.net/blog/tag/laravel/) \[08/16/2016\]

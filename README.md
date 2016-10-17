@@ -167,8 +167,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
 - [Blade](https://github.com/duncan3dc/blade) - Allows you to use Laravel Blade templates as standalone components outside of Laravel. \[10/17/2016\]
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
-- [Captain Hook](https://github.com/mpociot/captainhook) - Adds support for [web hooks](https://en.wikipedia.org/wiki/Webhook) (a.k.a. callback functions) in Laravel driven by Laravel's [Event](http://laravel.com/docs/5.1/events) system. \[11/04/2015\]
-- [CSS Colors](https://github.com/SoapBox/css-colors) - Tool to automatically produce color variations/gradients for foreground and background based on input CSS hex color (wrapper for [this PHP class](http://www.barelyfitz.com/projects/csscolor/)).  \[04/05/2015\]
+- [Captain Hook](https://github.com/mpociot/captainhook) - Adds support for [web hooks](https://en.wikipedia.org/wiki/Webhook) (a.k.a. callback functions) in Laravel  Package supporting multiple JavaScript charting libraries, including ChartJS, Highcharts, Chartist, and more. \[10/15/2016\]driven by Laravel's [Event](http://laravel.com/docs/5.1/events) system. \[11/04/2015\]
+- [Charts](https://github.com/ConsoleTVs/Charts) - Package supporting multiple JavaScript interactive charting libraries, including [ChartJS](http://www.chartjs.org/), [Highcharts](http://www.highcharts.com/), [Chartist](https://github.com/gionkunz/chartist-js), and more. \[10/15/2016\]
+- [CSS Colors](https://github.com/SoapBox/css-colors) - Tool to automatically produce color variations/gradients for foreground and background based on input CSS hex color (wrapper for [this PHP class](http://www.barelyfitz.com/projects/css-color/)).  \[04/05/2015\] 
 - [dd](https://github.com/marktopper/dd) - Laravel 4 helper similar to [new `dd` from Laravel 5](https://laravel-news.com/2014/12/laravel-5-dd-gets-upgrade/).
 - [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 - [Ekko](https://github.com/laravelista/Ekko) - Laravel helper package that detects active Bootstrap navigation menu (navbar) item and applies `'active'` class. \[07/18/2015\]
@@ -201,6 +202,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
 - [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
+- [Laravel Taggable Trait](https://github.com/rtconner/laravel-tagging) - Trait and library to support managing tags on your models. \[10/15/2016\] 
 - [MailThief](https://github.com/tightenco/mailthief) - A fake mailer for Laravel applications that makes it easy to test mail without actually sending any emails. \[07/07/2016\]
 - [PDF Laravel 5](https://github.com/vsmoraes/pdf-laravel5) - Package wrapper for [DOMPDF](http://dompdf.github.io/) HTML-to-PDF conversion library. \[08/16/2015\] 
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
@@ -477,6 +479,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Alfred Nutile](http://alfrednutile.info/posts)
 - [Amit Gaur](http://agalaxyphp.blogspot.com/search/label/Laravel)
 - [Amitav Roy](http://amitavroy.com/)
+- [Amo Chohan](https://dotdev.co/@amo.chohan) \[10/15/2016\]
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Andy Fleming](http://andyfleming.com/articles-by-topic/lumen/) \[07/16/2015\]
@@ -623,6 +626,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Liza Shulyayeva](http://liza.io) \[09/22/2015\]
 - [Luca Bernardino](http://www.codeanchor.net/) \[07/13/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
+- [Lukas White](http://lukaswhite.com/blog) \[10/15/2016\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Made With Love](http://blog.madewithlove.be/) \[08/16/2015\]
 - [Maks Surguy](http://maxoffsky.com/blog/)
@@ -676,6 +680,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rizqi Djamaluddin](http://rizqi.id/archive) \[05/03/2016\]
 - [Ryan Chenkie](http://ryanchenkie.com/category/laravel/)
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+- [Ryan Winchester](https://ryanwinchester.ca/posts) \[10/15/2016\]
 - [Sarav](http://sarav.co/blog/) 
 - [Scotch.io](http://scotch.io/)
 - [Servage](https://www.servage.net/blog/tag/laravel/) \[08/16/2016\]

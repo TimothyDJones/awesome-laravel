@@ -165,6 +165,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Helpers/General
 - [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
+- [Blade](https://github.com/duncan3dc/blade) - Allows you to use Laravel Blade templates as standalone components outside of Laravel. \[10/17/2016\]
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
 - [Captain Hook](https://github.com/mpociot/captainhook) - Adds support for [web hooks](https://en.wikipedia.org/wiki/Webhook) (a.k.a. callback functions) in Laravel driven by Laravel's [Event](http://laravel.com/docs/5.1/events) system. \[11/04/2015\]
 - [CSS Colors](https://github.com/SoapBox/css-colors) - Tool to automatically produce color variations/gradients for foreground and background based on input CSS hex color (wrapper for [this PHP class](http://www.barelyfitz.com/projects/csscolor/)).  \[04/05/2015\]

@@ -165,6 +165,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Helpers/General
 - [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
+- [Blade](https://github.com/duncan3dc/blade) - Allows you to use Laravel Blade templates as standalone components outside of Laravel. \[10/17/2016\]
 - [Blade on Steroids](https://github.com/antonioribeiro/steroids) - Several enhancements to the standard Blade syntax, including sub-templating and much more.
 - [Captain Hook](https://github.com/mpociot/captainhook) - Adds support for [web hooks](https://en.wikipedia.org/wiki/Webhook) (a.k.a. callback functions) in Laravel  Package supporting multiple JavaScript charting libraries, including ChartJS, Highcharts, Chartist, and more. \[10/15/2016\]driven by Laravel's [Event](http://laravel.com/docs/5.1/events) system. \[11/04/2015\]
 - [Charts](https://github.com/ConsoleTVs/Charts) - Package supporting multiple JavaScript interactive charting libraries, including [ChartJS](http://www.chartjs.org/), [Highcharts](http://www.highcharts.com/), [Chartist](https://github.com/gionkunz/chartist-js), and more. \[10/15/2016\]

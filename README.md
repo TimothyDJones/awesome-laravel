@@ -445,6 +445,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
 - [Mapigniter](http://sourceforge.net/projects/mapigniter2/) - A web mapping platform to publish and manage geographic information powered by Laravel 5, [OpenLayers 3](http://openlayers.org/) and AngularJS packaged as a [Virtual Box](https://www.virtualbox.org/) OVA. \[12/05/2015\]
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
+- [Phonebook](https://github.com/adibhanna/phonebook) - Basic contact manager that demonstrates construction of simple Laravel application. \[10/15/2016\]
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
@@ -611,6 +612,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Koomai](http://blog.koomai.net/)
 - [Kovah](https://kovah.me/en/tag/laravel/) \[11/09/2015\]
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
+- [Kyle Huynh](http://kylehuynh.com/blogs/category/c8-technology-blog/laravel/) \[10/18/2016\]
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laracasts Snippets](https://laracasts.simplecast.fm/) \[08/11/2016\]
 - [Laratips](https://laratips.io/) \[07/07/2016\]

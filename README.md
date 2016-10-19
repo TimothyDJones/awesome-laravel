@@ -589,6 +589,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jeff Madsen (codebyjeff)](http://codebyjeff.com/blog) \[06/08/2015\]
 - [Jeff Mould](http://www.jeffmould.com/category/laravel/) \[07/22/2016\]
 - [Jens Segers](http://jenssegers.be/)
+- [Jesper Jarlskov](https://jesperjarlskov.dk/category/software/laravel/) \[10/18/2016\]
 - [Jesse Schutt](http://zaengle.com/blog/tag/laravel) \[04/13/2016\]
 - [Jim Frenette](http://jimfrenette.com/tag/laravel/) \[07/09/2016\]
 - [Joe Ferguson](http://www.joeferguson.me/blog/) \[08/30/2015\]

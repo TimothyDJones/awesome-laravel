@@ -622,6 +622,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
 - [Laravel Feed](http://laravelfeed.com/) \[04/26/2016\]
 - [Laravel Tips (Bill Keck)](https://laraveltips.wordpress.com/) \[04/26/2016\]
+- [Laravel Tips ‘N Tricks](http://laraveltnt.com/) \[10/18/2016\]
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Logan Bailey](http://logansbailey.com/) \[04/18/2016\]

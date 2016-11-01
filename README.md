@@ -57,6 +57,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laracogs](http://laracogs.com/) - Package that includes helpers for Bootstrap, CRUD, notifications, billing via Cashier, and form generation. \[04/26/2016\]
 - [LaraLTE2](https://github.com/kossa/laralte2) - Laravel PHP Framework with [AdminLTE2](https://almsaeedstudio.com/AdminLTE) and other packages and JavaScript tools. \[06/04/2016\]
 - [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]
+- [Laravel Angular Admin](https://github.com/silverbux/laravel-angular-admin) - Laravel, AngularJS, Bootstrap, and AdminLTE with OAuth and JWT authentication. \[10/18/2016\]
 - [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Laravel 5 and [Angular Material](https://material.angularjs.org/) with sample config for ui-router, Restangular, theming, etc. See tutorial on use [here](http://www.sitepoint.com/flexible-and-easily-maintainable-laravel-angular-material-apps/).
 - [Laravel 5 Boilerplate](https://github.com/repeater09/Laravel-5-Boilerplate) - Laravel 5 application boilerplate built with [Skeleton](http://getskeleton.com/), [Sidr](http://www.berriart.com/sidr/), and [Fontastic](http://fontastic.me/).
 - [Laravel 5 Boilerplate](https://github.com/rappasoft/Laravel-5-Boilerplate) - Responsive Laravel 5 application template with [Bootstrap 3](http://www.getbootstrap.com/), [HTML 5 Boilerplate](http://www.html5boilerplate.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/), and more.
@@ -448,6 +449,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
 - [Mapigniter](http://sourceforge.net/projects/mapigniter2/) - A web mapping platform to publish and manage geographic information powered by Laravel 5, [OpenLayers 3](http://openlayers.org/) and AngularJS packaged as a [Virtual Box](https://www.virtualbox.org/) OVA. \[12/05/2015\]
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
+- [Phonebook](https://github.com/adibhanna/phonebook) - Basic contact manager that demonstrates construction of simple Laravel application. \[10/15/2016\]
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
@@ -530,6 +532,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
 - [David Hemphill](http://davidhemphill.com/blog/) \[07/09/2015\]
 - [Delia Curiel](http://www.scoop.it/t/laravel-by-delia-curiel) \[07/02/2015\]
+- [Delicious Brains](https://deliciousbrains.com/tag/laravel/) \[10/30/2016\]
 - [Dennis Decoene](http://avidsoftware-be.github.io/) (German/[English translation](https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Favidsoftware-be.github.io%2F)) \[09/10/2015\]
 - [Designing Lives](http://designinglives.net/) \[07/07/2015\]
 - [DevMarketer](http://devmarketer.io/learn/category/laravel/) \[09/24/2016\]
@@ -590,6 +593,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jeff Madsen (codebyjeff)](http://codebyjeff.com/blog) \[06/08/2015\]
 - [Jeff Mould](http://www.jeffmould.com/category/laravel/) \[07/22/2016\]
 - [Jens Segers](http://jenssegers.be/)
+- [Jesper Jarlskov](https://jesperjarlskov.dk/category/software/laravel/) \[10/18/2016\]
 - [Jesse Schutt](http://zaengle.com/blog/tag/laravel) \[04/13/2016\]
 - [Jim Frenette](http://jimfrenette.com/tag/laravel/) \[07/09/2016\]
 - [Joe Ferguson](http://www.joeferguson.me/blog/) \[08/30/2015\]
@@ -614,6 +618,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Koomai](http://blog.koomai.net/)
 - [Kovah](https://kovah.me/en/tag/laravel/) \[11/09/2015\]
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
+- [Kyle Huynh](http://kylehuynh.com/blogs/category/c8-technology-blog/laravel/) \[10/18/2016\]
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laracasts Snippets](https://laracasts.simplecast.fm/) \[08/11/2016\]
 - [Laratips](https://laratips.io/) \[07/07/2016\]
@@ -622,6 +627,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
 - [Laravel Feed](http://laravelfeed.com/) \[04/26/2016\]
 - [Laravel Tips (Bill Keck)](https://laraveltips.wordpress.com/) \[04/26/2016\]
+- [Laravel Tips ‘N Tricks](http://laraveltnt.com/) \[10/18/2016\]
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Logan Bailey](http://logansbailey.com/) \[04/18/2016\]
@@ -668,6 +674,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
 - [PHP Expert](http://www.expertphp.in/tag/laravel-php-framework) \[10/03/2016\]
+- [PHP Lab](http://www.phplab.info/) \[10/18/2016\]
 - [PHP Ocean](http://phpocean.com/tutorials/back-end) \[07/30/2015\]
 - [PiedCode (Simon Reinsperger)](http://www.piedcode.com/tag/laravel/) \[09/08/2015\]
 - [Prasenjit Kumar Nag](http://joycse06.github.io/blog/categories/laravel/) \[03/09/2016\]
@@ -724,6 +731,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Websanova](http://www.websanova.com/blog/) \[09/23/2015\]
+- [Webs Mentor](https://websmentor.wordpress.com/category/laravel/) \[10/18/2016\]
 - [WSnippets](http://wsnippets.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
 - [zwacky](https://medium.com/@zwacky)

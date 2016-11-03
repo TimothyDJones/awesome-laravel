@@ -16,6 +16,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
 - [Laravel Admin Panel](https://github.com/appzcoder/laravel-admin) - Laravel tool for managing users, roles, permissions, and CRUD generation. \[04/12/2016\]
 - [Laravel Administrator](http://administrator.frozennode.com/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
+- [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
 
 ### Algorithms/Data Structures
 - [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
@@ -49,6 +50,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
 - [Bootstrapper for Laravel](http://bootstrapper.eu1.frbit.net/) - Laravel package that provides fluent interface for using [Bootstrap](http://getbootstrap.com/) CSS framework in Laravel. \[11/09/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
+- [Fountain](https://darovi.co/fountain) - Comprehensive application builder for Laravel 5 including ecommerce, invoicing and more. \[10/17/2016\]
 - [Hexavel](https://github.com/peterfox/hexavel) - Restructured version of Laravel framework to provide streamlined workflows and simplify development process. \[12/30/2015\]
 - [HTG Laravel](https://github.com/euperia/htg-laravel) - Basic Laravel boilerplate with [AdminLTE](https://almsaeedstudio.com/AdminLTE) focused on rapid prototyping. \[07/28/2016\]
 - [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]

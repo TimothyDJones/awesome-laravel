@@ -39,6 +39,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [OAuth-5-Laravel](https://github.com/andrewxtsang/oauth-5-laravel) - Laravel **5.x** package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers. \[07/20/2015\]
 - [PropAuth](https://github.com/psecio/propauth) - Package that supports property-based security policy evaluation. See tutorial [here](https://websec.io/2015/10/07/Security-Policy-Evaluation-Laravel-PropAuth.html). \[01/04/2015\]
 - [Purifier](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
+- [ReplayPHP Auth](https://github.com/replayphp/auth) - Enhancements to the Laravel 5 Auth module. \[11/07/2016\]
 - [Roles](https://github.com/romanbican/roles) - Powerful package for handling roles and permissions in Laravel. \[07/16/2015\]
 - [Sentinel](https://github.com/cartalyst/sentinel) - Fully-featured, framework-agnostic (works great with Laravel!) authentication and authorization system.  (Successor to [Cartalyst](https://cartalyst.com/)'s [Sentry](https://github.com/cartalyst/sentry) library.) \[07/02/2015\] 
 - [SleepingOwl Admin](http://sleeping-owl.github.io/) - An administrative interface builder for Laravel models that supports customization. \[04/27/2015\]

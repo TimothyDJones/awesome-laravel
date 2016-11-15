@@ -144,6 +144,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates Laravel with [PHP Debug Bar](http://phpdebugbar.com/) to display debugging during application testing.
 - [Laravel Resourceful](https://github.com/remoblaser/laravel-resourceful) - Generates full complement of CRUD resource Laravel code, including migrations, seeds, requests, controllers, models, and views. \[04/20/2015\]
 - [Links](https://github.com/ConsoleTVs/Links) - Package for link statistics and tracking, including browser type, OS, language, and more. \[11/04/2016\]
+- [Make:User](https://github.com/laracademy/commands.make-user) - Adds an Artisan command for generating a new user account based on e-mail address with optional name. \[11/15/2016\]
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
 - [PHP Console](https://github.com/barbushin/php-console-laravel) - Laravel package wrapper/service provider to handle PHP errors, dump variables, execute PHP code remotely, etc. in Google Chrome with [PHP Console extension](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef).
 - [Potion](https://github.com/Classy-Geeks/laravel-potion) - Asset management tool for Laravel 5 based off of Assetic with only PHP dependencies.  \[04/05/2015\]

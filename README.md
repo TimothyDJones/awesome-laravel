@@ -273,6 +273,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Tutorials
 
 ### Tutorials (General)
+- [Getting Started with Pusher and Laravel Echo](https://www.youtube.com/watch?v=Qoti7G-tjN8) - In this screencast, The Skater Dev teaches how to build a real-time comments component using Laravel, Laravel Echo, and the Pusher Laravel Echo integration.
 - [25 Laravel Tips and Tricks](http://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818) - Jeffrey Way gives a nice overview/introduction to Laravel 4 in the form of more than two dozen tips.
 - [Laravel 101](https://github.com/cviebrock/laravel-101-slides) - Colin Viebrock's introduction to Laravel with associated code.
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
@@ -494,7 +495,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Andreas Lutro](http://www.lutro.me/)
 - [Andy Fleming](http://andyfleming.com/articles-by-topic/lumen/) \[07/16/2015\]
 - [Anytch.com](http://anytch.com/category/laravel/) \[09/02/2016\]
-- [Arda Kılıçdağı](https://arda.pw/tag/laravel/) \[09/30/2015\]
+- [Arda KÄ±lÄ±Ã§daÄÄ±](https://arda.pw/tag/laravel/) \[09/30/2015\]
 - [Armen Markossyan](http://blog.armen.im/tag/laravel/) \[06/01/2015\]
 - [Asked.io](https://asked.io/search/laravel) \[04/13/2016\]
 - [AskJong](http://www.askjong.com/) \[10/08/2015\]
@@ -606,7 +607,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
 - [Jon Phipps](http://jonstuff.blogspot.ca/search/label/Laravel%205) \[11/30/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
-- [José Padilla](http://jpadilla.com/tagged/laravel) \[12/01/2015\]
+- [JosÃ© Padilla](http://jpadilla.com/tagged/laravel) \[12/01/2015\]
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Joseph Silber](https://josephsilber.com/posts) \[09/06/2016\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
@@ -633,7 +634,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
 - [Laravel Feed](http://laravelfeed.com/) \[04/26/2016\]
 - [Laravel Tips (Bill Keck)](https://laraveltips.wordpress.com/) \[04/26/2016\]
-- [Laravel Tips �N Tricks](http://laraveltnt.com/) \[10/18/2016\]
+- [Laravel Tips N Tricks](http://laraveltnt.com/) \[10/18/2016\]
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Logan Bailey](http://logansbailey.com/) \[04/18/2016\]
@@ -651,7 +652,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
 - [Marty Thomas](https://martythomas.svbtle.com/) \[09/02/2016\]
-- [Mateus Guimarães](http://mguimaraes.co/) \[01/16/2016\]
+- [Mateus GuimarÃ£es](http://mguimaraes.co/) \[01/16/2016\]
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)

@@ -220,6 +220,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Settings](https://github.com/edvinaskrucas/settings) - A persistent setting package for Laravel that includes encrypting/decrypting values, caching, events, and more. \[10/06/2015\]
 - [Socieboy Forum](https://github.com/socieboy/forum) - Forum package for use with any Laravel 5 application. \[09/24/2016\]
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
+- [Throttle](https://github.com/AltThree/Throttle) - A request rate-limiter for Laravel. \[11/19/2016\]
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
 
 ### JavaScript Framework Support

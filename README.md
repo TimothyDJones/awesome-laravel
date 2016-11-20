@@ -711,6 +711,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stefan Zweifel](https://stefanzweifel.io/posts/) \[07/22/2016\]
 - [Stephen Rees-Carter](http://stephen.rees-carter.net/tag/laravel)
 - [Steve Azzopardi](https://medium.com/@steveazz) \[04/05/2016\]
+- [Steven Maguire](https://stevenmaguire.com/publications/) \[11/19/2016\]
 - [Stidges' Blog](http://blog.stidges.com/)
 - [StillAt (Johnathon Koster)](http://www.stillat.com/) 
 - [Stormpath](https://stormpath.com/blog/category/php) \[08/11/2016\]

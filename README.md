@@ -55,7 +55,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Hexavel](https://github.com/peterfox/hexavel) - Restructured version of Laravel framework to provide streamlined workflows and simplify development process. \[12/30/2015\]
 - [HTG Laravel](https://github.com/euperia/htg-laravel) - Basic Laravel boilerplate with [AdminLTE](https://almsaeedstudio.com/AdminLTE) focused on rapid prototyping. \[07/28/2016\]
 - [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]
-- [LaraAdmin](http://laraadmin.com/) - LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more. \[04/26/2016\]
+- [LaraAdmin](http://laraadmin.com/) - LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more. \[12/13/2016\]
 - [Laracogs](http://laracogs.com/) - Package that includes helpers for Bootstrap, CRUD, notifications, billing via Cashier, and form generation. \[04/26/2016\]
 - [LaraLTE2](https://github.com/kossa/laralte2) - Laravel PHP Framework with [AdminLTE2](https://almsaeedstudio.com/AdminLTE) and other packages and JavaScript tools. \[06/04/2016\]
 - [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]

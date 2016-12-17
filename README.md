@@ -181,6 +181,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [dd](https://github.com/marktopper/dd) - Laravel 4 helper similar to [new `dd` from Laravel 5](https://laravel-news.com/2014/12/laravel-5-dd-gets-upgrade/).
 - [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Extends Eloquent to include a "sluggable" trait for easy generation of [slugs](http://en.wikipedia.org/wiki/Semantic_URL#Slug).
 - [Ekko](https://github.com/laravelista/Ekko) - Laravel helper package that detects active Bootstrap navigation menu (navbar) item and applies `'active'` class. \[07/18/2015\]
+- [CSV/XLS File Validator](https://github.com/mdcass/file-validator) - Package for applying validation rules to CSV and XLS files to ensure they conform to your schema. \[12/16/2016\]
 - [Flashy](https://github.com/mercuryseries/flashy) - Easy flash notifications for Laravel. \[01/21/2016\]
 - [Full Calendar Helper](https://github.com/maddhatter/laravel-fullcalendar) - Package to simplify interaction with [FullCalendar.io](http://fullcalendar.io/) in Laravel. \[09/08/2015\]
 - [Gazatem DbLogger](http://www.gazatem.com/) - Package for saving Monolog log output to database using the existing Laravel API. \[03/01/2016\]

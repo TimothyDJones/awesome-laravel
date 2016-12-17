@@ -161,6 +161,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Amazon ECS (E-Commerce Services)](https://github.com/JoeDawson/amazon-ecs) - Package to allow searching the Amazon product catalog. \[12/18/2015\]
 - [Laragento](https://github.com/develpr/laragento) - A Laravel + [Magento](http://magento.com/) mashup, for directly accessing Magento data via RESTful API provided by Laravel. \[10/12/2015\]
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
+- [Mage2](https://github.com/mage2/laravel-ecommerce) - Laravel e-commerce package with built-in Paypal support. \[12/16/2016\]
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
 
 ### GIS/Mapping

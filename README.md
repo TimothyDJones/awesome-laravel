@@ -320,6 +320,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Applications Built with Laravel
 - _[External List of Laravel Applications](https://github.com/unicodeveloper/awesome-opensource-webapps#laravel)_ \[03/28/2016\]
+- _[Another Directory of Laravel Applications](https://devpost.com/software/built-with/laravel) \[12/31/2016\]
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
 - [AccountsPortal](http://www.accountsportal.com/) - Hosted online accounting application with support for invoicing, books and accounts. \[04/20/2015\]
 - [Asgard CMS](http://asgardcms.com/) - CMS built with Laravel with goals of modularity, multi-language support, and ease of installation.

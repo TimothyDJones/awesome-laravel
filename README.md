@@ -600,6 +600,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [How To Solve Now](http://www.howtosolvenow.com/category/language/php/larevel/) \[09/02/2016\]
 - [Isaac Castillo](http://icastwork.com/) \[09/10/2015\]
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
+- [Inani El Houssain](https://medium.com/@InaniT0) \[12/31/2016\]
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Ionut Bajescu](http://ionut-bajescu.com/)
 - [ItSolutionStuff](http://itsolutionstuff.com/tag/laravel.html)

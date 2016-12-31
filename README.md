@@ -539,6 +539,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Codingo](https://tuts.codingo.me/category/web-development/laravel) \[07/07/2016\]
 - [CoffeeCupWeb](http://coffeecupweb.com/category/laravel/) \[08/06/2015\]
 - [Cogito, Ergo Sum (Shankar Manamalkav)](https://mnshankar.wordpress.com/)
+- [Connor Leech](https://medium.com/@connorleech) \[12/31/2016\]
 - [Coveros](https://www.coveros.com/tag/laravel/) \[05/17/2016\]
 - [Craig Morris](https://medium.com/@morrislaptop) \[05/06/2015\]
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)

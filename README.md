@@ -721,6 +721,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sarav](http://sarav.co/blog/) 
 - [Scotch.io](http://scotch.io/)
 - [Servage](https://www.servage.net/blog/tag/laravel/) \[08/16/2016\]
+- [Sillo (in French)](http://laravel.sillo.org/) \[01/08/2017\]
 - [Simon Archer (ArchyBold)](http://www.archybold.com/blog/tagged/laravel) \[06/08/2015\]
 - [Simon Hamp](https://medium.com/@simonhamp) \[02/08/2016\]
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)

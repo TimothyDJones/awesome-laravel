@@ -698,6 +698,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]
 - [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
+- [PHP Builder](http://www.phpbuilder.com/) \[01/08/2017\]
 - [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
 - [PHP Expert](http://www.expertphp.in/tag/laravel-php-framework) \[10/03/2016\]
 - [PHP Lab](http://www.phplab.info/) \[10/18/2016\]

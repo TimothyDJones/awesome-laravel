@@ -597,6 +597,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
 - [George Bohnisch](http://georgebohnisch.com/) \[08/30/2015\]
 - [Geshan Manandhar](http://geshan.com.np/blog/categories/laravel/) \[07/28/2015\]
+- [Gijs Jorissen](https://medium.com/@gizburdt) \[01/25/2017\]
 - [Glen Davies](http://caughtexceptions.blogspot.co.nz/) \[04/14/2015\]
 - [Gilbert Pellegrom](http://gilbert.pellegrom.me/tag/laravel/)
 - [Gliding Phenomena (Ravi Panchumarthy)](http://glidingphenomena.blogspot.com/search/label/laravel)

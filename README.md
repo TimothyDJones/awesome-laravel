@@ -701,6 +701,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Oliver Kaufmann](https://okaufmann.ch/) \[11/19/2016\]
 - [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]
+- [Pascal Baljet](https://pascalbaljetmedia.com/en/blog/tag/laravel) \[02/04/2017\]
 - [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [PHP Builder](http://www.phpbuilder.com/) \[01/08/2017\]

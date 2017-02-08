@@ -796,8 +796,13 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laracon US](http://laracon.us/) \[04/09/2015\]
 - [Laravel Austin](http://laravelaustin.com/) \[03/28/2016\]
 - [Laravel Berlin](http://www.meetup.com/laravel-berlin/) \[03/28/2016\]
+- [Laravel Buenos Aires](https://www.meetup.com/Laravel-Buenos-Aires/) \[10/17/2016\]
 - [Laravel Chicago](http://www.meetup.com/laravel-chicago/) \[03/28/2016\]
+- [Laravel London](https://www.meetup.com/London-Laravel/) \[10/17/2016\]
+- [Laravel Nairobi](https://www.meetup.com/Nairobi-Laravel-Meetup/) \[10/17/2016\]
+- [Laravel Sao Paulo](https://www.meetup.com/Laravel-SP/) \[10/17/2016\]
 - [Laravel Tokyo](https://laravel.tokyo/) \[03/28/2016\]
+- [PHP Laravel Framework Sydney](https://www.meetup.com/PHP-Laravel-Framework-Sydney/) \[10/17/2016\]
 - [San Diego Laravel User Group (SDLUG)](https://www.sdlug.com/) \[03/28/2016\]
 
 ### Newsletters

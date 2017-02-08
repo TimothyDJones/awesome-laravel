@@ -233,6 +233,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Throttle](https://github.com/AltThree/Throttle) - A request rate-limiter for Laravel. \[11/19/2016\]
 - [Tuxedo](https://github.com/tomirons/tuxedo) - send transactional emails with Laravel's Mail classes, with the templates already done for you. \[01/14/2017\]
 - [Virtuoso](https://github.com/coderabbi/virtuoso) - Extension to the built-in [View Composers](http://laravel.com/docs/4.2/responses#view-composers) functionality that provides composability of composers themselves.
+- [Laravel TinyPNG API Support](https://github.com/yasmuru/ys-tinify-laravel) - Tinify API support with laravel
 
 ### JavaScript Framework Support
 - [Laravel and AngularJS](https://github.com/danielschmitz/laravel_and_angularjs_codes) - Source code to go with [book](https://leanpub.com/laravel_and_angularjs) on building applications with Laravel and [AngularJS](https://angularjs.org/). \[09/02/2016\]

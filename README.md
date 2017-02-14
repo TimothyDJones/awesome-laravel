@@ -666,6 +666,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Luca Bernardino](http://www.codeanchor.net/) \[07/13/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]
 - [Lukas White](http://lukaswhite.com/blog) \[10/15/2016\]
+- [Luke Whitehouse](https://assortment.io/tags/laravel) \[02/14/2017\]
 - [Mack Hankins](http://www.mackhankins.com/blog/)
 - [Made With Love](http://blog.madewithlove.be/) \[08/16/2015\]
 - [Maks Surguy](http://maxoffsky.com/blog/)

@@ -591,6 +591,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ewan Valentine](http://ewanvalentine.io/) \[08/31/2015\]
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
+- [Fleka](https://tech.fleka.me/tagged/laravel) \[02/16/2017\]
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [For Laravel](https://forlaravel.com/) \[10/12/2015\]
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)

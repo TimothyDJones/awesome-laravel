@@ -776,6 +776,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Websanova](http://www.websanova.com/blog/) \[09/23/2015\]
 - [Webs Mentor](https://websmentor.wordpress.com/category/laravel/) \[10/18/2016\]
+- [Wogan](https://wogan.blog/tag/laravel/) \[02/16/2017\]
 - [WSnippets](http://wsnippets.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
 - [zwacky](https://medium.com/@zwacky)

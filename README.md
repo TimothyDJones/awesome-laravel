@@ -134,6 +134,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel API Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Another independent code-generation tool for creating project boilerplate, including migrations, models, controllers, various views, etc. \[05/14/2015\]
 - [Laravel Backup](https://github.com/freekmurze/laravel-backup) - Artisan extension that allows you to backup your application and database into a ZIP archive.
 - [Laravel Console](https://github.com/darsain/laravel-console) - An in-browser console for running Laravel commands (or any PHP code!).  Like a browser-based version of [Artisan](http://laravel.com/docs/4.2/artisan). \[04/22/2015\]
+- [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - Generates a list of all of the packages used by your Laravel application, including dependencies, and displays them in the browser. \[02/20/2017\]
 - [Laravel Environment](https://github.com/Brunty/laravel-environment) - Artisan extension to create and edit environment-specific configuration files in the shell.
 - [Laravel Environment Manager](https://github.com/tommyku/laravel5_env) - Artisan command for managing multiple environments (`.env`) for a Laravel 5 application.
 - [Laravel Feature Flag/Switch](https://github.com/jonathan-bird/feature-switch) - Simple tool for adding [feature flag](https://en.wikipedia.org/wiki/Feature_toggle) capability to your Laravel applications. \[06/16/2016\]

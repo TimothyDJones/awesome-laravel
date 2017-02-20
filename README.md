@@ -90,6 +90,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
 - [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Provides customized filtering capability for Eloquent models via a Filterable attribute. \[03/05/2016\]
 - [Eloquent MongoDB Repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Implementation of [repository](http://code.tutsplus.com/tutorials/the-repository-design-pattern--net-35804) [design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) for MongoDB using Eloquent. \[03/09/2016\]
+- [Eloquent Populator](https://github.com/guidocella/eloquent-populator) - Populate Laravel's Eloquent ORM's models by guessing the best Faker formatters for their attributes from their columns' names and types. \[02/16/2017\]
 - [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Adds a sortable [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models for Laravel 4/5. \[05/25/2015\]
 - [Eloquent Versioned](https://github.com/sbarre/eloquent-versioned) - Adds transparent versioning to Eloquent models, which persists an entirely new row in database when updating a model instance. \[06/08/2015\]
 - [Eloquent Preferences](https://github.com/klaude/eloquent-preferences) - Allows binding of multiple key-value pair preferences to your Eloquent models. \[12/29/2015\]
@@ -560,6 +561,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Daniel Li](http://blog.danyll.com/) \[04/20/2015\]
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
 - [David Hemphill](http://davidhemphill.com/blog/) \[07/09/2015\]
+- [David Frame](http://www.cryst.co.uk/tag/laravel/) \[02/14/2017\]
 - [Delia Curiel](http://www.scoop.it/t/laravel-by-delia-curiel) \[07/02/2015\]
 - [Delicious Brains](https://deliciousbrains.com/tag/laravel/) \[10/30/2016\]
 - [Dennis Decoene](http://avidsoftware-be.github.io/) (German/[English translation](https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Favidsoftware-be.github.io%2F)) \[09/10/2015\]
@@ -591,6 +593,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ewan Valentine](http://ewanvalentine.io/) \[08/31/2015\]
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Fideloper](http://fideloper.com/)
+- [Fleka](https://tech.fleka.me/tagged/laravel) \[02/16/2017\]
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [For Laravel](https://forlaravel.com/) \[10/12/2015\]
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)
@@ -774,6 +777,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Websanova](http://www.websanova.com/blog/) \[09/23/2015\]
 - [Webs Mentor](https://websmentor.wordpress.com/category/laravel/) \[10/18/2016\]
+- [Wogan](https://wogan.blog/tag/laravel/) \[02/16/2017\]
 - [WSnippets](http://wsnippets.com/category/laravel/)
 - [Yottaram (Jonathan Stavis)](http://yottaram.com/blog/)
 - [zwacky](https://medium.com/@zwacky)

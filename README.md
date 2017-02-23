@@ -23,6 +23,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
 
 ### Authentication/Security
+- [Acacha Laravel Social](https://github.com/acacha/laravel-social) - OAuth Social Login/Register implementation with Github, Facebook, Google, Twitter... using Laravel Socialite and (optionally) [AdminLTE Laravel package](https://github.com/acacha/adminlte-laravel)
 - [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
 - [Bouncer](https://github.com/JosephSilber/bouncer) - Powerful package for handling roles and abilities in the Laravel [ACL](http://laravel.com/docs/authorization). \[07/27/2016\]
 - [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.

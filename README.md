@@ -24,6 +24,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Authentication/Security
 - [Active Directory LDAP Authentication](https://github.com/strebl/ldap-auth) - LDAP authentication package for Active Directory. \[07/27/2015\]
+- [Botscout protection](https://github.com/nicolasbeauvais/laravel-botscout) - Block malicious scripts using botscout.com protection for your laravel app. \[03/03/2017\]
 - [Bouncer](https://github.com/JosephSilber/bouncer) - Powerful package for handling roles and abilities in the Laravel [ACL](http://laravel.com/docs/authorization). \[07/27/2016\]
 - [Captcha](https://github.com/infinity-next/brennan-captcha) - An anti-bot image captcha system written by Frederick Brennan and ported to Laravel for Infinity Next by Joshua Moon.
 - [Captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5 - An anti-bot image captcha system.

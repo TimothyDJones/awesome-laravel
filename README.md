@@ -854,3 +854,4 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - Another [Awesome Laravel List](https://github.com/chiraggude/awesome-laravel) :)
 - Another [Awesome Laravel List](https://github.com/tuwannu/awesome-laravel)
 - [TinyLara](http://tinylara.com/) - A simple framework based on the principles of Laravel ("Tiny Laravel"). \[04/22/2015\]
+- [We Made the Front Page of PHP Reddit!  Thanks!](https://www.reddit.com/r/PHP/comments/5xaa6g/a_curated_list_of_delightful_laravel_php/) \[03/06/2017\]

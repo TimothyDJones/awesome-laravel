@@ -258,6 +258,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [laravel-ratchet](https://github.com/Askedio/laravel-ratchet) - Package that provides artisan command `ratchet:serve` which starts a [Ratchet](http://socketo.me/) IO, Web Socket, or WAMP server using the class provided. \[05/16/2016\]
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
 - [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
+- [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]
 
 ### REST/Web Services
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.

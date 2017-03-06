@@ -271,6 +271,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel API Response](https://github.com/lykegenes/laravel-api-response) - A wrapper package for [The PHP League](http://thephpleague.com/)'s [Fractal](http://fractal.thephpleague.com/) package. \[09/30/2015\]
 - [Laravel Theme](https://github.com/karlomikus/theme) - Package for adding theme support via [ViewServiceProvider](https://laravel.com/api/5.1/Illuminate/View/ViewServiceProvider.html) API. \[05/01/2016\]
 - [Laravel View Themes](https://github.com/alexwhitman/laravel-view-themes) - Specify custom themes for your views in simple manner. \[05/25/2015\]
+- [SwitchBlade](https://github.com/awkwardideas/SwitchBlade) - Add several useful directives to Laravel Blade templates, including support for [`switch`](http://php.net/manual/en/control-structures.switch.php), variable and debugging output, and empty/null variable checks. \[03/06/2017\]
 
 ### Web Forms
 - [Bootforms](https://github.com/adamwathan/bootforms) - Package which simplifies and streamlines the process of specifying forms in Laravel with [Bootstrap](http://getbootstrap.com/) 3 markup.

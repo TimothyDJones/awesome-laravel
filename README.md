@@ -823,7 +823,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Job Sites/Postings
 - [Laravel Gurus](http://laravelgurus.com/) - The best place to find consultants and freelancers for your Laravel projects.
 - [LaraJobs](http://larajobs.com/) - The best place to post your PHP, Laravel, or technical guru jobs.
-- [Laramap](http://laramap.com/) - Interactive worldwide map of Laravel developers. \[06/08/2015\]
 - [WithLaravel](http://withlaravel.com/) - Post Laravel project or position openings or add yourself as freelancer available for work.
 
 ### Development Tools

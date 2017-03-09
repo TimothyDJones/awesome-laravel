@@ -464,6 +464,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Community Service Application](https://github.com/npmweb/community-service) - Web application for signing up for community service opportunities.
 - [Laravel Datatables Package Demo](https://github.com/yajra/laravel-datatables-demo) - Demo application to show how to use [DataTables](http://datatables.net/) with Laravel 4/5. \[06/11/2015\]
 - [Laravel Feed Reader](https://github.com/awjudd/l4-feed-reader) - A simple, self-hosted, online RSS feed reader based on SimplePie for Laravel 4/5. \[05/13/2015\]
+- [Laravel Tasks](https://github.com/jeremykenedy/laravel-tasks) - Multi-user tasks/"to do" application user authentication, password reset, etc. \[03/08/2017\]
 - [Laravel To Do App](https://github.com/lourenci/laravel-todo-app) - Basic "to do" application to demonstrate Laravel 5.2 services including [authentication](https://laravel.com/docs/5.2/authentication), [e-mail](https://laravel.com/docs/5.2/mail), [Eloquent ORM](https://laravel.com/docs/5.2/eloquent), and [middleware](https://laravel.com/docs/5.2/middleware). \[06/18/2016\]
 - [Laravel 4 CMS](https://github.com/alnutile/l4cms) - Quick intro to Laravel using a custom CMS application.
 - [Laravel 5 Example](https://github.com/bestmomo/laravel5-example) - Basic blog application with authentication, user roles, admin dashboard, and more. \[05/11/2015\]

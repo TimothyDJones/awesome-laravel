@@ -850,6 +850,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Scotch Box](https://box.scotch.io/) - A complete [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) [Vagrant](http://vagrantup.com/) box with PHP 5.5, Laravel installer, and Node.JS front-end tools. \[05/22/2015\]
 - [SQL to Laravel Seeder Converter](http://laravel.stonelab.ch/sql-seeder-converter/) - Online tool to convert SQL INSERT statements to Laravel seeder syntax. \[05/05/2015\]
 - [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]
+- [Valet for Windows](https://github.com/cretueusebiu/valet-windows) - Port of the popular [Laravel Valet](https://laravel.com/docs/valet) environment for Macs to Windows. \[03/08/2017\]
 - [vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Laravel's Blade template syntax. \[01/04/2016\]
 - [VS Web Essentials](http://vswebessentials.com/) - Free Visual Studio extension with support for Laravel syntax. \[07/13/2015\]
 

@@ -134,6 +134,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel API Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Another independent code-generation tool for creating project boilerplate, including migrations, models, controllers, various views, etc. \[05/14/2015\]
 - [Laravel Backup](https://github.com/freekmurze/laravel-backup) - Artisan extension that allows you to backup your application and database into a ZIP archive.
 - [Laravel Console](https://github.com/darsain/laravel-console) - An in-browser console for running Laravel commands (or any PHP code!).  Like a browser-based version of [Artisan](http://laravel.com/docs/4.2/artisan). \[04/22/2015\]
+- [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - Generates a list of all of the packages used by your Laravel application, including dependencies, and displays them in the browser. \[02/20/2017\]
 - [Laravel Environment](https://github.com/Brunty/laravel-environment) - Artisan extension to create and edit environment-specific configuration files in the shell.
 - [Laravel Environment Manager](https://github.com/tommyku/laravel5_env) - Artisan command for managing multiple environments (`.env`) for a Laravel 5 application.
 - [Laravel Feature Flag/Switch](https://github.com/jonathan-bird/feature-switch) - Simple tool for adding [feature flag](https://en.wikipedia.org/wiki/Feature_toggle) capability to your Laravel applications. \[06/16/2016\]
@@ -203,6 +204,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
 - [Laracurl](https://github.com/zjango/Laracurl) - Laravel wrapper package for [PHP cURL](https://github.com/anlutro/php-curl) class that provides OOP interface to [cURL](https://en.wikipedia.org/wiki/CURL). \[10/27/2015\]
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
+- [Laravel Achievements](https://github.com/gstt/laravel-achievements) - Implements an achievement system in Laravel, based on Notifications. \[02/20/2017\]
 - [Laravel Annotations](https://github.com/adamgoose/laravel-annotations) - Provides support for annotating Controller methods with the corresponding route, including route naming.
 - [Laravel Auto Presenter](https://github.com/ShawnMcCool/laravel-auto-presenter) - Automatically decorates (applies formatting to) model objects bound to views during the view render process.
 - [Laravel Calendar](https://github.com/makzumi/laravel-calendar) - A comprehensive calendar package with built-in support for events. \[04/22/2015\]
@@ -269,6 +271,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel API Response](https://github.com/lykegenes/laravel-api-response) - A wrapper package for [The PHP League](http://thephpleague.com/)'s [Fractal](http://fractal.thephpleague.com/) package. \[09/30/2015\]
 - [Laravel Theme](https://github.com/karlomikus/theme) - Package for adding theme support via [ViewServiceProvider](https://laravel.com/api/5.1/Illuminate/View/ViewServiceProvider.html) API. \[05/01/2016\]
 - [Laravel View Themes](https://github.com/alexwhitman/laravel-view-themes) - Specify custom themes for your views in simple manner. \[05/25/2015\]
+- [SwitchBlade](https://github.com/awkwardideas/SwitchBlade) - Add several useful directives to Laravel Blade templates, including support for [`switch`](http://php.net/manual/en/control-structures.switch.php), variable and debugging output, and empty/null variable checks. \[03/06/2017\]
 
 ### Web Forms
 - [Bootforms](https://github.com/adamwathan/bootforms) - Package which simplifies and streamlines the process of specifying forms in Laravel with [Bootstrap](http://getbootstrap.com/) 3 markup.
@@ -448,6 +451,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [IVD Assets](https://github.com/TTFerreira/ivd-assets) - IT asset management and ticketing application. \[08/02/2016\]
 - [JobsToMail](https://github.com/jobapis/jobs-to-mail) - Opt-in platform for receiving daily e-mail on job postings on 8 popular job boards that uses [JobsApi](http://www.jobapis.com/). \[10/10/2016\]
 - [Kanban](https://github.com/themsaid/kanban) - Open-source [Kanban](https://en.wikipedia.org/wiki/Kanban) board build with Laravel and Vue.js. \[10/01/2016\]
+- [KnowFox](https://github.com/oschettler/knowfox) - Sophisticated personal knowledgebase/PIM application modeled on Evernote.  Free, hosted version also available [here](https://knowfox.com/). \[03/07/2017\]
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]
 - [LaraContact](https://github.com/kadnan/LaraContact) - Simple contact manager/address book built with Laravel. \[12/16/2016\]
@@ -853,3 +857,4 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - Another [Awesome Laravel List](https://github.com/chiraggude/awesome-laravel) :)
 - Another [Awesome Laravel List](https://github.com/tuwannu/awesome-laravel)
 - [TinyLara](http://tinylara.com/) - A simple framework based on the principles of Laravel ("Tiny Laravel"). \[04/22/2015\]
+- [We Made the Front Page of PHP Reddit!  Thanks!](https://www.reddit.com/r/PHP/comments/5xaa6g/a_curated_list_of_delightful_laravel_php/) \[03/06/2017\]

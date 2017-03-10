@@ -541,6 +541,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christoph Rumpel](http://christoph-rumpel.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Chuck Heintzelman](http://laravelcoding.com/blog) \[06/11/2015\]
+- [Clément Rigo (Mydnic)](https://mydnic.be/search?q=laravel) \[03/10/2017\]
 - [Clivern](http://clivern.com/tag/laravel/)
 - [Cloudways Blog](http://www.cloudways.com/blog/category/applications/laravel/) \[08/02/2016\]
 - [Code And Be Happy (Jesse Walton)](http://codeandbehappy.com/tags/#laravel) \[09/23/2015\]

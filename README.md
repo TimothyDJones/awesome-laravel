@@ -288,6 +288,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Corcel](https://github.com/jgrossi/corcel) - PHP class library that allows you to query [Wordpress](https://wordpress.org/) [database](http://codex.wordpress.org/Database_Description) with Laravel Eloquent ORM syntax.
 - [Cutlass WordPress Starter Theme](http://cutlasswp.com/) - Use Laravel Blade template syntax in your WordPress templates.  Includes Bootstrap and Font Awesome by default.
 - [w.eloquent](https://github.com/bruno-barros/w.eloquent) - Wordpress integrated with Laravel via Composer. \[11/19/2016\]
+- [WordPress Laravel Bootstrap](https://github.com/golr/wl-bootstrap) - Use any functions, methods, libraries of Laravel in WordPress projects. \[03/15/2017\]
 
 ## Tutorials
 

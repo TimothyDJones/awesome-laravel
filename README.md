@@ -233,7 +233,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
 - [Registry Manager](https://github.com/Torann/laravel-registry) - Complete package for managing application configuration settings in database with cache support for better performance. \[05/20/2015\]
 - [Settings](https://github.com/edvinaskrucas/settings) - A persistent setting package for Laravel that includes encrypting/decrypting values, caching, events, and more. \[10/06/2015\]
-- [Socieboy Forum](https://github.com/socieboy/forum) - Forum package for use with any Laravel 5 application. \[09/24/2016\]
+- [Socieboy Forum](https://github.com/socieboy/forum) - Forum package for use with any Laravel 5 application. \[09/24/2016\]\
+- [sudo-su](https://github.com/viacreative/sudo-su) - Handy package to allow impersonation of other users during development. \[03/15/2017\]
 - [Syntara](http://mrjuliuss.github.io/syntara/) - Comprehensive user administration system for Laravel 4, including authentication, groups/permissions management, and more.
 - [Throttle](https://github.com/AltThree/Throttle) - A request rate-limiter for Laravel. \[11/19/2016\]
 - [Tuxedo](https://github.com/tomirons/tuxedo) - send transactional emails with Laravel's Mail classes, with the templates already done for you. \[01/14/2017\]

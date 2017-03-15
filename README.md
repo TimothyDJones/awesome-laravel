@@ -87,6 +87,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CSV Seeder](https://github.com/Flynsarmy/laravel-csv-seeder) - If you have your seed data for your database in a spreadsheet, use this package to load it directly from a [CSV file](https://en.wikipedia.org/wiki/Comma-separated_values). \[05/11/2015\]
 - [Datagrid](https://github.com/aginev/datagrid) - Self-contained (no external dependencies) data grid package for Laravel 5 with support for filtering, sorting, and Bootstrap. \[07/20/2015\]
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
+- [Elasticquent](https://github.com/elasticquent/Elasticquent) - Package for mapping Laravel Eloquent models to [Elasticsearch](http://www.elasticsearch.org/) types. \[03/15/2017\]
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
 - [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Provides customized filtering capability for Eloquent models via a Filterable attribute. \[03/05/2016\]
 - [Eloquent MongoDB Repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Implementation of [repository](http://code.tutsplus.com/tutorials/the-repository-design-pattern--net-35804) [design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) for MongoDB using Eloquent. \[03/09/2016\]

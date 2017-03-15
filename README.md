@@ -353,6 +353,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
 - [Confomo](https://confomo.com/) - Simple, [open-source](https://github.com/mattstauffer/confomo) tool for keeping track of contacts that you meet at conferences. \[07/27/2016\]
 - [Commentum.io](https://commentum.io/) - A Reddit clone built with Laravel that scores entries based on "momentum" from events like views, comments, etc. \[08/31/2015\]
+- [Decoy CMS](https://github.com/BKWLD/decoy) - Full-featured CMS with support for sharing models with other applications. \[03/15/2017\]
 - [Devise CMS](http://devisephp.com/) - Open-source CMS built on Laravel intended to be used for both small and large CMS needs. \[09/29/2015\]
 - [DevLeaks](http://devleaks.com/) - Web development news aggregator for tutorials, tools, and other resources of interest to developers. \[08/03/2015\]
 - [Easy Decision Maker](http://easydecisionmaker.com/) - Online tool for creating multiple-choice questions. \[10/21/2015\]

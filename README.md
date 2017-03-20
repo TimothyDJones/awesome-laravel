@@ -776,6 +776,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tim Leland](http://timleland.com/) \[09/29/2015\]
 - [TNT Studio](http://tntstudio.us/blog)
 - [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
+- [Tom Schlick](https://tomschlick.com/) \[03/20/2017\]
 - [Tommy Ku](http://blog.tommyku.com/)
 - [Tutelage Systems](http://tutelagesystems.com/) \[05/09/2016\]
 - [Tutsnare](http://tutsnare.com/category/laravel/)

@@ -9,6 +9,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 - [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
+- [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
 
 ### Admin Tools/Panels
 - [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]
@@ -19,7 +20,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
 
 ### Algorithms/Data Structures
-- [Baum](http://etrepat.com/baum/) - An implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for Laravel 4's Eloquent ORM.
+
+- [Laravel NestedSet](https://github.com/lazychaser/laravel-nestedset) - An implementation of a tree data structure in a relational database. \[03/16/2017\]
 - [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
 
 ### Authentication/Security
@@ -33,6 +35,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]
 - [Laravel ACL](https://github.com/kodeine/laravel-acl) - Lightweight role-based permissions system for Laravel 5's built-in Auth system. \[06/15/2016\]
+- [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users. [03/08/2016]
 - [LDAP-Auth](https://github.com/krenor/ldap-auth) - Very basic read-only LDAP authentication driver for Laravel 5.1+. \[11/23/2015\]
 - [Libsodium for Laravel](https://github.com/scrothers/libsodium-laravel) - Laravel package wrapper for the [libsodium](https://download.libsodium.org/doc/) library which allows it to be a drop-in replacement for the Laravel native [encryption](http://laravel.com/docs/encryption) and [hashing](http://laravel.com/docs/hashing) classes/services. \[09/14/2015\]
 - [OAuth-4-Laravel](https://github.com/artdarek/oauth-4-laravel) - Laravel package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers.
@@ -131,6 +134,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Blacksmith](https://github.com/Indatus/blacksmith) - Independent code-generation tool that works closely with Laravel to generate models, views, controllers, seeds, forms, and much more.
 - [Candela](https://github.com/jenssegers/candela) - A [Silex](http://silex.sensiolabs.org/)/[Slim](http://www.slimframework.com/) style version of Laravel's Lumen microframework. \[05/16/2015\]
 - [Debug Window](https://github.com/andersmandersen/laravel-debugwindow) - Extension of popular DebugBar tool that displays variables sent to view in easy-to-read format. \[07/20/2015\]
+- [Env Providers](https://github.com/svenluijten/env-providers) - Load service providers based on the application's current environment. \[03/07/2017\]
 - [Inspector](https://github.com/tajawal/inspector) - Utility that checks installed [Composer](https://getcomposer.org/) project dependencies and notifies you of any updates (not Laravel specific). \[04/26/2016\]
 - [Larasupport](http://irazasyed.github.io/larasupport/) - Provides some missing helpers to [Lumen](http://lumen.laravel.com/) and allows Laravel packages to be used with Lumen. \[06/08/2015\]
 - [Laravel API Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Another independent code-generation tool for creating project boilerplate, including migrations, models, controllers, various views, etc. \[05/14/2015\]
@@ -262,6 +266,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [laravel-ratchet](https://github.com/Askedio/laravel-ratchet) - Package that provides artisan command `ratchet:serve` which starts a [Ratchet](http://socketo.me/) IO, Web Socket, or WAMP server using the class provided. \[05/16/2016\]
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
 - [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
+- [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]
 
 ### REST/Web Services
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
@@ -526,7 +531,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Andreas Lutro](http://www.lutro.me/)
 - [Andy Fleming](http://andyfleming.com/articles-by-topic/lumen/) \[07/16/2015\]
 - [Anytch.com](http://anytch.com/category/laravel/) \[09/02/2016\]
-- [Arda KÄ±lÄ±Ã§daÄÄ±](https://arda.pw/tag/laravel/) \[09/30/2015\]
+- [Arda KÃÂ±lÃÂ±ÃÂ§daÃÂÃÂ±](https://arda.pw/tag/laravel/) \[09/30/2015\]
 - [Armen Markossyan](http://blog.armen.im/tag/laravel/) \[06/01/2015\]
 - [Asked.io](https://asked.io/search/laravel) \[04/13/2016\]
 - [AskJong](http://www.askjong.com/) \[10/08/2015\]
@@ -549,7 +554,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christoph Rumpel](http://christoph-rumpel.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Chuck Heintzelman](http://laravelcoding.com/blog) \[06/11/2015\]
-- [Cl�ment Rigo (Mydnic)](https://mydnic.be/search?q=laravel) \[03/10/2017\]
+- [Clément Rigo (Mydnic)](https://mydnic.be/search?q=laravel) \[03/10/2017\]
 - [Clivern](http://clivern.com/tag/laravel/)
 - [Cloudways Blog](http://www.cloudways.com/blog/category/applications/laravel/) \[08/02/2016\]
 - [Code And Be Happy (Jesse Walton)](http://codeandbehappy.com/tags/#laravel) \[09/23/2015\]
@@ -647,7 +652,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Joe Tannorella](http://www.joetannorella.com/archive/) \[04/14/2015\]
 - [Jon Phipps](http://jonstuff.blogspot.ca/search/label/Laravel%205) \[11/30/2015\]
 - [Jonathan Stassen](http://blog.jstassen.com/tag/laravel/) \[04/13/2015\]
-- [JosÃ© Padilla](http://jpadilla.com/tagged/laravel) \[12/01/2015\]
+- [JosÃÂ© Padilla](http://jpadilla.com/tagged/laravel) \[12/01/2015\]
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Joseph Silber](https://josephsilber.com/posts) \[09/06/2016\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
@@ -674,7 +679,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
 - [Laravel Feed](http://laravelfeed.com/) \[04/26/2016\]
 - [Laravel Tips (Bill Keck)](https://laraveltips.wordpress.com/) \[04/26/2016\]
-- [Laravel Tips N Tricks](http://laraveltnt.com/) \[10/18/2016\]
+- [Laravel Tips ÂN Tricks](http://laraveltnt.com/) \[10/18/2016\]
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Logan Bailey](http://logansbailey.com/) \[04/18/2016\]
@@ -693,7 +698,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
 - [Marty Thomas](https://martythomas.svbtle.com/) \[09/02/2016\]
-- [Mateus GuimarÃ£es](http://mguimaraes.co/) \[01/16/2016\]
+- [Mateus GuimarÃÂ£es](http://mguimaraes.co/) \[01/16/2016\]
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]
 - [Matt Stauffer](http://mattstauffer.co/blog/)
 - [Matt's Notes](http://www.mattsnotes.com/php)
@@ -824,6 +829,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Tokyo](https://laravel.tokyo/) \[03/28/2016\]
 - [PHP Laravel Framework Sydney](https://www.meetup.com/PHP-Laravel-Framework-Sydney/) \[10/17/2016\]
 - [San Diego Laravel User Group (SDLUG)](https://www.sdlug.com/) \[03/28/2016\]
+- [Laravel Hungary](https://laravel.hu)
+- [Laravel Hungary Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
 
 ### Newsletters
 - [Daily Laravel](http://paper.li/stevenklar/1389804586) - Aggregator of new/upcoming Laravel articles and tutorials. \[07/09/2015\]
@@ -835,7 +842,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Job Sites/Postings
 - [Laravel Gurus](http://laravelgurus.com/) - The best place to find consultants and freelancers for your Laravel projects.
 - [LaraJobs](http://larajobs.com/) - The best place to post your PHP, Laravel, or technical guru jobs.
-- [Laramap](http://laramap.com/) - Interactive worldwide map of Laravel developers. \[06/08/2015\]
 - [WithLaravel](http://withlaravel.com/) - Post Laravel project or position openings or add yourself as freelancer available for work.
 
 ### Development Tools
@@ -852,7 +858,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Model/Migration Generator](http://andressantibanez.com/laravel-model-generator/) - Simple online tool for generating Laravel model class definition and database migration code by entering details about database table. \[08/04/2016\]
 - [Laravel on Windows](https://laravelonwindows.com/) - Help for developers using Windows, including how to use Homestead and Vagrant. \[03/08/2017\]
 - [Laravel Tail](https://github.com/spatie/laravel-tail) - Brings back the awesome `tail` command for artisan to Laravel 5. \[02/14/2017\]
-- [Laravel Valet *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
+- [Laravel 
+*for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
 - [PHP Framework Benchmarks](https://github.com/kenjis/php-framework-benchmark) - Real-world benchmarks of many popular (and a few obscure!) PHP frameworks, including Laravel 4.x and 5.x and Lumen. \[07/28/2016\]
 - [PHP Storm Laravel Live Templates](https://github.com/koomai/phpstorm-laravel-live-templates) - Comprehensive set of templates for Laravel for [PHP Storm](https://www.jetbrains.com/phpstorm/). \[05/25/2015\]
@@ -860,6 +867,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Scotch Box](https://box.scotch.io/) - A complete [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) [Vagrant](http://vagrantup.com/) box with PHP 5.5, Laravel installer, and Node.JS front-end tools. \[05/22/2015\]
 - [SQL to Laravel Seeder Converter](http://laravel.stonelab.ch/sql-seeder-converter/) - Online tool to convert SQL INSERT statements to Laravel seeder syntax. \[05/05/2015\]
 - [Understand.io](https://www.understand.io/) - Online service for managing, searching, and deciphering PHP and Laravel log files. \[04/27/2015\]
+- [valet4windows](https://github.com/vitr/valet4windows) - Windows version of Laravel Valet \[03/19/2017]
 - [Valet for Windows](https://github.com/cretueusebiu/valet-windows) - Port of the popular [Laravel Valet](https://laravel.com/docs/valet) environment for Macs to Windows. \[03/08/2017\]
 - [vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Laravel's Blade template syntax. \[01/04/2016\]
 - [VS Web Essentials](http://vswebessentials.com/) - Free Visual Studio extension with support for Laravel syntax. \[07/13/2015\]

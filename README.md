@@ -9,6 +9,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 - [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
+- [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
 
 ### Admin Tools/Panels
 - [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]

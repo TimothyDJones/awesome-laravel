@@ -275,6 +275,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Views
 - [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]
+- [Bones Flash](https://github.com/GeneaLabs/bones-flash) - Enhanced version of built-in "flash" messages/notifications for Laravel, which includes modal popups and various levels of message. \[03/26/2017\]
 - [Illuminate Menu](https://github.com/lazychaser/illuminate-menu) - A simple menu builder for Laravel using Bootstrap. \[11/04/2016\]
 - [LaraTheme](https://github.com/codeWithTony/larathemes) - Simple/minimal theme manager for Laravel 5+. \[03/09/2016\]
 - [Laravel API Response](https://github.com/lykegenes/laravel-api-response) - A wrapper package for [The PHP League](http://thephpleague.com/)'s [Fractal](http://fractal.thephpleague.com/) package. \[09/30/2015\]

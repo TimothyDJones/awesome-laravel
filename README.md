@@ -874,7 +874,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Valet for Windows](https://github.com/cretueusebiu/valet-windows) - Port of the popular [Laravel Valet](https://laravel.com/docs/valet) environment for Macs to Windows. \[03/08/2017\]
 - [vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Laravel's Blade template syntax. \[01/04/2016\]
 - [VS Web Essentials](http://vswebessentials.com/) - Free Visual Studio extension with support for Laravel syntax. \[07/13/2015\]
-
+- [Laravel MultiMix](https://github.com/fandogh/laravel-multimix) - Laravel-Mix helper for projects with complex & multi assets.
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)
 - Another [Awesome Laravel List](https://github.com/chiraggude/awesome-laravel) :)

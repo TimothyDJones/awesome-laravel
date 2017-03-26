@@ -458,6 +458,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [CocoPass](https://github.com/Elvenisboy/CocoPass) - Password management system similar to [LastPass](https://lastpass.com/) build with Laravel 5.3. \[09/13/2016\]
 - [Collejo](https://github.com/codebreez/collejo) - Comprehensive ERP platform for schools and other education institutions built with Laravel. \[03/26/2017\]
 - [Communalizer](https://github.com/communalizer) - Free, open-source and self-hosted forum system written on top of the Laravel framework. \[06/23/2016\]
+- [DClassifieds](https://github.com/gdinko/dclassifieds.laravel) - Free, open-source classified ads script with support for social media login, bonus/reward system, multiple category types and more. \[03/26/2017\]
 - [Dingo Project Management](https://github.com/zeeshanu/dingo-project-managment) - A full-featured personal project management tool with task boards. \[04/26/2016\]
 - [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
 - [EasyAdmin](https://github.com/laravelish/EasyAdmin) - Advanced Laravel Login and User Management with Two-Factor Authentication. \[06/09/2016\]

@@ -536,6 +536,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Andreas Lutro](http://www.lutro.me/)
 - [Andy Fleming](http://andyfleming.com/articles-by-topic/lumen/) \[07/16/2015\]
 - [Anytch.com](http://anytch.com/category/laravel/) \[09/02/2016\]
+- [Appstract](https://medium.com/appstract/tagged/laravel) \[03/30/2017\]
 - [Arda KÃÂ±lÃÂ±ÃÂ§daÃÂÃÂ±](https://arda.pw/tag/laravel/) \[09/30/2015\]
 - [Armen Markossyan](http://blog.armen.im/tag/laravel/) \[06/01/2015\]
 - [Asked.io](https://asked.io/search/laravel) \[04/13/2016\]

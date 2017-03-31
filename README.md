@@ -55,6 +55,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bootstrapper for Laravel](http://bootstrapper.eu1.frbit.net/) - Laravel package that provides fluent interface for using [Bootstrap](http://getbootstrap.com/) CSS framework in Laravel. \[11/09/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.
 - [Fountain](https://darovi.co/fountain) - Comprehensive application builder for Laravel 5 including ecommerce, invoicing and more. \[10/17/2016\]
+- [Gold Standard](https://github.com/dwightwatson/gold-standard) - Boilerplate template for clean, [resourceful](https://laravel.com/docs/controllers#resource-controllers), testable Laravel applications. \[03/31/2017\]
 - [Hexavel](https://github.com/peterfox/hexavel) - Restructured version of Laravel framework to provide streamlined workflows and simplify development process. \[12/30/2015\]
 - [HTG Laravel](https://github.com/euperia/htg-laravel) - Basic Laravel boilerplate with [AdminLTE](https://almsaeedstudio.com/AdminLTE) focused on rapid prototyping. \[07/28/2016\]
 - [L4 Core](https://github.com/anlutro/laravel-4-core) - Laravel 4 application boilerplate built from author's other packages; includes Bootstrap. \[06/11/2015\]

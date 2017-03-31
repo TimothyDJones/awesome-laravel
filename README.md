@@ -569,6 +569,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Code And Be Happy (Jesse Walton)](http://codeandbehappy.com/tags/#laravel) \[09/23/2015\]
 - [Code Gains](http://codegains.com/tag/laravel-2/)
 - [Code4Fun](http://code4fun.io/tag/laravel) \[01/25/2017\]
+- [Codeem](https://codeem.co/blog/) \[03/31/2017\]
 - [CodeHeaps](http://www.codeheaps.com/)
 - [CodeHow](http://codehow.io/) \[09/02/2016\]
 - [Codelution](http://codelution.com/tag/laravel/) \[04/16/2015\]

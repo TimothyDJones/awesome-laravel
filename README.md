@@ -73,6 +73,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5 Starter Package](https://github.com/andyjessop/laravel5-starter-package) - A starter package for Laravel 5 with boilerplate views, configs, and routes. \[07/22/2015\]
 - [Laravel Boilerplate with EMail Verification on Registration](https://github.com/lubusIN/laravel-email-verification-app-boilerplate) - Basic Laravel configuration that supports e-mail verification when user registers. \[02/06/2017\]
 - [Laravel and AngularJS Starter Application Boilerplate](https://github.com/Zemke/starter-laravel-angular) - Single-page application starter configuration with Laravel 5 and [Angular.JS](https://angularjs.org/) 1.3.  \[04/07/2015\]
+- [Laravel Enterprise Starter Kit (LESK)](https://github.com/sroutier/laravel-enterprise-starter-kit) - Comprehensive boilerplate configuration that cleanly integrates many popular packages for quick start to new projects. \[03/26/2017\]
 - [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) - API, Scaffold, CRUD Laravel Generator \[05/01/2016\]
 - [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
@@ -173,6 +174,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]
 - [Antvel](https://github.com/ant-vel/antVel) - Package for building e-commerce applications with Laravel. \[12/16/2016\]
 - [Amazon ECS (E-Commerce Services)](https://github.com/JoeDawson/amazon-ecs) - Package to allow searching the Amazon product catalog. \[12/18/2015\]
+- [LaraCart](https://github.com/lukepolo/laracart/) - Fully-featured shopping cart package for Laravel. \[03/30/2017\]
 - [Laragento](https://github.com/develpr/laragento) - A Laravel + [Magento](http://magento.com/) mashup, for directly accessing Magento data via RESTful API provided by Laravel. \[10/12/2015\]
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Mage2](https://github.com/mage2/laravel-ecommerce) - Laravel e-commerce package with built-in Paypal support. \[12/16/2016\]
@@ -276,6 +278,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Views
 - [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]
+- [Bones Flash](https://github.com/GeneaLabs/bones-flash) - Enhanced version of built-in "flash" messages/notifications for Laravel, which includes modal popups and various levels of message. \[03/26/2017\]
 - [Illuminate Menu](https://github.com/lazychaser/illuminate-menu) - A simple menu builder for Laravel using Bootstrap. \[11/04/2016\]
 - [LaraTheme](https://github.com/codeWithTony/larathemes) - Simple/minimal theme manager for Laravel 5+. \[03/09/2016\]
 - [Laravel API Response](https://github.com/lykegenes/laravel-api-response) - A wrapper package for [The PHP League](http://thephpleague.com/)'s [Fractal](http://fractal.thephpleague.com/) package. \[09/30/2015\]
@@ -358,6 +361,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Canvas](http://austintoddj.github.io/Canvas/) - A minimalist blogging platform for developers which uses [Summernote WYSIWIG editor](http://summernote.org/) for Markdown support built with Laravel. \[07/07/2016\] 
 - [Circuits.com](https://circuits.com/) - Electronic components marketplace with comprehensive search capability and over 3 billion parts in stock.
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
+- [Coaster CMS](https://www.coastercms.org/) - Full-featured CMS platform with built-in support for [beacons](https://google.github.io/physical-web/). \[03/26/2017\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
 - [Confomo](https://confomo.com/) - Simple, [open-source](https://github.com/mattstauffer/confomo) tool for keeping track of contacts that you meet at conferences. \[07/27/2016\]
@@ -455,7 +459,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [BookStack](https://github.com/ssddanbrown/BookStack) - A simple, self-hosted, easy-to-use, wiki-like platform and [Confluence](https://www.atlassian.com/software/confluence/) alternative for organising and storing information. \[01/02/2016\]
 - [Bookymark](https://github.com/mikedfunk/bookymark) - Basic web site bookmarking application built with Laravel 4, including full tests. \[04/28/2015\]
 - [CocoPass](https://github.com/Elvenisboy/CocoPass) - Password management system similar to [LastPass](https://lastpass.com/) build with Laravel 5.3. \[09/13/2016\]
+- [Collejo](https://github.com/codebreez/collejo) - Comprehensive ERP platform for schools and other education institutions built with Laravel. \[03/26/2017\]
 - [Communalizer](https://github.com/communalizer) - Free, open-source and self-hosted forum system written on top of the Laravel framework. \[06/23/2016\]
+- [DClassifieds](https://github.com/gdinko/dclassifieds.laravel) - Free, open-source classified ads script with support for social media login, bonus/reward system, multiple category types and more. \[03/26/2017\]
 - [Dingo Project Management](https://github.com/zeeshanu/dingo-project-managment) - A full-featured personal project management tool with task boards. \[04/26/2016\]
 - [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
 - [EasyAdmin](https://github.com/laravelish/EasyAdmin) - Advanced Laravel Login and User Management with Two-Factor Authentication. \[06/09/2016\]
@@ -537,6 +543,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Armen Markossyan](http://blog.armen.im/tag/laravel/) \[06/01/2015\]
 - [Asked.io](https://asked.io/search/laravel) \[04/13/2016\]
 - [AskJong](http://www.askjong.com/) \[10/08/2015\]
+- [AskLagBox](http://asklagbox.com/blog/tag/laravel) \[03/23/2017\]
 - [Baljeet Singh](http://baljeetsingh.in/blog/tag/laravel/) \[11/09/2015\]
 - [Bao Pham](http://baopham.github.io/) \[07/27/2016\]
 - [Barry van Veen](https://barryvanveen.nl/) \[12/04/2016\]
@@ -574,6 +581,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Coveros](https://www.coveros.com/tag/laravel/) \[05/17/2016\]
 - [Craig Morris](https://medium.com/@morrislaptop) \[05/06/2015\]
 - [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
+- [ctf0](https://ctf0.wordpress.com/tag/laravel/) \[03/30/2017\]
 - [crynobone (Mior Muhammad Zaki)](http://crynobone.com/) \[04/07/2015\]
 - [Cubet Techno Labs](http://blog.cubettech.com/category/laravel-frame-work) \[04/27/2015\]
 - [Dan Course](http://www.dancourse.co.uk/category/tech/laravel/) \[08/16/2015\]
@@ -721,6 +729,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Muharrem Tigdemir](http://muharremtigdemir.com/category/laravel/) \[07/02/2015\]
 - [Mulia Arifandi Nasution](https://mul14.wordpress.com/tag/laravel/) \[07/16/2015\]
 - [Murze.be](https://murze.be/tag/laravel/)
+- [Nedex.io](http://blog.nedex.io/) \[03/30/2017\]
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Nick Boyle](http://bicknoyle.com/) \[02/15/2016\]
 - [Nicola Malizia](https://unnikked.ga/tagged/laravel) \[01/25/2017\]
@@ -782,6 +791,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [Tighten.co](http://blog.tighten.co/) \[04/13/2016\]
 - [Tim Leland](http://timleland.com/) \[09/29/2015\]
+- [Tirdea Mihai](https://tirdeamihai.com/blog/tag/laravel) \[03/30/2017\]
 - [TNT Studio](http://tntstudio.us/blog)
 - [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
 - [Tom Schlick](https://tomschlick.com/) \[03/20/2017\]
@@ -873,7 +883,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Valet for Windows](https://github.com/cretueusebiu/valet-windows) - Port of the popular [Laravel Valet](https://laravel.com/docs/valet) environment for Macs to Windows. \[03/08/2017\]
 - [vim-blade](https://github.com/jwalton512/vim-blade) - Vim syntax highlighting for Laravel's Blade template syntax. \[01/04/2016\]
 - [VS Web Essentials](http://vswebessentials.com/) - Free Visual Studio extension with support for Laravel syntax. \[07/13/2015\]
-
+- [Laravel MultiMix](https://github.com/fandogh/laravel-multimix) - Laravel-Mix helper for projects with complex & multi assets.
 ### Other
 - [My Pinboard Links for Laravel](https://pinboard.in/u:tdjones/t:laravel/)
 - Another [Awesome Laravel List](https://github.com/chiraggude/awesome-laravel) :)

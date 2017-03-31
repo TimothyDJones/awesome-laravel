@@ -727,6 +727,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Muharrem Tigdemir](http://muharremtigdemir.com/category/laravel/) \[07/02/2015\]
 - [Mulia Arifandi Nasution](https://mul14.wordpress.com/tag/laravel/) \[07/16/2015\]
 - [Murze.be](https://murze.be/tag/laravel/)
+- [Nedex.io](http://blog.nedex.io/) \[03/30/2017\]
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
 - [Nick Boyle](http://bicknoyle.com/) \[02/15/2016\]
 - [Nicola Malizia](https://unnikked.ga/tagged/laravel) \[01/25/2017\]

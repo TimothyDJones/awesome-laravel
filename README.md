@@ -682,6 +682,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kovah](https://kovah.me/en/tag/laravel/) \[11/09/2015\]
 - [KVCodes](http://www.kvcodes.com/category/laravel/)
 - [Kyle Huynh](http://kylehuynh.com/blogs/category/c8-technology-blog/laravel/) \[10/18/2016\]
+- [Lanre Adelowo](https://lanreadelowo.com/blog/) \[03/31/2017\]
 - [Learning Laravel Blog](http://learninglaravel.net/blog) \[04/22/2015\]
 - [Laracasts Snippets](https://laracasts.simplecast.fm/) \[08/11/2016\]
 - [Laraget (Filip Zdravkovic)](http://laraget.com/blog) \[03/31/2017\]

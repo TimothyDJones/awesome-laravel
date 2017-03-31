@@ -787,6 +787,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [The Reluctant Web Developer](http://thereluctantdeveloper.com/category/laravel)
 - [Tighten.co](http://blog.tighten.co/) \[04/13/2016\]
 - [Tim Leland](http://timleland.com/) \[09/29/2015\]
+- [Tirdea Mihai](https://tirdeamihai.com/blog/tag/laravel) \[03/30/2017\]
 - [TNT Studio](http://tntstudio.us/blog)
 - [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
 - [Tom Schlick](https://tomschlick.com/) \[03/20/2017\]

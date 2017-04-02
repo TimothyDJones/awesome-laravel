@@ -740,6 +740,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Pascal Baljet](https://pascalbaljetmedia.com/en/blog/tag/laravel) \[02/04/2017\]
 - [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
+- [Peter Steenbergen](http://petericebear.github.io/) \[04/02/2017\]
 - [PHP Builder](http://www.phpbuilder.com/) \[01/08/2017\]
 - [PHP Clicks](http://phpclicks.com/laravel/) \[02/20/2016\]
 - [PHP Expert](http://www.expertphp.in/tag/laravel-php-framework) \[10/03/2016\]

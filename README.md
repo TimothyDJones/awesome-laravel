@@ -646,6 +646,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Ionut Bajescu](http://ionut-bajescu.com/)
 - [ItSolutionStuff](http://itsolutionstuff.com/tag/laravel.html)
+- [Jad Joubran](https://medium.com/@JoubranJad/) \[04/05/2017\]
 - [Jack Wall](https://jkwl.io/)
 - [Jacob Bennett](https://gistlog.co/JacobBennett)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)

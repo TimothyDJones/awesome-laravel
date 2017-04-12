@@ -276,6 +276,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - An open-source REST API backend for mobile and web applications built on Laravel. \[11/19/2016\]
 - [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.
+- [Laravel JSON API](https://github.com/cloudcreativity/laravel-json-api) - Package wrapper for standardizing JSON API requests/responses according to [JSON API](http://jsonapi.org/). \[04/12/2017\]
 
 ### Views
 - [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]

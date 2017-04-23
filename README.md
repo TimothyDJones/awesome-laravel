@@ -697,6 +697,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Tips Ã‚Â‘N Tricks](http://laraveltnt.com/) \[10/18/2016\]
 - [Laravel Tutorials](http://learn-laravel.blogspot.com/) \[04/28/2015\]
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
+- [Leader Internet](https://leaderinternet.com/blog) \[04/23/2017\]
 - [Logan Bailey](http://logansbailey.com/) \[04/18/2016\]
 - [Liza Shulyayeva](http://liza.io) \[09/22/2015\]
 - [Luca Bernardino](http://www.codeanchor.net/) \[07/13/2015\]

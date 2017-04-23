@@ -77,7 +77,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) - API, Scaffold, CRUD Laravel Generator \[05/01/2016\]
 - [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
-- [Laravel/Angular Material Starter] - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
+- [Laravel React Webpack Starter Kit](https://github.com/bezunakarmi/laravel-react-webpack) - Package for quickly configuring Laravel with React.JS, Webpack, and PostCSS/SASS. \[04/17/2017\]
+- [Laravel/Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
 - [React-Redux-Laravel](https://github.com/onerciller/react-redux-laravel#react-redux-laravel) - Boilerplate blog application for a Laravel JWT Backend and a React/Redux Front-End with Bootstrap 4. \[06/06/2016\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
@@ -220,10 +221,12 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel DOMPDF Wrapper](https://github.com/barryvdh/laravel-dompdf) - Laravel 4/5 package wrapper around [DOMPDF](http://dompdf.github.io/) for generating PDFs from Laravel views.
 - [Laravel Email Database Log](https://github.com/shvetsgroup/laravel-email-database-log) - Simple pakcage that logs all out-going e-mails sent from Laravel to `email_log` table in application database. \[10/12/2015\]
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
+- [Laravel File Generator](https://github.com/skyronic/laravel-file-generator) - Tools for helping you create your own [`artisan`](https://laravel.com/docs/artisan) commands to generate file templates. \[04/11/2017\]
 - [Laravel File Manager](https://github.com/tsawler/laravel-filemanager) - File upload manager and editor for Laravel that integrates with [CKEditor](http://ckeditor.com/). \[12/31/2016\]
 - [Laravel Formatter](https://github.com/SoapBox/laravel-formatter) - Port of [FuelPHP](http://fuelphp.com/) formatter library for formatting JSON, XML, YAML, and CSV data.
 - [Laravel Forum](https://github.com/Riari/laravel-forum) - A complete forum package designed for easy integration into any Laravel 4 application.
 - [Laravel Handlebars](https://github.com/ProAI/laravel-handlebars) - Provides support for using [Handlebars](http://handlebarsjs.com/) and [Mustache](https://github.com/bobthecow/mustache.php) templates with Laravel, including in conjunction with Blade. \[08/02/2016\]
+- [Laravel HTML](https://github.com/spatie/laravel-html) - Provides fluent interface for creating HTML in Blade templates or any HTML/frontend file. \[04/17/2017\]
 - [Laravel Javascript Routes](https://github.com/fedeisas/laravel-js-routes) - Package to allow simple matching of Laravel routes to JavaScript/jQuery on client side.
 - [Laravel Kint](https://github.com/rtconner/laravel-kint) - Package wrapper for [Kint](http://raveren.github.io/kint/) debugging library that includes native service provider. \[08/10/2015\]
 - [Laravel Medium Editor](http://www.codeforest.net/laravel-wysiwyg-editor) - Laravel package for using the [Medium WYSIWYG JavaScript Editor](http://daviferreira.github.io/medium-editor/) with Laravel 4.x.
@@ -275,6 +278,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - An open-source REST API backend for mobile and web applications built on Laravel. \[11/19/2016\]
 - [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.
+- [Laravel JSON API](https://github.com/cloudcreativity/laravel-json-api) - Package wrapper for standardizing JSON API requests/responses according to [JSON API](http://jsonapi.org/). \[04/12/2017\]
 
 ### Views
 - [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]
@@ -401,6 +405,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [PasteCloud](https://pastecloud.net/) - Free online snippet/notepad. \[12/16/2016\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
+- [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
 - [snapr.pw](https://snapr.pw/) - Free online image hosting site built on Laravel. \[10/21/2015\]
@@ -621,6 +626,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eric Barnes](http://ericlbarnes.com/)
 - [Ewan Valentine](http://ewanvalentine.io/) \[08/31/2015\]
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
+- [Feliciano Prochera](http://felicianoprochera.com/) \[04/12/2017\]
 - [Fideloper](http://fideloper.com/)
 - [Fleka](https://tech.fleka.me/tagged/laravel) \[02/16/2017\]
 - [Flynsarmy](https://www.flynsarmy.com/)

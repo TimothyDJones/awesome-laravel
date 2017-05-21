@@ -139,6 +139,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Debug Window](https://github.com/andersmandersen/laravel-debugwindow) - Extension of popular DebugBar tool that displays variables sent to view in easy-to-read format. \[07/20/2015\]
 - [Env Providers](https://github.com/svenluijten/env-providers) - Load service providers based on the application's current environment. \[03/07/2017\]
 - [Inspector](https://github.com/tajawal/inspector) - Utility that checks installed [Composer](https://getcomposer.org/) project dependencies and notifies you of any updates (not Laravel specific). \[04/26/2016\]
+- [Interactive Make](https://github.com/laracademy/interactive-make) - Turns Artisan `make` command into fully-interactive wizard for all options. \[04/26/2017\]
 - [Larasupport](http://irazasyed.github.io/larasupport/) - Provides some missing helpers to [Lumen](http://lumen.laravel.com/) and allows Laravel packages to be used with Lumen. \[06/08/2015\]
 - [Laravel API Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Another independent code-generation tool for creating project boilerplate, including migrations, models, controllers, various views, etc. \[05/14/2015\]
 - [Laravel Backup](https://github.com/freekmurze/laravel-backup) - Artisan extension that allows you to backup your application and database into a ZIP archive.
@@ -405,6 +406,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [PasteCloud](https://pastecloud.net/) - Free online snippet/notepad. \[12/16/2016\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
+- [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.

@@ -341,6 +341,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Resources
 - [LaraBrain](http://larabrain.com/) - Directory of tips and tutorials for all aspects of Laravel development. \[11/03/2015\]
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
+- [Larachat Live](https://www.youtube.com/channel/UCKAj-eBdBINhJ2Bi9lut29A) - YouTube channel with weekly topics on Laravel platform. \[05/30/2017\]
 - [Laracon 2014 Videos](http://userscape.com/laracon/2014/) - Directory of videos from 2014 Laracon in NYC.
 - [Laravel Database Designer](https://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Online tool for creating database model, including exporting as migration. \[05/16/2015\]
 - [Laravel Dojo](http://www.laravel-dojo.com/) - Tutorials on Laravel in Chinese (English translation [here](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fwww.laravel-dojo.com%2F)).

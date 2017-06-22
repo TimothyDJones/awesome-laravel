@@ -342,6 +342,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Resources
 - [LaraBrain](http://larabrain.com/) - Directory of tips and tutorials for all aspects of Laravel development. \[11/03/2015\]
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
+- [Larachat Live](https://www.youtube.com/channel/UCKAj-eBdBINhJ2Bi9lut29A) - YouTube channel with weekly topics on Laravel platform. \[05/30/2017\]
 - [Laracon 2014 Videos](http://userscape.com/laracon/2014/) - Directory of videos from 2014 Laracon in NYC.
 - [Laravel Database Designer](https://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Online tool for creating database model, including exporting as migration. \[05/16/2015\]
 - [Laravel Dojo](http://www.laravel-dojo.com/) - Tutorials on Laravel in Chinese (English translation [here](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fwww.laravel-dojo.com%2F)).
@@ -678,6 +679,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Joseph Ralph](http://josephralph.co.uk/tag/laravel/) \[05/05/2015\]
 - [Joseph Silber](https://josephsilber.com/posts) \[09/06/2016\]
 - [Justin Voelkel](http://justinvoelkel.me/category/angularjs/) \[08/08/2015\]
+- [Jyrone Parker](https://jyroneparker.com/category/blog/php/laravel/) \[05/21/2017\]
 - [Kamran Ahmed](http://kamranahmed.info/) \[04/07/2015\]
 - [KaltenCoder](http://kaltencoder.com/category/laravel/) \[08/13/2016\]
 - [Kane Cohen](http://kanecohen.github.io/) \[07/12/2015\]
@@ -778,7 +780,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ryan Winchester](https://ryanwinchester.ca/posts) \[10/15/2016\]
 - [Sarav](http://sarav.co/blog/) 
 - [Scotch.io](http://scotch.io/)
+- [Sean O'Neill](http://seanoneill.me/tag/laravel/) \[05/30/2017\]
 - [Sebastian De Deyne](https://sebastiandedeyne.com/) \[03/09/2017\]
+- [Saqueib Ansari](http://www.qcode.in/category/laravel/) \[05/30/2017\]
 - [Servage](https://www.servage.net/blog/tag/laravel/) \[08/16/2016\]
 - [Sillo (in French)](http://laravel.sillo.org/) \[01/08/2017\]
 - [Simon Archer (ArchyBold)](http://www.archybold.com/blog/tagged/laravel) \[06/08/2015\]

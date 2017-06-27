@@ -51,6 +51,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Boilerplate/Customized Configurations
 - [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel) - A Laravel 5 package that switches default Laravel scaffolding/boilerplate to AdminLTE template with Bootstrap 3.0 and [Pratt Landing Page](http://blacktie.co/demo/pratt/). \[02/02/2016\]
+- [Antares Project](https://github.com/antaresproject) - Custom re-packaging of Laravel, Vue.JS, and more as a starting point for building new applications quickly. \[06/27/2017\]
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
 - [Bootstrapper for Laravel](http://bootstrapper.eu1.frbit.net/) - Laravel package that provides fluent interface for using [Bootstrap](http://getbootstrap.com/) CSS framework in Laravel. \[11/09/2015\]
 - [esensi](http://esen.si/) - Laravel boilerplate application with enhancements for loaders and models.

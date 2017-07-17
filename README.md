@@ -174,6 +174,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [sqli](https://github.com/antonioribeiro/sqli) - Laravel 4 Artisan SQL REPL (interactive tool), similar to *tinker* for SQL queries.
 - [Environment](https://github.com/jpcercal/environment) - A simple library to increase the power of your environment variables.
 - [TNT Search](https://github.com/teamtnt/tntsearch) - Full-featured full-text search engine. \[10/01/2016\]
+- [Laravel UI http logger](http://apideveloper.io) - Laravel package to log every request/response app handled and UI to analyze it
 
 ### E-commerce
 - [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]

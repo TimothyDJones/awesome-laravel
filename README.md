@@ -658,6 +658,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Goodheads](http://goodheads.io/category/laravel/) \[04/26/2016\]
 - [How To Solve Now](http://www.howtosolvenow.com/category/language/php/larevel/) \[09/02/2016\]
 - [Isaac Castillo](http://icastwork.com/) \[09/10/2015\]
+- [Isaac Earl](https://isaacearl.com/tag:laravel) \[07/24/2017\]
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
 - [Inani El Houssain](https://medium.com/@InaniT0) \[12/31/2016\]
 - [IntoLaravel.com](http://www.intolaravel.com/)

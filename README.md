@@ -226,6 +226,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Calendar](https://github.com/makzumi/laravel-calendar) - A comprehensive calendar package with built-in support for events. \[04/22/2015\]
 - [Laravel DOMPDF Wrapper](https://github.com/barryvdh/laravel-dompdf) - Laravel 4/5 package wrapper around [DOMPDF](http://dompdf.github.io/) for generating PDFs from Laravel views.
 - [Laravel Email Database Log](https://github.com/shvetsgroup/laravel-email-database-log) - Simple pakcage that logs all out-going e-mails sent from Laravel to `email_log` table in application database. \[10/12/2015\]
+- [Laravel Enqueue](https://github.com/php-enqueue/laravel-queue) - Open-source Laravel wrapper for the PHP Enqueue queue library with support for [several queue transport technologies](https://github.com/php-enqueue/enqueue-dev/tree/master/docs/transport), including AMQP and Redis. \[07/24/2017\]
 - [Laravel Excel](http://www.maatwebsite.nl/laravel-excel/docs) - An Eloquent way of importing and exporting Excel and CSV files for Laravel 4.* with the power of PHPOffice's [PHPExcel](https://github.com/PHPOffice/PHPExcel).
 - [Laravel File Generator](https://github.com/skyronic/laravel-file-generator) - Tools for helping you create your own [`artisan`](https://laravel.com/docs/artisan) commands to generate file templates. \[04/11/2017\]
 - [Laravel File Manager](https://github.com/tsawler/laravel-filemanager) - File upload manager and editor for Laravel that integrates with [CKEditor](http://ckeditor.com/). \[12/31/2016\]

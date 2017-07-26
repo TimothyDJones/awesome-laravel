@@ -285,6 +285,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]
 
 ### REST/Web Services
+- [Apiato](http://apiato.io/) - [Open-source package](https://github.com/apiato/apiato), with comprehensive documentation, to help build APIs with Laravel. \[07/26/2017\]
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - An open-source REST API backend for mobile and web applications built on Laravel. \[11/19/2016\]
 - [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.

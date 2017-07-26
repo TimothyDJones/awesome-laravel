@@ -325,6 +325,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 101](https://github.com/cviebrock/laravel-101-slides) - Colin Viebrock's introduction to Laravel with associated code.
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).
 - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host) - Shared hosting can be difficult to set up for Laravel. Here are some good tips.
+- [Laravel Apz](https://github.com/jp7internet/laravel-apz) - Github repository with full tutorial on building Laravel 5.x application including AJAX CRUD, Bootstrap, and REST API. \[07/26/2017\]
 - [Laravel on OpenShift](https://github.com/luciddreamz/laravel) - Instructions and customized package for using Laravel on [OpenShift](https://www.openshift.com/) PaaS.
 - [Laravel Tutorials on Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/) - Series of unique Laravel tutorials, with special focus on available packages.
 - [Laravel Video Tutorials](http://andrewperkins.net/laravel) - Free, 10-part Laravel video tutorial with source code.  (Videos mirrored [here](http://www.dwidi.net/video_tag/laravel/).)

@@ -491,7 +491,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [IVD Assets](https://github.com/TTFerreira/ivd-assets) - IT asset management and ticketing application. \[08/02/2016\]
 - [JobsToMail](https://github.com/jobapis/jobs-to-mail) - Opt-in platform for receiving daily e-mail on job postings on 8 popular job boards that uses [JobsApi](http://www.jobapis.com/). \[10/10/2016\]
-- [Kanban](https://github.com/themsaid/kanban) - Open-source [Kanban](https://en.wikipedia.org/wiki/Kanban) board build with Laravel and Vue.js. \[10/01/2016\]
 - [KnowFox](https://github.com/oschettler/knowfox) - Sophisticated personal knowledgebase/PIM application modeled on Evernote.  Free, hosted version also available [here](https://knowfox.com/). \[03/07/2017\]
 - [Kwiki](https://github.com/fungku/kwiki) - Markdown-based wiki/blogging platform built on [Lumen](http://lumen.laravel.com/) that uses flat files (no database). \[06/16/2015\]
 - [Larabook Updated](https://github.com/forkiven/larabook-updated) - Facebook clone built with Laravel 5.0 based [Laracast tutorial](https://laracasts.com/series/build-a-laravel-app-from-scratch). \[06/16/2015\]

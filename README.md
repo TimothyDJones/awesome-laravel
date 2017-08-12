@@ -535,6 +535,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]
 - [Sample REST API](https://github.com/fasilkk/SampleRestAPI) - Sample implementation of RESTful API in Laravel with complete [PHPUnit](https://phpunit.de/) tests.
 - [Scrumwala](https://github.com/modestkdr/Scrumwala) - A Scrum/agile web application, with plan and work views, for personal use. \[05/29/2015\]
+- [Socializer](https://github.com/Evo267/socializer) - Basic social networking application built with Laravel. \[08/12/2017\]
 - [Ticket Conductor](https://github.com/Bottelet/ticket-conductor) - Basic ticket management tool built with Laravel 5.5 and [Vue.JS](http://vuejs.org/) as single-page application. \[08/03/2017\]
 - [TodoParrot](https://github.com/wjgilmore/todoparrot) - Simple "To Do" application described in [Easy Laravel 5](http://easylaravelbook.com/). \[05/28/2016\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.

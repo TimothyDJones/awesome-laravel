@@ -804,6 +804,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sean O'Neill](http://seanoneill.me/tag/laravel/) \[05/30/2017\]
 - [Sebastian De Deyne](https://sebastiandedeyne.com/) \[03/09/2017\]
 - [Saqueib Ansari](http://www.qcode.in/category/laravel/) \[05/30/2017\]
+- [Sergi Tur Badenas](https://medium.com/@sergiturbadenas) \[08/12/2017\]
 - [Servage](https://www.servage.net/blog/tag/laravel/) \[08/16/2016\]
 - [Sillo (in French)](http://laravel.sillo.org/) \[01/08/2017\]
 - [Simon Archer (ArchyBold)](http://www.archybold.com/blog/tagged/laravel) \[06/08/2015\]

@@ -414,6 +414,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Learning Locker](https://learninglocker.net/) - An [open-source](https://github.com/LearningLocker/learninglocker) online tool to track learning/education records
 - [Lightweight Hiker](https://lwhiker.com/) - Site to search for used hiking/backpacking gear. \[02/15/2016\]
 - [Listymail](https://listymail.com/) - Free online tool for email distribution lists. \[02/15/2016\]
+- [Makers Cabin](https://makerscabin.com/) - Learn full-stack web development using Laravel, Bootstrap, and other popular technologies. \[08/16/2017\]
 - [Mascots](https://mascots.stevil.co/) - An [open-source]() database of mascots of various teams and organizations. \[11/19/2016\]
 - [Maghnatis](http://maghnatis.com/) - Open-source Reddit clone forum application built with Laravel.  (Source code available [here](https://github.com/Halnex/laravel-reddit).) \[10/27/2015\]
 - [Opus](https://github.com/zeeshanu/opus) - Open-source knowledge-base platform for teams to improve collaboration. \[03/20/2017\]

@@ -100,6 +100,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Datatable](https://github.com/Chumper/Datatable) - Alternate Laravel 4 package wrapper for [Datatables](http://datatables.net/).
 - [Elasticquent](https://github.com/elasticquent/Elasticquent) - Package for mapping Laravel Eloquent models to [Elasticsearch](http://www.elasticsearch.org/) types. \[03/15/2017\]
 - [Eloquence](https://github.com/kirkbushell/eloquence) - Adds some very useful extensions to base Eloquent models, such as camel-case attributes, sluggable and UUID keys, etc. \[04/22/2015\]
+- [Eloquent Encryption/Decryption for Laravel](https://github.com/delatbabel/elocryptfive) - Automatic encryption/decryption of model attributes when stored/retrieved. \[08/17/2017\] 
 - [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Provides customized filtering capability for Eloquent models via a Filterable attribute. \[03/05/2016\]
 - [Eloquent MongoDB Repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Implementation of [repository](http://code.tutsplus.com/tutorials/the-repository-design-pattern--net-35804) [design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) for MongoDB using Eloquent. \[03/09/2016\]
 - [Eloquent Populator](https://github.com/guidocella/eloquent-populator) - Populate Laravel's Eloquent ORM's models by guessing the best Faker formatters for their attributes from their columns' names and types. \[02/16/2017\]

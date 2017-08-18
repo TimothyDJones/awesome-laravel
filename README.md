@@ -372,6 +372,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - _[Another Directory of Laravel Applications](https://devpost.com/software/built-with/laravel) \[12/31/2016\]
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
 - [AccountsPortal](http://www.accountsportal.com/) - Hosted online accounting application with support for invoicing, books and accounts. \[04/20/2015\]
+- [AgoraKit](https://github.com/philippejadin/agorakit) - Full-featured, open-source groupware platform for citizens' initatives, including calendar, online discussion forums, and more. \[08/18/2017\]
 - [Asgard CMS](http://asgardcms.com/) - CMS built with Laravel with goals of modularity, multi-language support, and ease of installation.
 - [Attendize](https://www.attendize.com/) - Free, [open-source](https://github.com/Attendize/Attendize), self-hosted ticket sales and event management platform. \[03/09/2016\]
 - [Author's Republic](https://www.authorsrepublic.com/) - E-commerce site for authors to sell audio books. \[10/20/2015\]

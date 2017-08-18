@@ -190,6 +190,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Mage2](https://github.com/mage2/laravel-ecommerce) - Laravel e-commerce package with built-in Paypal support. \[12/16/2016\]
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.
+- [Vanilo](https://vanilo.io/) - Basic (catalog, clients, cart, orders) e-commerce toolkit/framework for Laravel [built along the principles of Laravel itself](https://medium.com/@attilafulop/e-commerce-platform-for-laravel-c09a2bcfe8c6). \[08/17/2017\] 
 
 ### GIS/Mapping
 - [GeocoderLaravel](http://geocoder-php.org/GeocoderLaravel/) - Laravel package for the well-documented and supported [GeocoderPHP](http://geocoder-php.org/Geocoder/) library.

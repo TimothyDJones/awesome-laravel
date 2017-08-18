@@ -760,6 +760,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Matthew T. Brown](http://ryantbrown.io/tag/laravel/)
 - [Maurizio Bonani](http://blog.mauriziobonani.com/tags/#laravel) \[09/02/2016\]
 - [Menara Solutions](https://blog.menara.com.au/tag/laravel/) \[01/07/2016\]
+- [Merix Studio](http://www.merixstudio.com/blog/category/code-tools/) \[08/17/2017\]
 - [Metric Loop](https://metricloop.com/blog/tag/Laravel) \[09/02/2016\]
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Michael Dyrynda](https://dyrynda.com.au/blog?tag=laravel) \[05/26/2016\]

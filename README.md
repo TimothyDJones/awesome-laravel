@@ -658,6 +658,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Feliciano Prochera](http://felicianoprochera.com/) \[04/12/2017\]
 - [Fideloper](http://fideloper.com/)
 - [Fleka](https://tech.fleka.me/tagged/laravel) \[02/16/2017\]
+- [Francesco Lettera (Portuguese)](https://medium.com/@francescolettera) \[08/17/2017\]
 - [Flynsarmy](https://www.flynsarmy.com/)
 - [For Laravel](https://forlaravel.com/) \[10/12/2015\]
 - [Format C:](http://www.formatccolon.com/category/web-development/laravel/)

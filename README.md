@@ -338,6 +338,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Tutorials
 
 ### Tutorials (General)
+- [Getting Started with Pusher and Laravel Echo](https://www.youtube.com/watch?v=Qoti7G-tjN8) - In this screencast, The Skater Dev teaches how to build a real-time comments component using Laravel, Laravel Echo, and the Pusher Laravel Echo integration.
 - [25 Laravel Tips and Tricks](http://code.tutsplus.com/tutorials/25-laravel-tips-and-tricks--pre-92818) - Jeffrey Way gives a nice overview/introduction to Laravel 4 in the form of more than two dozen tips.
 - [Laravel 101](https://github.com/cviebrock/laravel-101-slides) - Colin Viebrock's introduction to Laravel with associated code.
 - [Laravel 4 on Google AppEngine for PHP](http://blog.neoxia.com/laravel-4-on-google-appengine-for-php/) - Step-by-step instructions for setting up Laravel to run on [Google App Engine](https://cloud.google.com/appengine/).

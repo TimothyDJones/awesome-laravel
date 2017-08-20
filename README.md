@@ -223,7 +223,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Intervention Image](http://image.intervention.io/) - An open-source PHP image handling and manipulation library with Laravel facades and service providers. \[02/11/2016\]
 - [iSeed](https://github.com/orangehill/iseed) - Inverse seed generator to create a database seed file using existing data in database table.
 - [Ixudra Curl](https://github.com/ixudra/curl) - Laravel package for fluent curl support. \[01/23/2016\]
-- [Kint](http://raveren.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
+- [Kint](http://kint-php.github.io/kint/) - A replacement for [`var_dump()`](http://php.net/manual/en/function.var-dump.php), [`print_r()`](http://php.net/manual/en/function.print-r.php), and [`dd()`](http://laravel.com/docs/4.2/helpers#miscellaneous) for pretty printing debugging data.
 - [Laracurl](https://github.com/zjango/Laracurl) - Laravel wrapper package for [PHP cURL](https://github.com/anlutro/php-curl) class that provides OOP interface to [cURL](https://en.wikipedia.org/wiki/CURL). \[10/27/2015\]
 - [Larastrap](https://github.com/memphisphp/larastrap) - Laravel base site configuration based on Laravel 4.1, [Bootstrap 3](https://github.com/twbs/bootstrap/releases), [jQuery](https://jquery.com/), [FontAwesome](http://fontawesome.io/), and [HTML5 Shiv](https://github.com/aFarkas/html5shiv/).
 - [Laravel Achievements](https://github.com/gstt/laravel-achievements) - Implements an achievement system in Laravel, based on Notifications. \[02/20/2017\]

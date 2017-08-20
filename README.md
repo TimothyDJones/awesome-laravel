@@ -120,6 +120,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
 - [Laravel Normalizer](https://github.com/nWidart/laravel-normalizer) - Simple package to allow model-independent normalization (i.e., capitalization, numeric formatting, etc.) of data before persisting. \[07/28/2016\]
 - [Laravel 5 Repository](https://github.com/prettus/l5-repository) - Package for the implementing the [repository design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) to abstract database layer of your application. \[08/16/2015\]
+- [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Create a new model factory file using Artisan command. \[03/27/2017\]
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [Laravel Value Objects](https://github.com/redcrystalcode/laravel-value-objects) - Cast Eloquent model attributes to [value objects](https://en.wikipedia.org/wiki/Value_object) with ease. \[12/07/2015\]
 - [LODM](https://github.com/wolfy-j/lodm) - ODM package for Laravel with native support for MongoDB that supports inheritance, composition, and aggregation, as well as hierarchical data. \[10/12/2015\]

@@ -138,6 +138,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Design Pattern Tools
 - [Laravel Context](https://github.com/rtroncoso/Laravel-Context) - Provides application contextual support for using different service providers, such as the case of admin functionality versus regular functionality. \[07/07/2015\]
 - [Repositories Maker](https://github.com/abdelrahmanrafaat/repositories-maker) - Adds Artisan command to auto-generate repositories for all Eloquent models. \[10/01/2016\]
+- [Laravel Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - Helps you have clean controller methods + easy caching. \[4/4/2017\]
 
 ### Development Tools
 - [Artisan View](https://github.com/svenluijten/artisan-view) - Adds a `make:view` [Artisan](https://laravel.com/docs/artisan) command for generating a Blade view file. \[07/27/2016\]

@@ -456,6 +456,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Vale Brewing](http://valebrewing.com.au/) - Nice, well-structured web site for Australian craft brewer. \[10/20/2015\]
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)
 - [Visual Bookmark Organizer](https://rivario.com/bookmark/) - Online bookmark tool that shows thumbnails of bookmarked site.  (Source code on [Github](https://github.com/yhbyun/laravel-bookmark).) \[04/22/2015\]
+- [Voten](https://voten.co/) - Social bookmarking site with support for up- and down-voting as well as discussions.  (Source code [here](https://github.com/voten-co/voten).) \[08/19/2017\]
 - [Vuedo](https://github.com/vuedo/vuedo) - Open-source blogging platform built with Laravel and [Vue.js](https://vuejs.org/) with Markdown editor and Amazon S3 integration. \[07/18/2016\]
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.

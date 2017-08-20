@@ -785,10 +785,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ollie Read](http://ollieread.com/)
 - [Oliver Kaufmann](https://okaufmann.ch/) \[11/19/2016\]
 - [Ominceps](http://www.omniceps.com/tag/laravel/) \[08/17/2017\]
-- [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Overtrue](http://overtrue.me/) \[10/27/2015\]
+- [Parth Patel](https://www.parthpatel.net/category/laravel/) \[08/19/2017\]
 - [Pascal Baljet](https://pascalbaljetmedia.com/en/blog/tag/laravel) \[02/04/2017\]
 - [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
+- [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
 - [Peter Steenbergen](http://petericebear.github.io/) \[04/02/2017\]
 - [PHP Builder](http://www.phpbuilder.com/) \[01/08/2017\]

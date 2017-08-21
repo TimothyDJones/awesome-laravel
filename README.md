@@ -681,7 +681,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Full Stack Blog](http://fullstack4u.com/category/laravel/) \[07/21/2015\]
 - [Garrett St. John](http://garrettstjohn.com/) \[05/30/2015\]
 - [G-Design (Gunther Groenewege)](http://blog.g-design.net/tagged/laravel) \[07/22/2015\]
-- [Geek & Dummy](http://geekanddummy.com/tag/laravel/)
+- [Geek & Dummy](http://geekanddummy.com/tag/laravel/) 
+- [Geekpub (German)](https://www.geekpub.de/tag/laravel/) \[08/21/2017\]
 - [George Bohnisch](http://georgebohnisch.com/) \[08/30/2015\]
 - [Geshan Manandhar](http://geshan.com.np/blog/categories/laravel/) \[07/28/2015\]
 - [Gijs Jorissen](https://medium.com/@gizburdt) \[01/25/2017\]

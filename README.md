@@ -99,6 +99,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]
 - [Apify](https://github.com/ConsoleTVs/Apify) - API generator for Laravel that allows JSON access to any model/table. \[01/07/2017\]
 - [belongsToThrough](https://github.com/znck/belongs-to-through) - Adds trait to Eloquent models to support ''belongsToThrough'' relationship. \[10/21/2015\]
+- [Computed Properties for Eloquent](https://github.com/n7olkachev/laravel-computed-properties) - Improved accessors for Laravel 5.4+ models. \[08/22/2017\]
 - [CRUD Generator](https://github.com/appzcoder/crud-generator) - Simple Artisan command to generate CRUD commands for database interaction of your model in Laravel 5. \[08/30/2015\]
 - [CRUDBooster](https://github.com/crocodic-studio/crudbooster) - Customization of Laravel framework for auto-generation of CRUD (Create, Read, Update, Delete) methods for your model. \[08/30/2016\]
 - [CSV](https://github.com/wilgucki/csv) - Package that supports reading and writing CSV (or other token-delimited) files. \[03/20/2017\]

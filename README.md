@@ -770,6 +770,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Mario Basic](http://mariobasic.com/)
 - [Marc Mulzer](http://mulzer.tumblr.com/)
 - [Marcel Pociot](http://marcelpociot.com/tag:Laravel) \[11/04/2015\]
+- [Marco Aurelio Deleu](https://hackernoon.com/@deleugpn) \[08/28/2017\]
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
 - [Marty Thomas](https://martythomas.svbtle.com/) \[09/02/2016\]

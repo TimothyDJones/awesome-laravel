@@ -17,6 +17,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
 - [Laravel Admin Panel](https://github.com/appzcoder/laravel-admin) - Laravel tool for managing users, roles, permissions, and CRUD generation. \[04/12/2016\]
 - [Laravel Administrator](https://github.com/FrozenNode/Laravel-Administrator/) - An administrative interface builder for Laravel that allows you to visually manage your Eloquent models and their relations and create stand-alone settings pages for storing site data and performing site tasks.
+- [Laravel Totem](https://github.com/codestudeo/laravel-totem) - A nice dashboard for managing Laravel scheduler tasks. \[08/25/2017\]
 - [Orchid](https://theorchid.github.io/en/) - A package for Laravel which helps with the administration of the application on Laravel, allowing you to write code as you want, control of routing/themes/plugins/etc - none of this and will not be! The package only gives a good set of tools that will be in demand in almost every project. \[07/13/2017\]
 - [UserFrosting](http://www.userfrosting.com) - A web framework and fully implemented user management application that uses Laravel's ORM and cache components.  The Sprinkle system allows you to easily and cleanly extend the core codebase with the custom features that your application requires.
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
@@ -417,6 +418,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Food Zoo Menu](http://www.umt.edu/dining/foodzoomenu) - University cafeteria menu listings using Laravel REST API and AngularJS. \[05/09/2016\]
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
+- [Git.cash](https://git.cash/) - Online marketplace for digital products with built-in Git integration. \[08/28/2017\]
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
 - [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Laravel application that integrates Git version control with Scrum methodology for task management. \[12/16/2016\]
 - [HasYourBabyArrivedYet.com](http://hasyourbabyarrivedyet.com/) - Free, simple service for sharing news about the arrival of your baby. \[08/11/2016\]
@@ -770,6 +772,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Mario Basic](http://mariobasic.com/)
 - [Marc Mulzer](http://mulzer.tumblr.com/)
 - [Marcel Pociot](http://marcelpociot.com/tag:Laravel) \[11/04/2015\]
+- [Marco Aurelio Deleu](https://hackernoon.com/@deleugpn) \[08/28/2017\]
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
 - [Marty Thomas](https://martythomas.svbtle.com/) \[09/02/2016\]
@@ -827,6 +830,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ringaal Sandbox](http://sandbox.ringaal.com/category/tutorials/laravel-tutorials/)
 - [Rizqi Djamaluddin](http://rizqi.id/archive) \[05/03/2016\]
 - [Ryan Chenkie](http://ryanchenkie.com/category/laravel/)
+- [Ryan Meier](https://www.rfmeier.net/tag/laravel/) \[08/28/2017\]
 - [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 - [Ryan Winchester](https://ryanwinchester.ca/posts) \[10/15/2016\]
 - [Sarav](http://sarav.co/blog/) 
@@ -924,6 +928,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Weekly](https://github.com/LaravelIO/LaravelWeekly) - Publication currently suspended, but lots of good information in back issues.
 - [Laravel News](http://laravel-news.com/) - Popular newsletter with updates from the Laravel community including excellent profiles of community members.
 - [Laravel Quick Tips](http://codebyjeff.com/newsletter) - Weekly e-mail with tips on Laravel to be read in under 5 minutes. \[01/11/2016\]
+- [Laravel Reading List](http://boringmonday.com/) - Automatically updated news aggregator for Laravel articles, packages, and Reddit posts. \[08/28/2017\]
 - [paper.li Laravel Weekly](http://paper.li/akhy/1356948419#!) - Weekly news and articles on Laravel.
 
 ### Job Sites/Postings

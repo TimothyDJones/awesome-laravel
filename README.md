@@ -954,6 +954,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 
 *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
+- [Orator](http://www.midnightcowboycoder.com/) - Online tool to convert legacy SQL queries to Laravel [Query Builder](https://laravel.com/docs/5.5/queries) format. \[09/02/2017\]
 - [PHP Framework Benchmarks](https://github.com/kenjis/php-framework-benchmark) - Real-world benchmarks of many popular (and a few obscure!) PHP frameworks, including Laravel 4.x and 5.x and Lumen. \[07/28/2016\]
 - [PHP Storm Laravel Live Templates](https://github.com/koomai/phpstorm-laravel-live-templates) - Comprehensive set of templates for Laravel for [PHP Storm](https://www.jetbrains.com/phpstorm/). \[05/25/2015\]
 - [Pier](https://github.com/codecasts/pier) - A set of customized Docker images for running Laravel with support for PHP 7.x, Nginx, Caddy, MySQL, and PostgreSQL. \[08/15/2016\]

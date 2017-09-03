@@ -445,6 +445,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [PasteCloud](https://pastecloud.net/) - Free online snippet/notepad. \[12/16/2016\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
+- [Polr](https://polrproject.org/) - Quick, modern, [open-source] link/URL shortener built with Lumen. \[09/02/2017\]
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]

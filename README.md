@@ -3,6 +3,46 @@ Awesome Laravel
 
 A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packages](#packages) and [resources](#resources).  Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
 
+## Table of Contents
+- [Packages](#packages)
+  - [Admin Tools/Panels](#admin-toolspanels)
+  - [Algorithms/Data Structures](#algorithmsdata-structures)
+  - [Authentication/Security](#authenticationsecurity)
+  - [Boilerplate/Customized Configurations](#boilerplatecustomized-configurations)
+  - [Database/Eloquent/Models](#databaseeloquentmodels)
+  - [Design Pattern Tools](#design-pattern-tools)
+  - [Development Tools](#development-tools)
+  - [E-commerce](#e-commerce)
+  - [GIS/Mapping](#gismapping)
+  - [Helpers/General](#helpersgeneral)
+  - [JavaScript Framework Support](#javascript-framework-support)
+  - [Third-Party API Support](#third-party-api-support)
+  - [REST/Web Services](#restweb-services)
+  - [Views](#views)
+  - [Web Forms](#web-forms)
+  - [WordPress Integration](#wordpress-integration)
+
+- [Tutorials](#tutorials)
+  - [Tutorials (General)](#tutorials-general)
+  - [Tutorial Series (Multi-part tutorials on Laravel basics)](#tutorial-series-multi-part-tutorials-on-laravel-basics)
+  - [Tutorials on Specific (and Frequently Occurring) Topics](#tutorials-on-specific-and-frequently-occurring-topics)
+
+- [Resources](#resources)
+  - [Applications Built with Laravel](#applications-built-with-laravel)
+  - [Books](#books)
+  - [References](#references)
+  - [Example Applications](#example-applications)
+  - [Blogs](#blogs)
+  - [Forums and Groups](#forums-and-groups)
+  - [Conferences, Meetups, and User Groups](#conferences-meetups-and-user-groups)
+  - [Newsletters](#newsletters)
+  - [Job Sites/Postings](#job-sitespostings)
+  - [Development Tools](#development-tools-1)
+  - [Other](#other)
+
+---
+
+
 ## Packages
 - [DuckDuckGo Packagist Search](https://duck.co/ia/view/packagist) - Search for Laravel packages from [DuckDuckGo](https://duckduckgo.com/) by including 'packagist' as first search term. \[06/29/2015\]
 - [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.

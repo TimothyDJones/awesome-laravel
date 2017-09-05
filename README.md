@@ -184,6 +184,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Resourceful](https://github.com/remoblaser/laravel-resourceful) - Generates full complement of CRUD resource Laravel code, including migrations, seeds, requests, controllers, models, and views. \[04/20/2015\]
 - [Links](https://github.com/ConsoleTVs/Links) - Package for link statistics and tracking, including browser type, OS, language, and more. \[11/04/2016\]
 - [Llum](https://github.com/acacha/llum) - Command-line utility to perform common configuration tasks for Laravel framework. \[08/12/2017\]
+- [Lumen Generators](https://github.com/webNeat/lumen-generators) - Adds several Artisan commands for generating controllers, models, migrations, resources, routes and more. (For Lumen and Laravel) \[09/03/2017\]
 - [Make:User](https://github.com/laracademy/commands.make-user) - Adds an Artisan command for generating a new user account based on e-mail address with optional name. \[11/15/2016\]
 - [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate database migrations from existing database schema.
 - [PHP Console](https://github.com/barbushin/php-console-laravel) - Laravel package wrapper/service provider to handle PHP errors, dump variables, execute PHP code remotely, etc. in Google Chrome with [PHP Console extension](https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef).
@@ -282,6 +283,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### JavaScript Framework Support
 - [Laravel and AngularJS](https://github.com/danielschmitz/laravel_and_angularjs_codes) - Source code to go with [book](https://leanpub.com/laravel_and_angularjs) on building applications with Laravel and [AngularJS](https://angularjs.org/). \[09/02/2016\]
+- [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - Adds support for [GraphQL](https://facebook.github.io/graphql/) to Laravel/Lumen. \[09/02/2017\]
 - [Laravel ReactJS](https://github.com/Cohros/laravel-reactjs) - Package to simplify sending data from Laravel back-end to front-end built to [Facebook ReactJS](http://facebook.github.io/react/). \[07/18/2015\]
 - [Laravue](https://github.com/laravue/laravue) - Package that integrates [Vue.JS](http://vuejs.org/) JavaScript framework for single-page web applications. \[07/27/2015\]
 - [react-laravel](https://github.com/talyssonoc/react-laravel) - Package to allow using ReactJS components directly in Laravel Blade views. \[07/18/2015\]
@@ -446,9 +448,11 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [PasteCloud](https://pastecloud.net/) - Free online snippet/notepad. \[12/16/2016\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
+- [Polr](https://polrproject.org/) - Quick, modern, [open-source](https://github.com/cydrobolt/polr) link/URL shortener built with Lumen. \[09/02/2017\]
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
+- [RSS For the Rest of Us](https://rss.fortherestof.us/) - Open-source (code [here](https://github.com/wilderborn/rss-for-the-rest-of-us)) RSS feed reader built on Laravel using the new [JSON Feed](https://jsonfeed.org/) format. \[08/30/2017\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
 - [snapr.pw](https://snapr.pw/) - Free online image hosting site built on Laravel. \[10/21/2015\]
 - [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
@@ -552,6 +556,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [Phonebook](https://github.com/adibhanna/phonebook) - Basic contact manager that demonstrates construction of simple Laravel application. \[10/15/2016\]
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
+- [PJ Blog](https://github.com/jcc/blog) - Full-featured, open-source blogging application built with Laravel and Vue.JS. \[09/02/2017\]
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
@@ -564,6 +569,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Scrumwala](https://github.com/modestkdr/Scrumwala) - A Scrum/agile web application, with plan and work views, for personal use. \[05/29/2015\]
 - [Socializer](https://github.com/Evo267/socializer) - Basic social networking application built with Laravel. \[08/12/2017\]
 - [Ticket Conductor](https://github.com/Bottelet/ticket-conductor) - Basic ticket management tool built with Laravel 5.5 and [Vue.JS](http://vuejs.org/) as single-page application. \[08/03/2017\]
+- [TicketIt](https://github.com/thekordy/ticketit) - A simple help-desk ticket system built on Laravel. \[08/30/2017\]
 - [TodoParrot](https://github.com/wjgilmore/todoparrot) - Simple "To Do" application described in [Easy Laravel 5](http://easylaravelbook.com/). \[05/28/2016\]
 - [todoProject] - Simple "To Do" tracking application build with Laravel 4 and Bootstrap.
 - [Todo Laravel](https://github.com/anam-hossain/Todo-laravel) - A simple Todo app which is built with Laravel 4, Bootstrap 3.0 and AngularJS. \[05/13/2015\]
@@ -859,6 +865,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Stormpath](https://stormpath.com/blog/category/php) \[08/11/2016\]
 - [Styde](https://styde.net/category/laravel-5/) (Spanish/[English translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fstyde.net%2Fcategory%2Flaravel-5%2F&edit-text=&act=url)) \[05/30/2015\]
 - [South LaSalle (Bob Bloom)](https://www.southlasalle.com/posts)
+- [Sujip Thapa](https://sujipthapa.co/blog/tag/laravel) \[08/30/2017\]
 - [Taha Shashtari](http://taha-sh.com/tags/laravel) \[10/07/2015\]
 - [Tanner Hearne](http://www.tannerhearne.com/category/development/laravel/)
 - [Taylor Otwell](http://taylorotwell.com/)
@@ -952,6 +959,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 
 *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).
+- [Orator](http://www.midnightcowboycoder.com/) - Online tool to convert legacy SQL queries to Laravel [Query Builder](https://laravel.com/docs/5.5/queries) format. \[09/02/2017\]
 - [PHP Framework Benchmarks](https://github.com/kenjis/php-framework-benchmark) - Real-world benchmarks of many popular (and a few obscure!) PHP frameworks, including Laravel 4.x and 5.x and Lumen. \[07/28/2016\]
 - [PHP Storm Laravel Live Templates](https://github.com/koomai/phpstorm-laravel-live-templates) - Comprehensive set of templates for Laravel for [PHP Storm](https://www.jetbrains.com/phpstorm/). \[05/25/2015\]
 - [Pier](https://github.com/codecasts/pier) - A set of customized Docker images for running Laravel with support for PHP 7.x, Nginx, Caddy, MySQL, and PostgreSQL. \[08/15/2016\]

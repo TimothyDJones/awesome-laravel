@@ -592,6 +592,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Alexander Trauzzi](http://atrauzzi.blogspot.ca/) \[04/07/2015\]
 - [Alfred Nutile](http://alfrednutile.info/posts)
 - [Amit Gaur](http://agalaxyphp.blogspot.com/search/label/Laravel)
+- [Amit Merchant](https://www.amitmerchant.com/) \[09/06/2017\]
 - [Amitav Roy](http://amitavroy.com/)
 - [Amo Chohan](https://dotdev.co/@amo.chohan) \[10/15/2016\]
 - [Andrea Sartori](http://blog.andreasartori.me/en/)

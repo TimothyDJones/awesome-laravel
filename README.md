@@ -90,7 +90,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
 - [Laravel React Webpack Starter Kit](https://github.com/bezunakarmi/laravel-react-webpack) - Package for quickly configuring Laravel with React.JS, Webpack, and PostCSS/SASS. \[04/17/2017\]
 - [Laravel Skeleton Application](https://github.com/rdehnhardt/skeleton) - Basic Laravel application template with dashboard, user management, and more. \[07\26\2017\]
-- [Laravel Zero](https://github.com/nunomaduro/laravel-zero) - Customized version of Laravel optimized for building console/shell/command-line applications. \[06/27/2017\]
+- [Laravel Zero](https://github.com/laravel-zero/laravel-zero) - Customized version of Laravel optimized for building console/shell/command-line applications. \[06/27/2017\]
 - [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 5.4 configuration with email registration verification, social authentication, user roles and permissions, user profiles, and user management system. \[08/19/2017\]
 - [Laravel/Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
 - [Owl](https://github.com/kjdion84/owl) - Laravel 5.5 configuration with CRUD generator, roles/permissions, Bootstrap 4, DataTables, and much more. \[09/05/2017\]

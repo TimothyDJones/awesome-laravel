@@ -42,6 +42,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]
 - [Laravel ACL](https://github.com/kodeine/laravel-acl) - Lightweight role-based permissions system for Laravel 5's built-in Auth system. \[06/15/2016\]
 - [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users. [03/08/2016]
+– [Laravel 5 Very Basic Auth](https://github.com/olssonm/l5-very-basic-auth) – HTTP Basic Authentication without the need for a database \[09/07/2017\]
 - [LDAP-Auth](https://github.com/krenor/ldap-auth) - Very basic read-only LDAP authentication driver for Laravel 5.1+. \[11/23/2015\]
 - [Libsodium for Laravel](https://github.com/scrothers/libsodium-laravel) - Laravel package wrapper for the [libsodium](https://download.libsodium.org/doc/) library which allows it to be a drop-in replacement for the Laravel native [encryption](http://laravel.com/docs/encryption) and [hashing](http://laravel.com/docs/hashing) classes/services. \[09/14/2015\]
 - [OAuth-4-Laravel](https://github.com/artdarek/oauth-4-laravel) - Laravel package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers.
@@ -943,7 +944,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Job Sites/Postings
 - [Laravel Gurus](http://laravelgurus.com/) - The best place to find consultants and freelancers for your Laravel projects.
 - [LaraJobs](http://larajobs.com/) - The best place to post your PHP, Laravel, or technical guru jobs.
-- [WithLaravel](http://withlaravel.com/) - Post Laravel project or position openings or add yourself as freelancer available for work.
 
 ### Development Tools
 - [docker-laravel](https://github.com/mtmacdonald/docker-laravel) - A Ubuntu [LEMP](https://lemp.io/) [Docker](https://www.docker.com/) base image for Laravel development loosely based on [Phusion Base Image](https://github.com/phusion/baseimage-docker). \[06/01/2015\]

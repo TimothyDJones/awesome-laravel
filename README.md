@@ -557,6 +557,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [Phonebook](https://github.com/adibhanna/phonebook) - Basic contact manager that demonstrates construction of simple Laravel application. \[10/15/2016\]
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
+- [PHP Geo Demo](https://github.com/jcorry/phpgeo-demo) - Demo application for using geographic data in PHP via Laravel 5.x. \[09/11/2017\]
 - [PJ Blog](https://github.com/jcc/blog) - Full-featured, open-source blogging application built with Laravel and Vue.JS. \[09/02/2017\]
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]

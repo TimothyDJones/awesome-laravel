@@ -215,6 +215,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraGeo](https://github.com/Fuhrmann/larageo-plugin) - Laravel package wrapper for [geoPlugin](http://www.geoplugin.com/webservices/json) IP address-to-locality web service.
 - [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Package to provide full Google Maps support to Laravel. \[07/30/2016\]
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
+- [Laravel MySQL Spatial](https://github.com/grimzy/laravel-mysql-spatial) - Package to easily work with [MySQL Spatial Data Types](https://dev.mysql.com/doc/refman/5.7/en/spatial-datatypes.html) and [MySQL Spatial Functions](https://dev.mysql.com/doc/refman/5.7/en/spatial-function-reference.html). \[09/11/2017\]
 - [Postcode](https://github.com/garygreen/Postcode) - Simple searching by postal codes for geographic information, including latitude/longitude. \[09/24/2016\]
 
 ### Helpers/General

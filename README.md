@@ -42,6 +42,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]
 - [Laravel ACL](https://github.com/kodeine/laravel-acl) - Lightweight role-based permissions system for Laravel 5's built-in Auth system. \[06/15/2016\]
 - [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users. [03/08/2016]
+– [Laravel 5 Very Basic Auth](https://github.com/olssonm/l5-very-basic-auth) – HTTP Basic Authentication without the need for a database \[09/07/2017\]
 - [LDAP-Auth](https://github.com/krenor/ldap-auth) - Very basic read-only LDAP authentication driver for Laravel 5.1+. \[11/23/2015\]
 - [Libsodium for Laravel](https://github.com/scrothers/libsodium-laravel) - Laravel package wrapper for the [libsodium](https://download.libsodium.org/doc/) library which allows it to be a drop-in replacement for the Laravel native [encryption](http://laravel.com/docs/encryption) and [hashing](http://laravel.com/docs/hashing) classes/services. \[09/14/2015\]
 - [OAuth-4-Laravel](https://github.com/artdarek/oauth-4-laravel) - Laravel package wrapper for [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) with support for OAuth 1 and OAuth 2 providers.
@@ -57,6 +58,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Security Checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to SensioLabs Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. \[07/24/2017\]
 
 ### Boilerplate/Customized Configurations
+- [Laravel Code Generator](https://github.com/CrestApps/laravel-code-generator) - A clean code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages or request-forms! It is extremely flexible and customizable to cover many on the use cases. It is shipped with cross-browsers compatible template, along with a client-side…
 - [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel) - A Laravel 5 package that switches default Laravel scaffolding/boilerplate to AdminLTE template with Bootstrap 3.0 and [Pratt Landing Page](http://blacktie.co/demo/pratt/). \[02/02/2016\]
 - [Antares Project](https://github.com/antaresproject) - Custom re-packaging of Laravel, Vue.JS, and more as a starting point for building new applications quickly. \[06/27/2017\]
 - [Base Laravel Admin](https://github.com/alexdover/laravel-base-admin) - A basic Laravel 4.x install with a admin site/dashboard using Bootstrap 3. \[04/13/2015\]
@@ -88,9 +90,10 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
 - [Laravel React Webpack Starter Kit](https://github.com/bezunakarmi/laravel-react-webpack) - Package for quickly configuring Laravel with React.JS, Webpack, and PostCSS/SASS. \[04/17/2017\]
 - [Laravel Skeleton Application](https://github.com/rdehnhardt/skeleton) - Basic Laravel application template with dashboard, user management, and more. \[07\26\2017\]
-- [Laravel Zero](https://github.com/nunomaduro/laravel-zero) - Customized version of Laravel optimized for building console/shell/command-line applications. \[06/27/2017\]
+- [Laravel Zero](https://github.com/laravel-zero/laravel-zero) - Customized version of Laravel optimized for building console/shell/command-line applications. \[06/27/2017\]
 - [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) - Laravel 5.4 configuration with email registration verification, social authentication, user roles and permissions, user profiles, and user management system. \[08/19/2017\]
 - [Laravel/Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Complete project starter template for building application with Laravel 5 and [Angular Material](https://material.angularjs.org/). \[08/20/2015\]
+- [Owl](https://github.com/kjdion84/owl) - Laravel 5.5 configuration with CRUD generator, roles/permissions, Bootstrap 4, DataTables, and much more. \[09/05/2017\]
 - [React-Redux-Laravel](https://github.com/onerciller/react-redux-laravel#react-redux-laravel) - Boilerplate blog application for a Laravel JWT Backend and a React/Redux Front-End with Bootstrap 4. \[06/06/2016\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
@@ -212,6 +215,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraGeo](https://github.com/Fuhrmann/larageo-plugin) - Laravel package wrapper for [geoPlugin](http://www.geoplugin.com/webservices/json) IP address-to-locality web service.
 - [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Package to provide full Google Maps support to Laravel. \[07/30/2016\]
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.
+- [Laravel MySQL Spatial](https://github.com/grimzy/laravel-mysql-spatial) - Package to easily work with [MySQL Spatial Data Types](https://dev.mysql.com/doc/refman/5.7/en/spatial-datatypes.html) and [MySQL Spatial Functions](https://dev.mysql.com/doc/refman/5.7/en/spatial-function-reference.html). \[09/11/2017\]
+- [Laravel PostGIS](https://github.com/njbarrett/laravel-postgis) - Package to simplify use of [PostGIS](http://postgis.net/) geometry data in Laravel. \[09/11/2017\]
 - [Postcode](https://github.com/garygreen/Postcode) - Simple searching by postal codes for geographic information, including latitude/longitude. \[09/24/2016\]
 
 ### Helpers/General
@@ -265,6 +270,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Laravel Taggable Trait](https://github.com/rtconner/laravel-tagging) - Trait and library to support managing tags on your models. \[10/15/2016\] 
+- [Laravel Transactional Events](https://github.com/fntneves/laravel-transactional-events) - Adds a transactional layer to the Laravel [Event Dispatcher](https://laravel.com/docs/events#dispatching-events). \[09/06/2017\]
 - [MailThief](https://github.com/tightenco/mailthief) - A fake mailer for Laravel applications that makes it easy to test mail without actually sending any emails. \[07/07/2016\]
 - [PDF Laravel 5](https://github.com/vsmoraes/pdf-laravel5) - Package wrapper for [DOMPDF](http://dompdf.github.io/) HTML-to-PDF conversion library. \[08/16/2015\] 
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
@@ -556,6 +562,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [Phonebook](https://github.com/adibhanna/phonebook) - Basic contact manager that demonstrates construction of simple Laravel application. \[10/15/2016\]
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.
+- [PHP Geo Demo](https://github.com/jcorry/phpgeo-demo) - Demo application for using geographic data in PHP via Laravel 5.x. \[09/11/2017\]
 - [PJ Blog](https://github.com/jcc/blog) - Full-featured, open-source blogging application built with Laravel and Vue.JS. \[09/02/2017\]
 - [Neon Tsunami Blog](https://github.com/dwightwatson/neontsunami) - Fully PHPUnit tested Laravel 4.2 app for reference.
 - [OpenPub](https://github.com/baileylo/openpub) - Markdown-based blog platform built on Laravel 5. \[04/05/2016\]
@@ -591,6 +598,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Alexander Trauzzi](http://atrauzzi.blogspot.ca/) \[04/07/2015\]
 - [Alfred Nutile](http://alfrednutile.info/posts)
 - [Amit Gaur](http://agalaxyphp.blogspot.com/search/label/Laravel)
+- [Amit Merchant](https://www.amitmerchant.com/) \[09/06/2017\]
 - [Amitav Roy](http://amitavroy.com/)
 - [Amo Chohan](https://dotdev.co/@amo.chohan) \[10/15/2016\]
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
@@ -940,7 +948,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Job Sites/Postings
 - [Laravel Gurus](http://laravelgurus.com/) - The best place to find consultants and freelancers for your Laravel projects.
 - [LaraJobs](http://larajobs.com/) - The best place to post your PHP, Laravel, or technical guru jobs.
-- [WithLaravel](http://withlaravel.com/) - Post Laravel project or position openings or add yourself as freelancer available for work.
 
 ### Development Tools
 - [docker-laravel](https://github.com/mtmacdonald/docker-laravel) - A Ubuntu [LEMP](https://lemp.io/) [Docker](https://www.docker.com/) base image for Laravel development loosely based on [Phusion Base Image](https://github.com/phusion/baseimage-docker). \[06/01/2015\]

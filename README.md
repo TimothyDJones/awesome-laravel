@@ -552,6 +552,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Make It Snappy](https://github.com/jijoel/make-it-snappy-laravel4) - Independent Laravel **4** implementation of the application built in the Tuts+ ["Build a Practical Web Application with Laravel"](http://code.tutsplus.com/courses/hands-on-build-a-practical-web-application-with-laravel) tutorial.
 - [Mapigniter](http://sourceforge.net/projects/mapigniter2/) - A web mapping platform to publish and manage geographic information powered by Laravel 5, [OpenLayers 3](http://openlayers.org/) and AngularJS packaged as a [Virtual Box](https://www.virtualbox.org/) OVA. \[12/05/2015\]
 - [Mongoblog](https://github.com/jpcaparas/mongoblog) - REST-based Laravel blog application that uses [MongoDB](https://www.mongodb.com/) for storage. \[08/12/2017\]
+- [Open Heroes](https://sourceforge.net/projects/open-heroes/) - Tour-based strategic role-playing game (RPG) similar to [Heroes of Might & Magic](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic). \[09/16/2017\]
 - [Paypal Processor](https://github.com/martindevnow/paypalproc) - Sample Paypal-based ecommerce site implemented with Laravel.
 - [Phonebook](https://github.com/adibhanna/phonebook) - Basic contact manager that demonstrates construction of simple Laravel application. \[10/15/2016\]
 - [PHPHub](https://github.com/summerblue/phphub) - Complete forum application built with Laravel 4.2.

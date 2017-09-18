@@ -97,6 +97,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [React-Redux-Laravel](https://github.com/onerciller/react-redux-laravel#react-redux-laravel) - Boilerplate blog application for a Laravel JWT Backend and a React/Redux Front-End with Bootstrap 4. \[06/06/2016\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
+- [Turtle](https://github.com/kjdion84/turtle) - Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more. \[09/18/2017\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
 
 ### Database/Eloquent/Models

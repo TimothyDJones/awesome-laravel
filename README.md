@@ -907,6 +907,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [zwacky](https://medium.com/@zwacky)
 
 ### Forums and Groups
+- [Forge Recipes](http://forgerecipes.com/) - Community-maintained recipes for using [Laravel Forge](https://forge.laravel.com/). \[09/21/2017\] 
 - [Go Laravel](http://www.golaravel.com/) - Chinese-language forum and shared blog site for Laravel. \[04/22/2015\]
 - [Google+ Laravel Community](https://plus.google.com/communities/106838454910116161868)
 - [LaraChat](https://larachat.co/) - A Slack channel for learning and sharing about Laravel framework. \[09/04/2015\]

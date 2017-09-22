@@ -97,6 +97,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [React-Redux-Laravel](https://github.com/onerciller/react-redux-laravel#react-redux-laravel) - Boilerplate blog application for a Laravel JWT Backend and a React/Redux Front-End with Bootstrap 4. \[06/06/2016\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
+- [Turtle](https://github.com/kjdion84/turtle) - Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more. \[09/18/2017\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
 
 ### Database/Eloquent/Models
@@ -138,6 +139,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [MySQL Workbench Export Laravel 5 Migrations Plugin](https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations) - Plugin for [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) to export data models to Laravel 5 migrations. \[09/24/2016\] 
 - [ODBC Driver](https://github.com/garylocke/odbc-driver) - Laravel 5.x package which provides support for using **any** database via [ODBC](https://en.m.wikipedia.org/wiki/Open_Database_Connectivity). \[07/20/2015\]
 - [PHP Eloquent Repository](https://github.com/nilportugues/php-eloquent-repository) - Repository package for Eloquent for use with Eloquent or plain PHP. \[02/15/2016\]
+- [Query Dumper](https://github.com/sarfraznawaz2005/querydumper) - Output query SQL and results to your view page for debugging. \[09/18/2017\]
 - [Revisionable](https://github.com/VentureCraft/revisionable) - Adds simple (and, optionally, [trait](http://php.net/manual/en/language.oop5.traits.php)-based) support for keeping revision history of models in your Laravel applications.
 - [Rinvex Repository](https://github.com/rinvex/repository) - Comprehensive and well-documented [repository](https://www.sitepoint.com/repository-design-pattern-demystified/) package (specifically [Active Repository](https://blog.omranic.com/active-repository-is-good-awesomely-usable-6991cfd58774) pattern) for abstracting storage/persistence. \[08/31/2016\]
 - [Searchable](https://github.com/nicolaslopezj/searchable) - a trait for Laravel 4.2+ and Laravel 5.0 that adds a simple search function to Eloquent Models to prioritize fields for searching. \[12/04/2016\]

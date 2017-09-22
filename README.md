@@ -273,6 +273,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Laravel Taggable Trait](https://github.com/rtconner/laravel-tagging) - Trait and library to support managing tags on your models. \[10/15/2016\] 
 - [Laravel Transactional Events](https://github.com/fntneves/laravel-transactional-events) - Adds a transactional layer to the Laravel [Event Dispatcher](https://laravel.com/docs/events#dispatching-events). \[09/06/2017\]
+- [Laravel Validation Rules](https://github.com/laravel-validation-rules) - Collection of drop-in, Composer-enabled validation rules that integrate with built-in [validation engine](https://laravel.com/docs/5.5/validation). \[09/21/2017\]
 - [MailThief](https://github.com/tightenco/mailthief) - A fake mailer for Laravel applications that makes it easy to test mail without actually sending any emails. \[07/07/2016\]
 - [PDF Laravel 5](https://github.com/vsmoraes/pdf-laravel5) - Package wrapper for [DOMPDF](http://dompdf.github.io/) HTML-to-PDF conversion library. \[08/16/2015\] 
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.

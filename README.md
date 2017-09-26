@@ -72,6 +72,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraAdmin](http://laraadmin.com/) - LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more. \[12/13/2016\]
 - [Laracogs](http://laracogs.com/) - Package that includes helpers for Bootstrap, CRUD, notifications, billing via Cashier, and form generation. \[04/26/2016\]
 - [LaraLTE2](https://github.com/kossa/laralte2) - Laravel PHP Framework with [AdminLTE2](https://almsaeedstudio.com/AdminLTE) and other packages and JavaScript tools. \[06/04/2016\]
+- [Laramen](https://github.com/laurencei/laramen) - Customized configuration of Laravel that uses Lumen-powered API routes. \[09/26/2017\]
 - [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]
 - [Laravel Angular Admin](https://github.com/silverbux/laravel-angular-admin) - Laravel, AngularJS, Bootstrap, and AdminLTE with OAuth and JWT authentication. \[10/18/2016\]
 - [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Laravel 5 and [Angular Material](https://material.angularjs.org/) with sample config for ui-router, Restangular, theming, etc. See tutorial on use [here](http://www.sitepoint.com/flexible-and-easily-maintainable-laravel-angular-material-apps/).

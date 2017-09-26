@@ -811,6 +811,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Michael Stivala](https://michaelstivala.com/) \[10/01/2016\]
 - [Mike Smith](https://medium.com/@splatEric) \[02/06/2017\]
 - [Mitch Stanley](http://fullstackstanley.com/read/categories/laravel) \[09/16/2015\]
+- [Mitchell McKenna](http://mitchmckenna.com/blog/category/programming/laravel/) \[09/26/2017\]
 - [Mohamed Said](http://themsaid.github.io/) \[04/13/2016\]
 - [Morgan Davidson](http://morgandavison.com/tag/laravel/) \[09/02/2016\]
 - [Muhammad Usman](http://usman.it/tag/laravel/)

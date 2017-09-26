@@ -308,6 +308,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Package providing a fluent API to Dropbox for Laravel. \[09/26/2016\]
 - [Laravel Google Calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on Google Calendar via Laravel. \[05/26/2016\]
 - [laravel-ratchet](https://github.com/Askedio/laravel-ratchet) - Package that provides artisan command `ratchet:serve` which starts a [Ratchet](http://socketo.me/) IO, Web Socket, or WAMP server using the class provided. \[05/16/2016\]
+- [Laravel SMS](https://github.com/matthewbdaly/laravel-sms) - SMS service provider package for Laravel for sending SMS notifications via Nexmo or Clockwork. \[09/26/2017\]
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
 - [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
 - [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]

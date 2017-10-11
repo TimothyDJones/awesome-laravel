@@ -72,6 +72,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraAdmin](http://laraadmin.com/) - LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel with features like Advanced CRUD Generation, Module Manager, Backups and many more. \[12/13/2016\]
 - [Laracogs](http://laracogs.com/) - Package that includes helpers for Bootstrap, CRUD, notifications, billing via Cashier, and form generation. \[04/26/2016\]
 - [LaraLTE2](https://github.com/kossa/laralte2) - Laravel PHP Framework with [AdminLTE2](https://almsaeedstudio.com/AdminLTE) and other packages and JavaScript tools. \[06/04/2016\]
+- [Laramen](https://github.com/laurencei/laramen) - Customized configuration of Laravel that uses Lumen-powered API routes. \[09/26/2017\]
 - [LaraProto](https://github.com/taviroquai/laraproto) - Laravel web site prototype with built-in user management and Bootstrap styling. \[08/06/2015\]
 - [Laravel Angular Admin](https://github.com/silverbux/laravel-angular-admin) - Laravel, AngularJS, Bootstrap, and AdminLTE with OAuth and JWT authentication. \[10/18/2016\]
 - [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) - Laravel 5 and [Angular Material](https://material.angularjs.org/) with sample config for ui-router, Restangular, theming, etc. See tutorial on use [here](http://www.sitepoint.com/flexible-and-easily-maintainable-laravel-angular-material-apps/).
@@ -96,6 +97,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Owl](https://github.com/kjdion84/owl) - Laravel 5.5 configuration with CRUD generator, roles/permissions, Bootstrap 4, DataTables, and much more. \[09/05/2017\]
 - [React-Redux-Laravel](https://github.com/onerciller/react-redux-laravel#react-redux-laravel) - Boilerplate blog application for a Laravel JWT Backend and a React/Redux Front-End with Bootstrap 4. \[06/06/2016\]
 - [Scafold](https://github.com/bestmomo/scafold) - Adds back some of the boilerplate/scaffolding removed in Laravel 5.1. \[07/20/2015\]
+- [Skeletor](https://github.com/pixelfusion/skeletor) - Interactive shell tool for creating a new Laravel/Lumen project that automates several common steps. Learn more [here](https://medium.com/pixel-fusion/skeletor-the-laravel-skeleton-generator-f02a14ff2b4b). \[10/05/2017\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
 - [Turtle](https://github.com/kjdion84/turtle) - Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more. \[09/18/2017\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
@@ -132,6 +134,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Normalizer](https://github.com/nWidart/laravel-normalizer) - Simple package to allow model-independent normalization (i.e., capitalization, numeric formatting, etc.) of data before persisting. \[07/28/2016\]
 - [Laravel 5 Repository](https://github.com/prettus/l5-repository) - Package for the implementing the [repository design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) to abstract database layer of your application. \[08/16/2015\]
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Create a new model factory file using Artisan command. \[03/27/2017\]
+- [Laravel References](https://github.com/jameslkingsley/laravel-references) - Provides a simple way to add unique references to models that can be resolved via route model binding without exposing primary keys. \[10/09/2017\]
 - [Laravel Searchy](https://github.com/TomLingham/Laravel-Searchy) - Easy-to-use database searching package for Laravel 4 with support for fuzzy searching and sensitivity configuration. \[04/30/2015\]
 - [Laravel Value Objects](https://github.com/redcrystalcode/laravel-value-objects) - Cast Eloquent model attributes to [value objects](https://en.wikipedia.org/wiki/Value_object) with ease. \[12/07/2015\]
 - [LODM](https://github.com/wolfy-j/lodm) - ODM package for Laravel with native support for MongoDB that supports inheritance, composition, and aggregation, as well as hierarchical data. \[10/12/2015\]
@@ -308,6 +311,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) - Package providing a fluent API to Dropbox for Laravel. \[09/26/2016\]
 - [Laravel Google Calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on Google Calendar via Laravel. \[05/26/2016\]
 - [laravel-ratchet](https://github.com/Askedio/laravel-ratchet) - Package that provides artisan command `ratchet:serve` which starts a [Ratchet](http://socketo.me/) IO, Web Socket, or WAMP server using the class provided. \[05/16/2016\]
+- [Laravel SMS](https://github.com/matthewbdaly/laravel-sms) - SMS service provider package for Laravel for sending SMS notifications via Nexmo or Clockwork. \[09/26/2017\]
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
 - [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
 - [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]
@@ -452,6 +456,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Makers Cabin](https://makerscabin.com/) - Learn full-stack web development using Laravel, Bootstrap, and other popular technologies. \[08/16/2017\]
 - [Mascots](https://mascots.stevil.co/) - An [open-source]() database of mascots of various teams and organizations. \[11/19/2016\]
 - [Maghnatis](http://maghnatis.com/) - Open-source Reddit clone forum application built with Laravel.  (Source code available [here](https://github.com/Halnex/laravel-reddit).) \[10/27/2015\]
+- [Monica](https://monicahq.com/) - [Open-source](https://github.com/monicahq/monica) personal CRM for helping you keep track of your friends and family. \[10/02/2017\]
 - [Opus](https://github.com/zeeshanu/opus) - Open-source knowledge-base platform for teams to improve collaboration. \[03/20/2017\]
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
@@ -461,6 +466,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [RasP.is](http://rasp.is/) - Basic URL shortener and bookmarking utility built with Laravel. Source code [here](https://github.com/kamranahmedse/laravel-url-shortener). \[10/10/2017\]
+- [Reddit Grid](https://redditgrid.com/) - Browser for image-heavy Sub-Reddits with NSFW filtering. \[09/26\2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
 - [RSS For the Rest of Us](https://rss.fortherestof.us/) - Open-source (code [here](https://github.com/wilderborn/rss-for-the-rest-of-us)) RSS feed reader built on Laravel using the new [JSON Feed](https://jsonfeed.org/) format. \[08/30/2017\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
@@ -769,6 +775,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laracasts Snippets](https://laracasts.simplecast.fm/) \[08/11/2016\]
 - [Laraget (Filip Zdravkovic)](http://laraget.com/blog) \[03/31/2017\]
 - [Laratips](https://laratips.io/) \[07/07/2016\]
+- [Laravel & VueJS](https://www.laravel-vuejs.com/) \[10/05/2017\]
 - [Laravel 5 Tutorials](https://medium.com/laravel-5-tutorials) \[06/01/2015\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
@@ -811,6 +818,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Michael Stivala](https://michaelstivala.com/) \[10/01/2016\]
 - [Mike Smith](https://medium.com/@splatEric) \[02/06/2017\]
 - [Mitch Stanley](http://fullstackstanley.com/read/categories/laravel) \[09/16/2015\]
+- [Mitchell McKenna](http://mitchmckenna.com/blog/category/programming/laravel/) \[09/26/2017\]
 - [Mohamed Said](http://themsaid.github.io/) \[04/13/2016\]
 - [Morgan Davidson](http://morgandavison.com/tag/laravel/) \[09/02/2016\]
 - [Muhammad Usman](http://usman.it/tag/laravel/)

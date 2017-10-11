@@ -460,6 +460,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Polr](https://polrproject.org/) - Quick, modern, [open-source](https://github.com/cydrobolt/polr) link/URL shortener built with Lumen. \[09/02/2017\]
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
+- [RasP.is](http://rasp.is/) - Basic URL shortener and bookmarking utility built with Laravel. Source code [here](https://github.com/kamranahmedse/laravel-url-shortener). \[10/10/2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
 - [RSS For the Rest of Us](https://rss.fortherestof.us/) - Open-source (code [here](https://github.com/wilderborn/rss-for-the-rest-of-us)) RSS feed reader built on Laravel using the new [JSON Feed](https://jsonfeed.org/) format. \[08/30/2017\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.

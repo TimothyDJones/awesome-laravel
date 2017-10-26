@@ -466,6 +466,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Polr](https://polrproject.org/) - Quick, modern, [open-source](https://github.com/cydrobolt/polr) link/URL shortener built with Lumen. \[09/02/2017\]
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
+- [RasP.is](http://rasp.is/) - Basic URL shortener and bookmarking utility built with Laravel. Source code [here](https://github.com/kamranahmedse/laravel-url-shortener). \[10/10/2017\]
 - [Reddit Grid](https://redditgrid.com/) - Browser for image-heavy Sub-Reddits with NSFW filtering. \[09/26\2017\]
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
 - [RSS For the Rest of Us](https://rss.fortherestof.us/) - Open-source (code [here](https://github.com/wilderborn/rss-for-the-rest-of-us)) RSS feed reader built on Laravel using the new [JSON Feed](https://jsonfeed.org/) format. \[08/30/2017\]
@@ -700,6 +701,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Elena Kolevska](http://blog.elenakolevska.com/)
 - [Elliot Hesp](http://blog.elliothesp.co.uk/) \[07/13/2015\]
 - [Eric Barnes](http://ericlbarnes.com/)
+- [Esben Petersen](http://esbenp.github.io/) \[10/10/2017\]
 - [Ewan Valentine](http://ewanvalentine.io/) \[08/31/2015\]
 - [Experience](https://experiencehq.net/blog/tags/laravel) \[05/30/2015\]
 - [Feliciano Prochera](http://felicianoprochera.com/) \[04/12/2017\]

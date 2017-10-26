@@ -725,6 +725,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Gliding Phenomena (Ravi Panchumarthy)](http://glidingphenomena.blogspot.com/search/label/laravel)
 - [Gufran.me](http://www.gufran.me/)
 - [Goodheads](http://goodheads.io/category/laravel/) \[04/26/2016\]
+- [Hello Laravel](https://medium.com/hello-laravel) \[10/26/2017\]
 - [How To Solve Now](http://www.howtosolvenow.com/category/language/php/larevel/) \[09/02/2016\]
 - [Isaac Castillo](http://icastwork.com/) \[09/10/2015\]
 - [Isaac Earl](https://isaacearl.com/tag:laravel) \[07/24/2017\]

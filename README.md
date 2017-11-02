@@ -505,6 +505,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Cheatsheetr](http://cheatsheetr.com/) - [Maks Surguy](http://maxoffsky.com/)'s topical cheat sheets for Laravel and Bootstrap.
 - [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209) \[10/09/2017\]
 - [Your One-Stop Guide to ~~Laravel~~ Artisan Commands](http://code.tutsplus.com/tutorials/your-one-stop-guide-to-laravel-commands--net-30349)
+- [LaraGuide (Laravel Code Guide)](https://laraguide.surge.sh/) - Comprehensive guide on some of the more complex and esoteric aspects of Laravel for beginners. \[11/02/2017\]
 - [LaraPulse](https://github.com/rinvex/larapulse) - Weekly summary of changes to Laravel framework and tips and snippets from Laravel world. \[08/31/2016\]
 - [Laravel 5 Cheat Sheet](http://www.linxiang.info/l5-cs/) \[05/11/2015\]
 - [Laravel 5.1 LTS Cheat Sheet](https://aufree.github.io/laravel5-cheatsheet/) \[04/13/2016\]

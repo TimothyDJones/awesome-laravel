@@ -981,6 +981,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Drydock](https://github.com/atrauzzi/laravel-drydock) - A pre-built local development environment for Laravel using Docker. \[02/08/2016\]
 - [Laravel Model/Migration Generator](http://andressantibanez.com/laravel-model-generator/) - Simple online tool for generating Laravel model class definition and database migration code by entering details about database table. \[08/04/2016\]
 - [Laravel on Windows](https://laravelonwindows.com/) - Help for developers using Windows, including how to use Homestead and Vagrant. \[03/08/2017\]
+- [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) - Add Artisan command to show summary statistics of your project, such as number of classes, methods, lines of code, etc. \[11/06/2017\]
 - [Laravel Tail](https://github.com/spatie/laravel-tail) - Brings back the awesome `tail` command for artisan to Laravel 5. \[02/14/2017\]
 - [Laravel 
 *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]

@@ -415,7 +415,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bumble CMS](http://bumblecms.com/) - CMS platform for Laravel framework with focus on simplicity. \[09/04/2015\]
 - [Burnmsg](https://burnmsg.com/) - Simple self-destructing, [encrypted messaging application](http://www.edzynda.com/create-a-self-destructing-encrypted-message-app-in-laravel-part-1/) built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
 - [Cachet](https://cachethq.io/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.
-- [Canvas](http://austintoddj.github.io/Canvas/) - A minimalist blogging platform for developers which uses [Summernote WYSIWIG editor](http://summernote.org/) for Markdown support built with Laravel. \[07/07/2016\] 
+- [Canvas](https://cnvs.io/) - An [open-source](https://github.com/cnvs/canvas) minimalist blogging platform for developers which uses [Summernote WYSIWIG editor](http://summernote.org/) for Markdown support built with Laravel. \[07/07/2016\] 
 - [Circuits.com](https://circuits.com/) - Electronic components marketplace with comprehensive search capability and over 3 billion parts in stock.
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Coaster CMS](https://www.coastercms.org/) - Full-featured CMS platform with built-in support for [beacons](https://google.github.io/physical-web/). \[03/26/2017\]

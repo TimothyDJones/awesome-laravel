@@ -491,6 +491,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Voten](https://voten.co/) - Social bookmarking site with support for up- and down-voting as well as discussions.  (Source code [here](https://github.com/voten-co/voten).) \[08/19/2017\]
 - [Vuedo](https://github.com/vuedo/vuedo) - Open-source blogging platform built with Laravel and [Vue.js](https://vuejs.org/) with Markdown editor and Amazon S3 integration. \[07/18/2016\]
 - [Wardrobe](http://wardrobecms.com/) - A minimalist blogging platform and CMS supporting Markdown and simple theming.
+- [Workeer](https://workeer.de/) - German-language site for helping refugees find jobs. \[11/06/2017\]
 - [Xenon Support Center](https://github.com/shellprog/Xenon-Support-Center/) - A comprehensive, but minimal, open-source ticket- and conversation-management platform.
 
 ### Books

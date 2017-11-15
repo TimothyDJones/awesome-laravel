@@ -436,7 +436,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Food Zoo Menu](http://www.umt.edu/dining/foodzoomenu) - University cafeteria menu listings using Laravel REST API and AngularJS. \[05/09/2016\]
 - [Geocod.io](http://geocod.io/) - Low-cost (2500 transactions per day free) geocoding web service built by [Mathias Hansen](https://twitter.com/MathiasHansen).
 - [Gistlog](https://gistlog.co/) - Markdown-based blogging tool that uses Github's Gist platform for storage (more [here](https://laravel-news.com/2015/02/gistlog/)).
-- [Git.cash](https://git.cash/) - Online marketplace for digital products with built-in Git integration. \[08/28/2017\]
+- [SquareBit](https://squarebit.io/) - Online marketplace for digital products with built-in Git integration. \[11/15/2017\]
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
 - [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Laravel application that integrates Git version control with Scrum methodology for task management. \[12/16/2016\]
 - [HasYourBabyArrivedYet.com](http://hasyourbabyarrivedyet.com/) - Free, simple service for sharing news about the arrival of your baby. \[08/11/2016\]

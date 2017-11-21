@@ -925,6 +925,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Web Design & Development Talk](http://www.web-design-talk.co.uk/category/laravel-4/)
 - [Web Monkeys](https://www.webmonkeys.io/forums/laravel.27/) \[09/02/2016\]
 - [WebDevTuts](http://webdevtuts.co.uk/tag/laravel/) \[07/13/2015\]
+- [Web Fosters, The](https://thewebfosters.com/tag/laravel) \[11/21/2017\]
 - [Weblint4u](http://weblint4u.com/category/laravel/)
 - [Websanova](http://www.websanova.com/blog/) \[09/23/2015\]
 - [Webs Mentor](https://websmentor.wordpress.com/category/laravel/) \[10/18/2016\]

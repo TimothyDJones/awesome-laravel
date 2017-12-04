@@ -445,6 +445,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
 - [Jigsaw](http://jigsaw.tighten.co/) - [Open-source](https://github.com/tightenco/jigsaw) static site generator and CMS tool built with Laravel that supports Blade templating and markdown. \[04/13/2016\]
 - [Jumpertrax](https://www.jumpertrax.com/homepage) - Online sports event entry and tracking tool. \[05/10/2016\]
+- [Kendozone](https://kendozone.com) - Create tournaments in instants. \[04/12/2017\]
 - [Kraken CRM](http://krakencrm.github.io/kraken/) - A simple, lightweight CRM (contact management tool) \[Under development\]. \[05/20/2015\]
 - [Koel](http://koel.phanan.net) - A simple, [open-source](https://github.com/phanan/koel) web-based personal audio streaming service (i.e., [Spotify](https://www.spotify.com/) clone) written in [Vue.js](http://vuejs.org/) on the client side and Laravel on server side. \[12/14/2015\]
 - [Kyle](https://github.com/laravelista/kyle) - Monthly billing/invoicing application built on Laravel. \[06/18/2016\]
@@ -993,7 +994,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel on Windows](https://laravelonwindows.com/) - Help for developers using Windows, including how to use Homestead and Vagrant. \[03/08/2017\]
 - [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) - Add Artisan command to show summary statistics of your project, such as number of classes, methods, lines of code, etc. \[11/06/2017\]
 - [Laravel Tail](https://github.com/spatie/laravel-tail) - Brings back the awesome `tail` command for artisan to Laravel 5. \[02/14/2017\]
-- [Laravel Tournaments](https://github.com/xoco70/laravel-tournaments) - Laravel 5.4+ Package that allows you to generate customizable tournaments trees. Edit
+- [Laravel Tournaments](https://github.com/xoco70/laravel-tournaments) - Laravel 5.4+ Package that allows you to generate customizable tournaments trees
 - [Laravel 
 *for Ubuntu*](https://github.com/cpriego/valet-ubuntu) - Port of [Laravel Valet](http://laravel.com/docs/valet) (for Mac) to run on Ubuntu. \[05/31/2016\]
 - [Lumen](http://lumen.laravel.com/) - PHP micro-framework based on Laravel (official).

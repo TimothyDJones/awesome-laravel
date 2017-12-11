@@ -476,6 +476,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Rewind Radio](https://www.rewindradio.com/) - Online tool for making and sharing radio clips including display of waveform audio. \[10/21/2015\]
 - [RSS For the Rest of Us](https://rss.fortherestof.us/) - Open-source (code [here](https://github.com/wilderborn/rss-for-the-rest-of-us)) RSS feed reader built on Laravel using the new [JSON Feed](https://jsonfeed.org/) format. \[08/30/2017\]
 - [Screeenly](http://screeenly.com/) - Open-source (source code [here](https://github.com/stefanzweifel/screeenly)) tool and API to create screen shots of web sites.
+- [Shopopotamus](https://shopopotamus.com/) - Nice, responsive e-commerce site built on Laravel. \[12/11/2017\]
 - [snapr.pw](https://snapr.pw/) - Free online image hosting site built on Laravel. \[10/21/2015\]
 - [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
 - [Spiral](http://spiral.ac/) - Educational technology tools for collaboration and progress reporting. \[10/21/2015\]

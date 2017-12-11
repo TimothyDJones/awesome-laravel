@@ -544,6 +544,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dingo Project Management](https://github.com/zeeshanu/dingo-project-managment) - A full-featured personal project management tool with task boards. \[04/26/2016\]
 - [Doptor CMS](http://www.doptor.org/) - Free, open-source CMS built with Laravel and Bootstrap that includes drag-and-drop form editing. \[03/02/2016\]
 - [EasyAdmin](https://github.com/laravelish/EasyAdmin) - Advanced Laravel Login and User Management with Two-Factor Authentication. \[06/09/2016\]
+- [Elephant Traders](https://github.com/matthewtrask/elephpant-traders) - Basic Laravel site example for e-commerce built for swapping PHP Elephant plush toys. \[12/11/2017\]
 - [EESTEC Platform for Local Committees](https://github.com/angelov/eestec-platform) - Committee management tool for engineering student association. \[11/23/2015\]
 - [GH-analytics](https://github.com/GH-analytics) - Reference implementation application with Laravel backend and [AngularJS](https://angularjs.org/) front-end.
 - [IVD Assets](https://github.com/TTFerreira/ivd-assets) - IT asset management and ticketing application. \[08/02/2016\]

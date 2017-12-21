@@ -844,6 +844,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Nate Denlinger](https://natedenlinger.com/) \[11/06/2017\]
 - [Nedex.io](http://blog.nedex.io/) \[03/30/2017\]
 - [Neoelemento (Vishnu Padmanabhan)](http://neoelemento.com/blog/)
+- [Nick Basile](https://nick-basile.com/blog/tag/Laravel) \[12/21/2017\]
 - [Nick Boyle](http://bicknoyle.com/) \[02/15/2016\]
 - [Nicola Malizia](https://unnikked.ga/tagged/laravel) \[01/25/2017\]
 - [Nicolas Widart](https://nicolaswidart.com/blog) \[07/28/2016\]

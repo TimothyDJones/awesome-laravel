@@ -12,6 +12,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
 
 ### Admin Tools/Panels
+- [Antares Project](https://antaresproject.io/) - Fully Modular Application On Steroids With Laravel And Vue. Build your own modules that can hook up to any element of the system and easily maintain your well-organized codebase! \[28/12/2017\]
 - [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Simple admin panel with database CRUD support and built-in support for Laravel Auth. \[09/06/2016\]
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
@@ -658,7 +659,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Christoph Rumpel](http://christoph-rumpel.com/)
 - [Christopher Pitt](https://medium.com/@assertchris)
 - [Chuck Heintzelman](http://laravelcoding.com/blog) \[06/11/2015\]
-- [ClÃ©ment Rigo (Mydnic)](https://mydnic.be/search?q=laravel) \[03/10/2017\]
+- [Cl�?©ment Rigo (Mydnic)](https://mydnic.be/search?q=laravel) \[03/10/2017\]
 - [Clivern](http://clivern.com/tag/laravel/)
 - [Cloudways Blog](http://www.cloudways.com/blog/category/applications/laravel/) \[08/02/2016\]
 - [Code And Be Happy (Jesse Walton)](http://codeandbehappy.com/tags/#laravel) \[09/23/2015\]

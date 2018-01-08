@@ -415,6 +415,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bootsnipp](http://bootsnipp.com/) - Element gallery, playground and code snippets for Bootstrap framework.
 - [BootstrapCMS](https://github.com/BootstrapCMS/CMS) - Comprehensive CMS built with Laravel using [Sentry](https://cartalyst.com/manual/sentry/) for user management/authentication.
 - [BotMan Studio](https://github.com/botman/studio) - Laravel application to build custom chat bots using [BotMan](https://botman.io/). \[08/19/2017\]
+- [BuildPrint](https://buildprint.io/) - Document and share your mods for most anything (cars, bicycles, drones) online. \[01/08/2018\]
 - [Bumble CMS](http://bumblecms.com/) - CMS platform for Laravel framework with focus on simplicity. \[09/04/2015\]
 - [Burnmsg](https://burnmsg.com/) - Simple self-destructing, [encrypted messaging application](http://www.edzynda.com/create-a-self-destructing-encrypted-message-app-in-laravel-part-1/) built on Laravel.  [Open-source, self-hosted version available on Github.](https://github.com/ezynda3/burnmsg)
 - [Cachet](https://cachethq.io/) - A single-site, alternative to https://statuspage.io written in PHP with the Laravel project, supporting both SQLite and MySQL databases.

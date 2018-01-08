@@ -481,6 +481,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [snapr.pw](https://snapr.pw/) - Free online image hosting site built on Laravel. \[10/21/2015\]
 - [Snipe-IT](http://snipeitapp.com/) - A free open source (source code [here](https://github.com/snipe/snipe-it)) IT asset/license management system built in PHP on Laravel 4.2 and Bootstrap 3. \[08/13/2015\]
 - [Spiral](http://spiral.ac/) - Educational technology tools for collaboration and progress reporting. \[10/21/2015\]
+- [SquareBit](https://squarebit.io/) - Digital ecommerce marketplace for books, software, and other goods with Git integration. \[01/08/2018\]
 - [StackPile](https://stackpile.io/) - Online tool for managing third-party APIs used by your application, built with Laravel and [Vue.js](http://vuejs.org/). \[03/28/2016\]
 - [Statimgram](https://statimgram.com/) - Allows you to publish images to multiple Instagram accounts simultaneously and schedule your posts. \[08/11/2016\]
 - [Style CI](https://styleci.io/) - Free PHP coding style continuous integration service that checks and (optionally) fixes Github public repositories against PHP coding standards.

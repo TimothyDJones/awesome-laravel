@@ -446,6 +446,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Laravel application that integrates Git version control with Scrum methodology for task management. \[12/16/2016\]
 - [HasYourBabyArrivedYet.com](http://hasyourbabyarrivedyet.com/) - Free, simple service for sharing news about the arrival of your baby. \[08/11/2016\]
 - [HiveStory](http://hivestory.com/) - Online collaborative story-writing application. \[11/09/2015\]
+- [Interactive Books' Atelier](http://lostideaslab.com/pirates-lost-pearl/interactive-books-atelier/) - [Open-source](http://github.com/lil-plp/iba) customized CMS for managing small book clubs, including notes, recommendations and more. \[01/09/2018\]
 - [Invoice Ninja](https://www.invoiceninja.com/) - Online small business invoicing platform with free plan up to 500 clients.  [Open-source, self-hosted version available on Github.](https://github.com/hillelcoren/invoice-ninja)
 - [Jigsaw](http://jigsaw.tighten.co/) - [Open-source](https://github.com/tightenco/jigsaw) static site generator and CMS tool built with Laravel that supports Blade templating and markdown. \[04/13/2016\]
 - [Jumpertrax](https://www.jumpertrax.com/homepage) - Online sports event entry and tracking tool. \[05/10/2016\]

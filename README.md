@@ -179,6 +179,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Identify](https://github.com/unicodeveloper/laravel-identify) - Package to identify client configuration, such as browser, device, operating system and more. \[01/07/2017\]
 - [Laravel Inspector](https://github.com/lsrur/inspector/) - Comprehensive debugging and profiling tool with full logging capabilities that outputs errors and logged actions to browser JavaScript console. \[08/03/2016\]
 - [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Add on which allows you to view your Laravel 4.2/5.0 log file within the application itself by opening the `logs` (or other) route.
+- [Laravel Make-Me](https://github.com/HydrefLab/laravel-make-me) - Extendable interactive Artisan `make` command. \[03/03/2018\]
 - [Laravel PackMe](https://github.com/ptondereau/laravel-packme) - A shell/command-line starter kit for developing pakcages for Laravel 5. \[06/16/2016\]
 - [Laravel Permission](https://github.com/spatie/laravel-permission) - A simple package to manage users, roles, and permissions in Laravel. \[09/22/2015\]
 - [Laravel Tracer](https://github.com/appstract/laravel-tracer) - Displays the full path of each Blade view, including partials, loaded into template at place it is applied. \[06/22/2017\]

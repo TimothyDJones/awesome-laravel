@@ -601,6 +601,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [OrderMVC Laravel Application](https://github.com/OrderMVC/Laravel-App) - Laravel 4 implementation of a basic e-commerce application using MVC architecture. \[06/11/2015\]
 - [Origin CMS](https://github.com/akhileshdarjee/origin-cms) - Full-featured CMS built on Laravel 5.2 that can be used as application boilerplate. \[10/10/2016\]
 - [Owl](https://github.com/owl/owl) - Simple collaboration tool built on Laravel with support for "favorites" and tags, full text search, email and Slack notifications, and more. \[07/22/2016\]
+- [Panic Help Desk](https://github.com/panichelpdesk/panichd) - Ticketing system installable in any Laravel 5.1+ project. It includes a set of common features like file attachments, ticket tags, filtering, scheduling and e-mail notifications. \[3/11/2018\]
 - [ReMark](https://github.com/Technopathic/ReMark) - Blogging platform with built-in feed aggregator and multimedia hosting built on Laravel and [AngularJS](https://angularjs.org/). \[07/22/2016\]
 - [Ribbbon](https://github.com/canvasowl/ribbbon) - Project management application built on Laravel 5.x and [Vue.js](https://vuejs.org/) that supports task weighting and project sharing. \[03/28/2016\]
 - [Rusty Nails Adventurers RPG Guild](https://github.com/Riari/rna-guild.net) - RPG guild web site built on Laravel using [Materialize](http://materializecss.com/) CSS framework, [Laravel FullCalendar.io Helper](https://github.com/maddhatter/laravel-fullcalendar), and more. \[05/26/2016\]

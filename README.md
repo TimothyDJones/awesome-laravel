@@ -758,6 +758,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Jack Wall](https://jkwl.io/)
 - [Jacob Bennett](https://gistlog.co/JacobBennett)
 - [Jacopo Beschi](http://www.jacopobeschi.com/tag/laravel)
+- [Jagadesha NH](https://medium.com/@jagadeshanh) \[03/16/2018\]
 - [James Brooks](http://james-brooks.uk/)
 - [Jamie Rumbelow](http://jamieonsoftware.com/tagged/laravel) \[04/12/2015\]
 - [Janik von Rotz](https://janikvonrotz.ch/category/work/laravel/) \[04/14/2015\]

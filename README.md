@@ -842,6 +842,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Michael Brooks](http://michaelbrooks.co.uk/tag/laravel)
 - [Michael Dyrynda](https://dyrynda.com.au/blog?tag=laravel) \[05/26/2016\]
 - [Michael Stivala](https://michaelstivala.com/) \[10/01/2016\]
+- [Milan Chheda](https://milanchheda.com/tag/laravel) \[03/27/2018\]
 - [Mike Smith](https://medium.com/@splatEric) \[02/06/2017\]
 - [Mitch Stanley](http://fullstackstanley.com/read/categories/laravel) \[09/16/2015\]
 - [Mitchell McKenna](http://mitchmckenna.com/blog/category/programming/laravel/) \[09/26/2017\]

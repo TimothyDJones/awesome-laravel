@@ -936,6 +936,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tommy Ku](http://blog.tommyku.com/)
 - [Tutelage Systems](http://tutelagesystems.com/) \[05/09/2016\]
 - [Tutsnare](http://tutsnare.com/category/laravel/)
+- [Unlikenesses](http://unlikenesses.com/) \[04/10/2018\]
 - [Vegi Bit](http://vegibit.com/tag/laravel/)
 - [Vincent Klaiber](https://vinkla.com/) \[08/11/2015\]
 - [Vehikl](http://transmission.vehikl.com/) \[08/10/2015\]

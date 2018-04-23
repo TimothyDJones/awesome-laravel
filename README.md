@@ -326,6 +326,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - An open-source REST API backend for mobile and web applications built on Laravel. \[11/19/2016\]
 - [Dingo API](https://github.com/dingo/api) - Toolkit for building RESTful API with Laravel including API versioning, rate limiting, error handling, and more.
+- [Laravel API Boilerplate (JWT Edition)](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt) - Package for API boilerplate to build REST API/web service quickly, including support for JWT. \[04/23/2018\]
 - [Laravel GraphQL](https://github.com/studio-net/laravel-graphql) - Laravel package wrapper for [GraphQL PHP](https://github.com/webonyx/graphql-php) to support use of [GraphQL](https://facebook.github.io/graphql/) for data access with Eloquent. \[08/03/2017\]
 - [Laravel JSON API](https://github.com/cloudcreativity/laravel-json-api) - Package wrapper for standardizing JSON API requests/responses according to [JSON API](http://jsonapi.org/). \[04/12/2017\]
 - [Laravel Scene](https://github.com/AeonAxan/laravel-scene) - Transformer which converts Laravel models into API responses. \[12/05/2017\]

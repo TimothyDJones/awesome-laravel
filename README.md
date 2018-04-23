@@ -883,6 +883,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Prasenjit Kumar Nag](http://joycse06.github.io/blog/categories/laravel/) \[03/09/2016\]
 - [Programming Are Hard (David Adams)](http://programmingarehard.com/tag/laravel.html)
 - [Prosper Otemuyiwa](http://prosperotemuyiwa.com/tag/laravel/) \[05/14/2015\]
+- [Quantizd](https://quantizd.com/) \[04/23/2018\]
 - [Raffworks](http://raffworks.com/category/series/getting-started-with-laravel-4/)
 - [Recursive Iterator](https://recursiveiterator.wordpress.com/category/laravel/)
 - [Reza Shadman](http://rezashadman.ir/) \[09/30/2015\]

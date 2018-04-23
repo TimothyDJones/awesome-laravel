@@ -167,6 +167,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Inspector](https://github.com/tajawal/inspector) - Utility that checks installed [Composer](https://getcomposer.org/) project dependencies and notifies you of any updates (not Laravel specific). \[04/26/2016\]
 - [Interactive Make](https://github.com/laracademy/interactive-make) - Turns Artisan `make` command into fully-interactive wizard for all options. \[04/26/2017\]
 - [Lambo](https://github.com/tightenco/lambo) - Simple shell script that speeds the process of creating and configuring a new Laravel project. \[07/24/2017\]
+- [Laraquick](https://github.com/ezra-obiwale/laraquick) - Collection of classes to help speed Laravel development. \[04/23/2018\]
 - [Larasupport](http://irazasyed.github.io/larasupport/) - Provides some missing helpers to [Lumen](http://lumen.laravel.com/) and allows Laravel packages to be used with Lumen. \[06/08/2015\]
 - [Laravel API Generator](https://github.com/mitulgolakiya/laravel-api-generator) - Another independent code-generation tool for creating project boilerplate, including migrations, models, controllers, various views, etc. \[05/14/2015\]
 - [Laravel Backup](https://github.com/freekmurze/laravel-backup) - Artisan extension that allows you to backup your application and database into a ZIP archive.

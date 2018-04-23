@@ -418,6 +418,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Attendize](https://www.attendize.com/) - Free, [open-source](https://github.com/Attendize/Attendize), self-hosted ticket sales and event management platform. \[03/09/2016\]
 - [Author's Republic](https://www.authorsrepublic.com/) - E-commerce site for authors to sell audio books. \[10/20/2015\]
 - [BarChart.com](https://www.barchart.com/) - Portal for financial experts and businesses to get the latest market data for US, UK, Australia and Canadian stock markets. \[08/20/2017\]
+- [Bombsite](https://bombsite.io/) - Free, online web site builder built with Laravel. \[04/23/2018\]
 - [Bootsnipp](http://bootsnipp.com/) - Element gallery, playground and code snippets for Bootstrap framework.
 - [BootstrapCMS](https://github.com/BootstrapCMS/CMS) - Comprehensive CMS built with Laravel using [Sentry](https://cartalyst.com/manual/sentry/) for user management/authentication.
 - [BotMan Studio](https://github.com/botman/studio) - Laravel application to build custom chat bots using [BotMan](https://botman.io/). \[08/19/2017\]

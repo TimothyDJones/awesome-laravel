@@ -872,6 +872,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Pascal Landau](http://www.pascallandau.com/blog/) \[08/31/2016\]
 - [Paul Foryt](http://blog.goforyt.com/category/laravel/) \[11/11/2015\]
 - [Pete Houston](https://medium.com/@petehouston) \[07/22/2015\]
+- [Peter Fox](https://medium.com/@SlyFireFox) \[04/23/2018\]
 - [Peter Plucinski](http://blog.peterplucinski.com/) \[03/03/2018\]
 - [Peter Steenbergen](http://petericebear.github.io/) \[04/02/2017\]
 - [PHP Builder](http://www.phpbuilder.com/) \[01/08/2017\]

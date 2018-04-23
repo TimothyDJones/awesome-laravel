@@ -431,6 +431,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Coanda CMS](http://coandacms.org/) - Coanda CMS is a content management system based on the Laravel PHP Framework. \[04/13/2015\]
 - [Coaster CMS](https://www.coastercms.org/) - Full-featured CMS platform with built-in support for [beacons](https://google.github.io/physical-web/). \[03/26/2017\]
 - [Codex](http://codex.caffeinated.ninja/) - A simple file-based Markdown documentation platform built on top of Laravel.
+- [Collabbing.com](https://collabbing.com/) - Site for collaborating with other developers on ideas and projects. \[04/23/2018\]
 - [Colorsublime](http://colorsublime.com/) - Directory of [Sublime Text](http://www.sublimetext.com/) themes along with a plugin to simplify installation of those themes.
 - [Confomo](https://confomo.com/) - Simple, [open-source](https://github.com/mattstauffer/confomo) tool for keeping track of contacts that you meet at conferences. \[07/27/2016\]
 - [Commentum.io](https://commentum.io/) - A Reddit clone built with Laravel that scores entries based on "momentum" from events like views, comments, etc. \[08/31/2015\]

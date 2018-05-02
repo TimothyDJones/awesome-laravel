@@ -484,6 +484,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PhotonCMS](https://photoncms.com/) - RESTful API-driven/headless CMS built on Laravel and Vue.js. \[03/03/2018\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
 - [Polr](https://polrproject.org/) - Quick, modern, [open-source](https://github.com/cydrobolt/polr) link/URL shortener built with Lumen. \[09/02/2017\]
+- [Project Tools](https://sourceforge.net/project/project-tools/) - Self-hosted, open-source application for managing project requests that allows managers to assess the business value. \[05/02/2018\]
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [RasP.is](http://rasp.is/) - Basic URL shortener and bookmarking utility built with Laravel. Source code [here](https://github.com/kamranahmedse/laravel-url-shortener). \[10/10/2017\]

@@ -546,6 +546,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Guide](http://laravel-guide.readthedocs.io/) - Easy-to-read and navigate view of the Laravel documentaiton. \[05/17/2016\]
 - [Laravel The Right Way](http://www.laravelbestpractices.com/) - *Opinionated* guide to Laravel development best practices, inspired by [PHP The Right Way](http://www.phptherightway.com/).
 - [LaraVer](https://laraver.xyz/) - Online reference to the current released version of Laravel.  With free account, you can see differences of current version to any previous version. \[12/07/2015\]
+- [Laravel eBook](https://github.com/driade/laravel-book) Up to date Epub, Mobi and PDF versions from the official Laravel Docs
 
 ### Example Applications
 - **[OpenLaravel](http://openlaravel.com/)** - Directory of open-source projects built with Laravel framework. (Source code [here](https://github.com/ammezie/openlaravel).) \[08/30/2016\]

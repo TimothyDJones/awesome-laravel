@@ -224,6 +224,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### GIS/Mapping
 - [GeocoderLaravel](http://geocoder-php.org/GeocoderLaravel/) - Laravel package for the well-documented and supported [GeocoderPHP](http://geocoder-php.org/Geocoder/) library.
 - [GeoIP for Laravel](http://www.darwinbiler.com/laravel-4-freegeoip/) - Laravel package with fluent API for getting location information from IP address. \[06/01/2015\]
+- [GooglMapper](https://github.com/bradcornford/Googlmapper) - Package for integrating Google Maps into your Laravel application. \[06/25/2018\]
 - [LaraGeo](https://github.com/Fuhrmann/larageo-plugin) - Laravel package wrapper for [geoPlugin](http://www.geoplugin.com/webservices/json) IP address-to-locality web service.
 - [Laravel Google Maps](https://github.com/farhanwazir/laravelgooglemaps) - Package to provide full Google Maps support to Laravel. \[07/30/2016\]
 - [Laravel IP Service](https://github.com/dimsav/laravel-ip-service) - A Laravel package for [ip2nation.com](http://ip2nation.com/) to get the user's country by IP address.

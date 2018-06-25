@@ -399,6 +399,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ## Resources
 - [Awesome Laravel Repos](https://awesomerepos.com/laravel) - Directory of popular (based on stars) GitHub repositories for Laravel packages/resources. \[11/06/2017\]
+- [Eloquent 101](http://eloquent101.com/) - Free tutorial on [Eloquent ORM](https://laravel.com/docs/eloquent) underlying Laravel framework. [Off-line version available](https://github.com/ahuggins/eloquent101), as well. \[06/25/2018\]
 - [LaraBrain](http://larabrain.com/) - Directory of tips and tutorials for all aspects of Laravel development. \[11/03/2015\]
 - [Laracasts](https://laracasts.com/) - The _de facto_ standard tutorials for Laravel developed by Jeffrey Way.  (Some free Laracasts videos on YouTube [here](https://www.youtube.com/user/laracasts).)
 - [Larachat Live](https://www.youtube.com/channel/UCKAj-eBdBINhJ2Bi9lut29A) - YouTube channel with weekly topics on Laravel platform. \[05/30/2017\]

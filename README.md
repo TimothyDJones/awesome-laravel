@@ -213,6 +213,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]
 - [Antvel](https://github.com/ant-vel/antVel) - Package for building e-commerce applications with Laravel. \[12/16/2016\]
 - [Amazon ECS (E-Commerce Services)](https://github.com/JoeDawson/amazon-ecs) - Package to allow searching the Amazon product catalog. \[12/18/2015\]
+- [Grafite Commerce](https://github.com/GrafiteInc/Commerce) - Full-fledged e-commerce package that includes support subscriptions, electronic downloads, and more. \[06/25/2018\]
 - [LaraCart](https://github.com/lukepolo/laracart/) - Fully-featured shopping cart package for Laravel. \[03/30/2017\]
 - [Laragento](https://github.com/develpr/laragento) - A Laravel + [Magento](http://magento.com/) mashup, for directly accessing Magento data via RESTful API provided by Laravel. \[10/12/2015\]
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).

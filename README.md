@@ -489,6 +489,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Polr](https://polrproject.org/) - Quick, modern, [open-source](https://github.com/cydrobolt/polr) link/URL shortener built with Lumen. \[09/02/2017\]
 - [Project Tools](https://sourceforge.net/project/project-tools/) - Self-hosted, open-source application for managing project requests that allows managers to assess the business value. \[05/02/2018\]
 - [Pterodactyl](https://pterodactyl.io/) - Open-source (code [here](https://github.com/Pterodactyl/Panel)), game-agnostic game administration/management platform. \[04/24/2017\]
+- [pwdquery](https://pwdquery.xyz) - Online tool for checking if your password/account has been compromised. \[06/25/2018\]
 - [QnA](https://github.com/TheRealJAG/Laravel-QnA) - Question-and-answer site with support for up and down voting (i.e., Stack Overflow clone) built with Bootstrap and [Material Design](https://mdbootstrap.com/material-design-for-bootstrap/). \[04/11/2017\]
 - [RasP.is](http://rasp.is/) - Basic URL shortener and bookmarking utility built with Laravel. Source code [here](https://github.com/kamranahmedse/laravel-url-shortener). \[10/10/2017\]
 - [Reddit Grid](https://redditgrid.com/) - Browser for image-heavy Sub-Reddits with NSFW filtering. \[09/26\2017\]

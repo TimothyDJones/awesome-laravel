@@ -135,6 +135,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
 - [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
 - [Laravel Normalizer](https://github.com/nWidart/laravel-normalizer) - Simple package to allow model-independent normalization (i.e., capitalization, numeric formatting, etc.) of data before persisting. \[07/28/2016\]
+- [Laravel Property Bag](https://github.com/zachleigh/laravel-property-bag) - Add settings or other properties to Laravel models simply and easily. \[06/28/2018\]
 - [Laravel 5 Repository](https://github.com/prettus/l5-repository) - Package for the implementing the [repository design pattern](http://www.sitepoint.com/repository-design-pattern-demystified/) to abstract database layer of your application. \[08/16/2015\]
 - [Laravel 5 Model Factory Generator](https://github.com/rymanalu/factory-generator) - Create a new model factory file using Artisan command. \[03/27/2017\]
 - [Laravel References](https://github.com/jameslkingsley/laravel-references) - Provides a simple way to add unique references to models that can be resolved via route model binding without exposing primary keys. \[10/09/2017\]

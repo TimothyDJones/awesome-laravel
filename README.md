@@ -164,6 +164,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Development Tools
 - [Acacha llum](https://github.com/acacha/llum) - Llum illuminates your Laravel projects speeding up your Github/Laravel development workflow. \[23/02/2017\]
+- [Artisan Menu](https://github.com/DivineOmega/artisan-menu) - Provides menu-driven front-end for Artisan, including custom Artisan commands and prompting for arguments. \[07/16/2018\]
 - [Artisan View](https://github.com/svenluijten/artisan-view) - Adds a `make:view` [Artisan](https://laravel.com/docs/artisan) command for generating a Blade view file. \[07/27/2016\]
 - [Best Artisan](https://github.com/bestmomo/nice-artisan) - Adds a clean web interface to [Artisan](https://laravel.com/docs/artisan) commands. \[01/08/2017\]
 - [Blacksmith](https://github.com/Indatus/blacksmith) - Independent code-generation tool that works closely with Laravel to generate models, views, controllers, seeds, forms, and much more.

@@ -92,6 +92,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) - API, Scaffold, CRUD Laravel Generator \[05/01/2016\]
 - [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - Laravel boilerplate configuration with lots of built-in API support. \[02/23/2016\]
 - [Laravel Kickstart](https://github.com/samrap/lks) - Laravel starter configuration with an Elixir configuration, the latest versions of Bootstrap and JQuery, a Blade wrapper template, debug tools, and much more. \[03/09/2016\]
+- [Laravel React Typescript Boilerplate](https://github.com/georgewritescode/Laravel-React-Typescript-Boilerplate) - Boilerplate configuration for starting projects based on Laravel, React, and Typescript. \[07/16/2018\]
 - [Laravel React Webpack Starter Kit](https://github.com/bezunakarmi/laravel-react-webpack) - Package for quickly configuring Laravel with React.JS, Webpack, and PostCSS/SASS. \[04/17/2017\]
 - [Laravel Skeleton Application](https://github.com/rdehnhardt/skeleton) - Basic Laravel application template with dashboard, user management, and more. \[07\26\2017\]
 - [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 single-page application (SPA) boilerplate using [Vue.js](https://vuejs.org/) 2.5, [Bootstrap 4](https://getbootstrap.com/docs/4.0/), [TypeScript](https://www.typescriptlang.org/), Sass, Pug and [Jest](https://facebook.github.io/jest/). \[05/08/2018\]

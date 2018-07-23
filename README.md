@@ -425,6 +425,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - _[External List of Laravel Applications](https://github.com/unicodeveloper/awesome-opensource-webapps#laravel)_ \[03/28/2016\]
 - _[Another Directory of Laravel Applications](https://devpost.com/software/built-with/laravel) \[12/31/2016\]
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
+- [A1Pager](https://a1pager.com/) - Free, online tool for creating a one-page web site with no coding. \[07/16/2018\]
 - [AccountsPortal](http://www.accountsportal.com/) - Hosted online accounting application with support for invoicing, books and accounts. \[04/20/2015\]
 - [AgoraKit](https://github.com/philippejadin/agorakit) - Full-featured, open-source groupware platform for citizens' initatives, including calendar, online discussion forums, and more. \[08/18/2017\]
 - [Alpha Coders](https://alphacoders.com/) - Social media site for content creators (mainly graphics) to share their creations. \[08/20/2017\]
@@ -662,6 +663,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Andreas Lutro](http://www.lutro.me/)
 - [Andy Brudtkuhl](https://brudtkuhl.com/topics/laravel/) \[04/02/2017\]
 - [Andy Fleming](http://andyfleming.com/articles-by-topic/lumen/) \[07/16/2015\]
+- [Andy Hinkle](https://medium.com/andyhinkle91) \[07/23/2018\]
 - [Anytch.com](http://anytch.com/category/laravel/) \[09/02/2016\]
 - [AppDividend](http://appdividend.com/category/laravel/) \[07/17/2017\]
 - [Appstract](https://medium.com/appstract/tagged/laravel) \[03/20/2017\]

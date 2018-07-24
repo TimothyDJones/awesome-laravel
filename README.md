@@ -293,6 +293,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Laravel Taggable Trait](https://github.com/rtconner/laravel-tagging) - Trait and library to support managing tags on your models. \[10/15/2016\] 
 - [Laravel Talk](https://github.com/nahid/talk) - Real-time messaging package for integration with any Laravel 5 application.  See [complete tutorial](https://medium.com/@nahid/laravel-talk-a-realtime-messaging-system-d42abb8ba10a) for more information. \[12/22/2017\]
+- [Laravel Tenancy](https://github.com/tenancy/tenancy) - Allows multiple sites to use same Laravel installation with client- or application-specific code to be segregated. \[07/24/2018\]
 - [Laravel Transactional Events](https://github.com/fntneves/laravel-transactional-events) - Adds a transactional layer to the Laravel [Event Dispatcher](https://laravel.com/docs/events#dispatching-events). \[09/06/2017\]
 - [Laravel Validation Rules](https://github.com/laravel-validation-rules) - Collection of drop-in, Composer-enabled validation rules that integrate with built-in [validation engine](https://laravel.com/docs/5.5/validation). \[09/21/2017\]
 - [MailThief](https://github.com/tightenco/mailthief) - A fake mailer for Laravel applications that makes it easy to test mail without actually sending any emails. \[07/07/2016\]

@@ -194,6 +194,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Tracer](https://github.com/appstract/laravel-tracer) - Displays the full path of each Blade view, including partials, loaded into template at place it is applied. \[06/22/2017\]
 - [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - Package for integrating the excellent [Nette Tracy](https://tracy.nette.org/) debugging library as a replacement for [Laravel's standard error handling functions](https://laravel.com/docs/errors). \[09/02/2016\]
 - [Laravel UUID](https://github.com/webpatser/laravel-uuid) - Laravel 4.x/5.x package to generate a UUID according to the RFC 4122 standard. See [here](https://medium.com/@steveazz/setting-up-uuids-in-laravel-5-552412db2088) for example usage as database key. \[04/29/2016\]
+- [Laravel View Xray](https://github.com/beyondcode/laravel-view-xray) - Provides capability to show which Blade template rendered various portions of page in a view. \[07/24/2018\]
 - [Laravel Web Installer](https://github.com/RachidLaasri/LaravelInstaller) - Package helps you design an installer/setup wizard to allow users to install Laravel application without using Composer, SSH, etc. \[09/14/2015\]
 - [Laravel-4-Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Package for speeding up development by generating classes, migrations, database seeds, and more.
 - [Laroute](https://github.com/aaronlord/laroute) - Package of helper functions for "porting" Laravel routes over to JavaScript for use on front end of application.

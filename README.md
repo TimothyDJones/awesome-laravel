@@ -780,6 +780,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Isaac Castillo](http://icastwork.com/) \[09/10/2015\]
 - [Isaac Earl](https://isaacearl.com/tag:laravel) \[07/24/2017\]
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
+- [IMWZ Web Design](https://imwz.io/category/laravel/) \[07/26/2018\]
 - [Inani El Houssain](https://medium.com/@InaniT0) \[12/31/2016\]
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Ionut Bajescu](http://ionut-bajescu.com/)

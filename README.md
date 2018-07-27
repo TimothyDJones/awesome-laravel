@@ -743,6 +743,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dustin Parham](http://imbringingsyntaxback.com/) \[05/16/2016\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [Dwight Watson](https://www.neontsunami.com/) \[07/12/2016\]
+- [Eagle Peak Consulting](https://www.eaglepeakweb.com/blog) \[07/26/2018\]
 - [EasyLara](http://www.easylara.com/)
 - [Edvinas Krucas](http://blog.krucas.lt/category/laravel/) \[10/06/2015\]
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]

@@ -290,6 +290,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Options](https://github.com/appstract/laravel-options) - Provides a key-value store table named `options` for storing application configuration data. \[03/20/2017\]
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
 - [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
+- [Laravel Report Generator](https://github.com/Jimmy-JS/laravel-report-generator) - Package that simplifies generating reports in PDF, CSV, and Excel formats.
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Laravel Taggable Trait](https://github.com/rtconner/laravel-tagging) - Trait and library to support managing tags on your models. \[10/15/2016\] 
 - [Laravel Talk](https://github.com/nahid/talk) - Real-time messaging package for integration with any Laravel 5 application.  See [complete tutorial](https://medium.com/@nahid/laravel-talk-a-realtime-messaging-system-d42abb8ba10a) for more information. \[12/22/2017\]

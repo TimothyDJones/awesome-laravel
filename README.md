@@ -290,6 +290,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Options](https://github.com/appstract/laravel-options) - Provides a key-value store table named `options` for storing application configuration data. \[03/20/2017\]
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]
 - [Laravel Panel](http://laravelpanel.com/) - Clean, Bootstrap-based admin panel for Laravel 5.x. \[07/13/2015\]
+- [Laravel Report Generator](https://github.com/Jimmy-JS/laravel-report-generator) - Package that simplifies generating reports in PDF, CSV, and Excel formats.
 - [Laravel SASS](https://github.com/panique/laravel-sass) - Automatic SASS-to-CSS compiling for Laravel 4 (and any other framework too), config-free, in pure PHP.
 - [Laravel Taggable Trait](https://github.com/rtconner/laravel-tagging) - Trait and library to support managing tags on your models. \[10/15/2016\] 
 - [Laravel Talk](https://github.com/nahid/talk) - Real-time messaging package for integration with any Laravel 5 application.  See [complete tutorial](https://medium.com/@nahid/laravel-talk-a-realtime-messaging-system-d42abb8ba10a) for more information. \[12/22/2017\]
@@ -744,6 +745,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dustin Parham](http://imbringingsyntaxback.com/) \[05/16/2016\]
 - [Dwayne Charrington](http://ilikekillnerds.com/category/laravel/) \[04/12/2015\]
 - [Dwight Watson](https://www.neontsunami.com/) \[07/12/2016\]
+- [Eagle Peak Consulting](https://www.eaglepeakweb.com/blog) \[07/26/2018\]
 - [EasyLara](http://www.easylara.com/)
 - [Edvinas Krucas](http://blog.krucas.lt/category/laravel/) \[10/06/2015\]
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
@@ -781,6 +783,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Isaac Castillo](http://icastwork.com/) \[09/10/2015\]
 - [Isaac Earl](https://isaacearl.com/tag:laravel) \[07/24/2017\]
 - [Imron Rosindia](https://imron02.wordpress.com/category/laravel/)
+- [IMWZ Web Design](https://imwz.io/category/laravel/) \[07/26/2018\]
 - [Inani El Houssain](https://medium.com/@InaniT0) \[12/31/2016\]
 - [IntoLaravel.com](http://www.intolaravel.com/)
 - [Ionut Bajescu](http://ionut-bajescu.com/)
@@ -793,6 +796,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [James Brooks](http://james-brooks.uk/)
 - [James Mills](https://blog.jamesmills.co.uk/category/laravel/) \[06/25/2018\]
 - [Jamie Rumbelow](http://jamieonsoftware.com/tagged/laravel) \[04/12/2015\]
+- [Jan Ostlund](https://janostlund.com/) \[07/26/2018\]
 - [Janik von Rotz](https://janikvonrotz.ch/category/work/laravel/) \[04/14/2015\]
 - [Jason Lewis](http://jasonlewis.me/laravel-tutorials)
 - [Jeff Madsen (codebyjeff)](http://codebyjeff.com/blog) \[06/08/2015\]

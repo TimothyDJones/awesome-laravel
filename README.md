@@ -850,6 +850,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravelista](http://laravelista.com/) \[05/16/2015\]
 - [Leader Internet](https://leaderinternet.com/blog) \[04/23/2017\]
 - [Logan Bailey](http://logansbailey.com/) \[04/18/2016\]
+- [Loris Leiva](https://lorisleiva.com/) \[09/17/2018\]
 - [Liza Shulyayeva](http://liza.io) \[09/22/2015\]
 - [Luca Bernardino](http://www.codeanchor.net/) \[07/13/2015\]
 - [Luciano Mammino](http://loige.co/tag/laravel/) \[04/29/2015\]

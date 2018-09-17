@@ -486,6 +486,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Site](https://github.com/iZaL/laravel-site) - A custom CMS and event management platform built on Laravel 4.
 - [Lavalite](http://www.lavalite.org/) - Multilingual CMS built on Laravel 4 and Bootstrap 3.
 - [Learning Locker](https://learninglocker.net/) - An [open-source](https://github.com/LearningLocker/learninglocker) online tool to track learning/education records.
+- [Leesmee](https://leesmee.com/) - Dutch language social news site. \[09/17/2018\]
 - [Less Than Threes](https://lessthanthrees.com/) - Site to quickly and easily share collections of things you enjoy, such as movies, books, etc. (Source code [here](https://github.com/snipe/lessthanthrees).) \[08/19/2017\]
 - [Lightweight Hiker](https://lwhiker.com/) - Site to search for used hiking/backpacking gear. \[02/15/2016\]
 - [Listymail](https://listymail.com/) - Free online tool for email distribution lists. \[02/15/2016\]

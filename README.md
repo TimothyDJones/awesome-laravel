@@ -242,6 +242,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Postcode](https://github.com/garygreen/Postcode) - Simple searching by postal codes for geographic information, including latitude/longitude. \[09/24/2016\]
 
 ### Helpers/General
+- [Laraflash](https://github.com/coderello/laraflash) - Flash messages on steroids. \[02/10/2018\]
 - [Alerts](https://github.com/prologuephp/alerts) - Package for handling global site messages in Laravel. \[07/30/2015\]
 - [Beautymail](https://github.com/Snowfire/Beautymail) - Send responsive HTML emails from Laravel Blade views. \[11/03/2016\]
 - [Blade](https://github.com/duncan3dc/blade) - Allows you to use Laravel Blade templates as standalone components outside of Laravel. \[10/17/2016\]

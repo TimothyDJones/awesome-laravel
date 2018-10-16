@@ -826,6 +826,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Kathir 'Sid' Vel](http://www.kathirvel.com/blog/) \[05/06/2015\]
 - [KaixersofT](https://kaixersoft.wordpress.com/category/php-2/laravel/) \[07/02/2015\]
 - [Keith Watanabe](http://www.keithwatanabe.net/tag/laravel/) \[07/29/2015\]
+- [KernelDev](https://www.kerneldev.com/category/web-development/laravel/) \[10/04/2018\]
 - [Kelt Dockins](http://keltdockins.com/tags/laravel/)
 - [Kirk Bushell](http://kirkbushell.me/) \[04/14/2015\]
 - [Kode Blog](http://www.tutorials.kode-blog.com/laravel-5-tutorial) \[11/05/2015\]
@@ -972,6 +973,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Tighten.co](http://blog.tighten.co/) \[04/13/2016\]
 - [Tim Leland](http://timleland.com/) \[09/29/2015\]
 - [Tirdea Mihai](https://tirdeamihai.com/blog/tag/laravel) \[03/30/2017\]
+- [TJ Miller](https://www.tjmiller.me) \[10/13/2018\]
 - [TNT Studio](http://tntstudio.us/blog)
 - [Todd Francis](http://toddish.co.uk/blog/tag/laravel/) \[07/30/2015\]
 - [Tom Schlick](https://tomschlick.com/) \[03/20/2017\]

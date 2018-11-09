@@ -361,6 +361,9 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel View Themes](https://github.com/alexwhitman/laravel-view-themes) - Specify custom themes for your views in simple manner. \[05/25/2015\]
 - [SwitchBlade](https://github.com/awkwardideas/SwitchBlade) - Add several useful directives to Laravel Blade templates, including support for [`switch`](http://php.net/manual/en/control-structures.switch.php), variable and debugging output, and empty/null variable checks. \[03/06/2017\]
 
+### Virtual Wallet
+- [Laravel Wallet](https://github.com/bavix/laravel-wallet) - Easy work with virtual wallet.
+
 ### Web Forms
 - [Bootforms](https://github.com/adamwathan/bootforms) - Package which simplifies and streamlines the process of specifying forms in Laravel with [Bootstrap](http://getbootstrap.com/) 3 markup.
 - [Bootstrap Form](https://github.com/dwightwatson/bootstrap-form) - Allows simple creation of [Bootstrap](http://getbootstrap.com/) 3-styled form groups, including horizontal styling.

@@ -1014,6 +1014,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Learn Laravel Reddit](http://www.reddit.com/r/learnlaravel/) - Good forum for Laravel beginners (however, not very active).
 - [Quora Laravel Forum](http://www.quora.com/Laravel)
 - [Twitter Laravel Resources](https://twitter.com/search?q=laravel&src=typd)
+- [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources.
 
 ### Conferences, Meetups, and User Groups
 - [ArtisanConf](https://www.artisanconf.com/) \[04/20/2015\]

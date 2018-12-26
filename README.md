@@ -301,7 +301,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [MailThief](https://github.com/tightenco/mailthief) - A fake mailer for Laravel applications that makes it easy to test mail without actually sending any emails. \[07/07/2016\]
 - [PDF Laravel 5](https://github.com/vsmoraes/pdf-laravel5) - Package wrapper for [DOMPDF](http://dompdf.github.io/) HTML-to-PDF conversion library. \[08/16/2015\] 
 - [PHP Curl](https://github.com/anlutro/php-curl) - A simple PHP wrapper class for [cURL](http://curl.haxx.se/), including Laravel [service provider](http://laravel.com/docs/ioc#service-providers) and facade.
-- [Quarx](https://quarx.info/) - [Open-source](https://github.com/YABhq/Quarx/) package to add CMS capabilities to your Laravel application. \[05/04/2016\]
+- [Quarx](https://quarxcms.com/) - [Open-source](https://github.com/YABhq/Quarx/) package to add CMS capabilities to your Laravel application. \[05/04/2016\]
 - [Rapyd](https://github.com/zofe/rapyd-laravel) - A Laravel 4 package for building simple CRUD functions using data grids (tables) and forms.
 - [Registry Manager](https://github.com/Torann/laravel-registry) - Complete package for managing application configuration settings in database with cache support for better performance. \[05/20/2015\]
 - [Settings](https://github.com/edvinaskrucas/settings) - A persistent setting package for Laravel that includes encrypting/decrypting values, caching, events, and more. \[10/06/2015\]

@@ -156,6 +156,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Single-Table Inheritance](https://github.com/phaza/single-table-inheritance) - Adds a [trait](http://php.net/manual/en/language.oop5.traits.php) to Eloquent models to allow multiple models to be stored in the same database table. \[07/12/2015\]
 - [Unique With Validator](https://github.com/felixkiss/uniquewith-validator) - Provides support for composite unique indexes, such as combination of first and last name.
 - [QueryBuilderParser](https://github.com/timgws/QueryBuilderParser) - A Laravel package that builds SQL queries based on input from a jQuery QueryBuilder.
+- [WTFilter](https://github.com/kaankilic/wtfilter) - Laravel Profanity Filter Package for handling profanities on the content on the eloquent.
 
 
 ### Design Pattern Tools

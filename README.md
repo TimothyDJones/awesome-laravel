@@ -472,6 +472,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Git.cash](https://git.cash/) - Online marketplace for digital products with built-in Git integration. \[08/28/2017\]
 - [GitGo](https://gitgo.io/) - Git repository hosting site with beautiful UI (includes free plan).
 - [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Laravel application that integrates Git version control with Scrum methodology for task management. \[12/16/2016\]
+- [Handesk](https://github.com/BadChoice/handesk) - Help desk ticketing and lead management tool built with Laravel. \[01/19/2019\]
 - [HasYourBabyArrivedYet.com](http://hasyourbabyarrivedyet.com/) - Free, simple service for sharing news about the arrival of your baby. \[08/11/2016\]
 - [HiveStory](http://hivestory.com/) - Online collaborative story-writing application. \[11/09/2015\]
 - [Interactive Books' Atelier](http://lostideaslab.com/pirates-lost-pearl/interactive-books-atelier/) - [Open-source](http://github.com/lil-plp/iba) customized CMS for managing small book clubs, including notes, recommendations and more. \[01/09/2018\]

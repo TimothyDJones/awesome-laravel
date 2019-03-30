@@ -671,6 +671,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Andrea Sartori](http://blog.andreasartori.me/en/)
 - [Andreas Lutro](http://www.lutro.me/)
 - [Andy Brudtkuhl](https://brudtkuhl.com/topics/laravel/) \[04/02/2017\]
+- [Andy Carter](https://andy-carter.com/) \[03/30/2019\]
 - [Andy Fleming](http://andyfleming.com/articles-by-topic/lumen/) \[07/16/2015\]
 - [Andy Hinkle](https://medium.com/andyhinkle91) \[07/23/2018\]
 - [Anytch.com](http://anytch.com/category/laravel/) \[09/02/2016\]

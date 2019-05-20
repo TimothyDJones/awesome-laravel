@@ -687,6 +687,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Barry van Veen](https://barryvanveen.nl/) \[12/04/2016\]
 - [Barry vd. Heuvel](http://barryvdh.nl/)
 - [Belar Design](http://belardesign.com/category/dev/laravel/)
+- [Ben Sampson](https://sampo.co.uk/blog) \[05/20/2019\]
 - [Ben Smith](http://bensmith.io/) \[07/07/2015\]
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Bhavyanshu Parasher](https://bhavyanshu.me/tags.html#laravel-ref) \[04/28/2015\]

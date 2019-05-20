@@ -425,6 +425,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.
 - [The Laravel Podcast](http://www.laravelpodcast.com/) - Brings you Laravel and PHP development news and discussion hosted by Matt Stauffer. \[04/12/2015\]
+- [LaraShout](http://www.larashout.com/) - Helps you to learn Laravel, PHP, JavaScript and CSS. Enhance you web development skills and succeed.
 
 ### Applications Built with Laravel
 - _[External List of Laravel Applications](https://github.com/unicodeveloper/awesome-opensource-webapps#laravel)_ \[03/28/2016\]

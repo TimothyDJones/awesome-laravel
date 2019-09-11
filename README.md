@@ -436,8 +436,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [AgoraKit](https://github.com/philippejadin/agorakit) - Full-featured, open-source groupware platform for citizens' initatives, including calendar, online discussion forums, and more. \[08/18/2017\]
 - [Alpha Coders](https://alphacoders.com/) - Social media site for content creators (mainly graphics) to share their creations. \[08/20/2017\]
 - [Amila CMS](https://github.com/AlexStack/Laravel-CMS) - Simple Bootstrap Laravel CMS for any EXISTING or new Laravel 6 website.  \[09/11/2019\]
-
-
 - [Asgard CMS](http://asgardcms.com/) - CMS built with Laravel with goals of modularity, multi-language support, and ease of installation.
 - [Attendize](https://www.attendize.com/) - Free, [open-source](https://github.com/Attendize/Attendize), self-hosted ticket sales and event management platform. \[03/09/2016\]
 - [Author's Republic](https://www.authorsrepublic.com/) - E-commerce site for authors to sell audio books. \[10/20/2015\]

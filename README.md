@@ -106,6 +106,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Skeletor](https://github.com/pixelfusion/skeletor) - Interactive shell tool for creating a new Laravel/Lumen project that automates several common steps. Learn more [here](https://medium.com/pixel-fusion/skeletor-the-laravel-skeleton-generator-f02a14ff2b4b). \[10/05/2017\]
 - [Support](https://github.com/iolson/support) - Adds some nice features and other third-party packages to your Laravel installation. \[10/05/2015\]
 - [Turtle](https://github.com/kjdion84/turtle) - Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more. \[09/18/2017\]
+- [UIkit UI preset](https://github.com/Torrix/laravel-ui-uikit) - UI preset for Laravel 6 that bundles UIkit and Vue.js \[09/16/2019\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
 
 ### Database/Eloquent/Models

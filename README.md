@@ -875,6 +875,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Marco Aurelio Deleu](https://hackernoon.com/@deleugpn) \[08/28/2017\]
 - [Mark Van Eijk](http://markvaneijk.com/)
 - [Martin Bean](http://martinbean.co.uk/blog/)
+- [Martin Betz](https://martinbetz.eu/articles/) \[01/03/2020\]
 - [Marty Thomas](https://martythomas.svbtle.com/) \[09/02/2016\]
 - [Mateus Guimaraes](http://mguimaraes.co/) \[01/16/2016\]
 - [Matt Sparks](http://mattsparks.com/blog/) \[07/13/2015\]

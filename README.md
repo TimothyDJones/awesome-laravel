@@ -288,6 +288,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Medium Editor](http://www.codeforest.net/laravel-wysiwyg-editor) - Laravel package for using the [Medium WYSIWYG JavaScript Editor](http://daviferreira.github.io/medium-editor/) with Laravel 4.x.
 - [Laravel Menu](http://lavary.github.io/laravel-menu/) - Package that provides fluent, Laravel-esque method for building menus.
 - [Laravel Menu (Murze)](https://github.com/spatie/laravel-menu) - Laravel package for generating hierarchical HTML menus for your application. \[03/28/2016\]
+- [Laravel Multi Domain](https://github.com/gecche/laravel-multidomain) - A Laravel 5 & 6 extension for using a laravel application on a multi domain setting by usign multi .env files. \[25/01/2020\]
 - [Laravel 5 Nestable](https://github.com/atayahmet/laravel-nestable) - Provides trait support for nestable/hierarchical menus and categories in Laravel. \[11/02/2016\]
 - [Laravel Options](https://github.com/appstract/laravel-options) - Provides a key-value store table named `options` for storing application configuration data. \[03/20/2017\]
 - [Laravel Paginate Route](https://github.com/spatie/laravel-paginateroute) - Extension to use built-in [Laravel paginator](http://laravel.com/docs/pagination) feature without the query string. \[07/12/2015\]

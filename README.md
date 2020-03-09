@@ -217,6 +217,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [TNT Search](https://github.com/teamtnt/tntsearch) - Full-featured full-text search engine. \[10/01/2016\]
 - [Translation.io for Laravel](https://github.com/translation/laravel) - Package that integrates support for [Translation.io](https://translation.io/) to allow localization of Laravel applications using [GetText](https://www.gnu.org/software/gettext/). \[05/01/2018\]
 - [Laravel UI http logger](http://apideveloper.io) - Laravel package to log every request/response app handled and UI to analyze it
+- [Bugphix](https://github.com/bugphix/bugphix-laravel) - Capture and monitor detailed error logs with nice dashboard and UI
 
 ### E-commerce
 - [Aimeos](http://aimeos.org/project/laravel-shop-package/) - Complete e-commerce/web shop package with support for product catalogs, shopping, checkout, payment, and order management. \[04/29/2015\]

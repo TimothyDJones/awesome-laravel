@@ -352,7 +352,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel OpenAPI](https://github.com/jeandormehl/openapi-gen) - Laravel wrapper for OpenAPI Documentation for [OpenApi/Swagger](https://github.com/OAI/OpenAPI-Specification). \[23/10/2019\]
 
 ### Views
-- [Themevel](https://github.com/shipu/themevel) - Theme and Assets Management for Laravel 5
+- [Themevel](https://github.com/shipu/themevel) - Theme and Assets Management for Laravel 5+
 - [AmaranJS Laravel Package](https://github.com/hakanersu/amaran-laravel) - Package wrapper for Laravel support to use excellent [AmaranJS notification jQuery plugin](http://ersu.me/amaranjs-en). \[07/13/2015\]
 - [Bones Flash](https://github.com/GeneaLabs/bones-flash) - Enhanced version of built-in "flash" messages/notifications for Laravel, which includes modal popups and various levels of message. \[03/26/2017\]
 - [Cursor Pagination](https://github.com/juampi92/cursor-pagination) - Pagination package to return results based on cursor value, which always returns same values. \[03/03/2018\]

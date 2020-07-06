@@ -960,6 +960,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Simon Hamp](https://medium.com/@simonhamp) \[02/08/2016\]
 - [Simple Developer](http://simpledeveloper.com/category/laravel-framework/)
 - [Simplest Web](https://simplestweb.in/blog?tag=laravel) \[12/01/2018\]
+- [Stephen Jude](https://stephenjude.me/) \[07/06/2020\]
 - [Sky Blue Sofa (Dave Rogers)](http://skybluesofa.com/blog/) \[01/07/2017\]
 - [Skyshi Digital](https://medium.com/skyshidigital/tagged/laravel) \[07/26/2017\]
 - [Slashnode](http://slashnode.com/blog/)

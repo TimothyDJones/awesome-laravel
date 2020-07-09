@@ -112,6 +112,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ### Database/Eloquent/Models
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]
 - [Apify](https://github.com/ConsoleTVs/Apify) - API generator for Laravel that allows JSON access to any model/table. \[01/07/2017\]
+- [Attribute Events](https://github.com/jpkleemans/attribute-events) - Fire events on attribute changes of your Eloquent model. \[07/09/2020\]
 - [belongsToThrough](https://github.com/znck/belongs-to-through) - Adds trait to Eloquent models to support ''belongsToThrough'' relationship. \[10/21/2015\]
 - [Computed Properties for Eloquent](https://github.com/n7olkachev/laravel-computed-properties) - Improved accessors for Laravel 5.4+ models. \[08/22/2017\]
 - [CRUD Generator](https://github.com/appzcoder/crud-generator) - Simple Artisan command to generate CRUD commands for database interaction of your model in Laravel 5. \[08/30/2015\]

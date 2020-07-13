@@ -734,6 +734,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dan Course](http://www.dancourse.co.uk/category/tech/laravel/) \[08/16/2015\]
 - [Daniel Li](http://blog.danyll.com/) \[04/20/2015\]
 - [Darwin Biler](http://www.darwinbiler.com/category/php/laravel/) \[04/14/2015\]
+- [David Carr](https://dcblog.dev/) \[07/13/2020\]
 - [David Hemphill](http://davidhemphill.com/blog/) \[07/09/2015\]
 - [David Frame](http://www.cryst.co.uk/tag/laravel/) \[02/14/2017\]
 - [David Piesse](https://medium.com/@piesse) \[07/24/2017\]

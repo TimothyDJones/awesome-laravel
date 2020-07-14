@@ -226,6 +226,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Grafite Commerce](https://github.com/GrafiteInc/Commerce) - Full-fledged e-commerce package that includes support subscriptions, electronic downloads, and more. \[06/25/2018\]
 - [LaraCart](https://github.com/lukepolo/laracart/) - Fully-featured shopping cart package for Laravel. \[03/30/2017\]
 - [Laragento](https://github.com/develpr/laragento) - A Laravel + [Magento](http://magento.com/) mashup, for directly accessing Magento data via RESTful API provided by Laravel. \[10/12/2015\]
+- [Laravel PayPal](https://github.com/srmklive/laravel-paypal) - Laravel package for PayPal payment processing, which can also be used outside of Laravel. \[07/14/2020\]
 - [Laravel PayPal Payment](https://github.com/xroot/laravel-paypalpayment) - Package for processing credit card or PayPal account payments using [PayPal REST API](https://developer.paypal.com/docs/api/).
 - [Mage2](https://github.com/mage2/laravel-ecommerce) - Laravel e-commerce package with built-in Paypal support. \[12/16/2016\]
 - [Paypal IPN](https://github.com/logicalgrape/paypal-ipn-laravel) - Package for a listener and processor for [Paypal IPN](https://developer.paypal.com/docs/classic/ipn/gs_IPN/) responses.

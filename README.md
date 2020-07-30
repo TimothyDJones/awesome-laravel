@@ -662,6 +662,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Blogs
 - [158ltd](http://team.158ltd.com/tag/laravel/)
+- [PHPCodingStuff](https://www.phpcodingstuff.com/category/laravel-7-tutorial.html)
 - [Advanced Laravel](http://advancedlaravel.com/blog)
 - [Adam Engebretson](http://blog.enge.me/)
 - [Adam Patterson](http://adampatterson.ca/blog/) \[06/15/2015\]
@@ -764,6 +765,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dwight Watson](https://www.neontsunami.com/) \[07/12/2016\]
 - [Eagle Peak Consulting](https://www.eaglepeakweb.com/blog) \[07/26/2018\]
 - [EasyLara](http://www.easylara.com/)
+
 - [Edvinas Krucas](http://blog.krucas.lt/category/laravel/) \[10/06/2015\]
 - [Eftakhairul Islam](http://eftakhairul.com/) \[06/29/2015\]
 - [El Coderino](http://www.elcoderino.com/)

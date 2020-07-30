@@ -570,6 +570,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel 5.1 LTS Cheat Sheet](https://summerblue.github.io/laravel5-cheatsheet/) \[05/04/2016\]
 - [Laravel 5.1 LTS Cheat Sheet (Chinese)](https://cs.laravel-china.org/) \[07/26/2017\]
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
+- [PHP Coding Stuff](https://www.phpcodingstuff.com/category/laravel-7-tutorial.html)
 - [Laravel Cheat Sheet as a Phone Gap Application](https://github.com/gbanina/laravel-cheat-sheet) - Nice Laravel reference wrapped as a [PhoneGap](http://phonegap.com/)/[Cordova](http://cordova.apache.org/) application for viewing on mobile devices.
 - [Laravel Errors](http://eecs.mines.edu/Courses/csci445/ASSIGN/laravel0.html#errors) - Good list of common Laravel errors and tips about typical causes.
 - Another [Laravel Cheat Sheet](http://alexrussell.me.uk/laravel-cheat-sheet/)

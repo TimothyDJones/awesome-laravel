@@ -432,6 +432,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [LaraShout](http://www.larashout.com/) - Helps you to learn Laravel, PHP, JavaScript and CSS. Enhance you web development skills and succeed.
 
 ### Applications Built with Laravel
+- [PHPCodingStuff](https://www.phpcodingstuff.com/category/laravel-7-tutorial.html)
 - _[External List of Laravel Applications](https://github.com/unicodeveloper/awesome-opensource-webapps#laravel)_ \[03/28/2016\]
 - _[Another Directory of Laravel Applications](https://devpost.com/software/built-with/laravel) \[12/31/2016\]
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.

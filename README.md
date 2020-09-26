@@ -28,6 +28,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 - [Laravel NestedSet](https://github.com/lazychaser/laravel-nestedset) - An implementation of a tree data structure in a relational database. \[03/16/2017\]
 - [HashIDs](https://github.com/mitchellvanw/hashids) - Laravel wrapper for the [HashIDs](http://hashids.org/) tool to generate short, unique hashes for any integer (e.g., surrogate key ID).
+- [Laravel Hashid](https://github.com/ElfSundae/laravel-hashid) - Obfuscate your data by generating reversible, non-sequential, URL-safe identifiers.
 
 ### Authentication/Security
 - [Acacha Laravel Social](https://github.com/acacha/laravel-social) - OAuth Social Login/Register implementation with Github, Facebook, Google, Twitter... using Laravel Socialite and (optionally) [AdminLTE Laravel package](https://github.com/acacha/adminlte-laravel) . \[23/02/2017\]

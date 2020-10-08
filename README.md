@@ -500,6 +500,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Less Than Threes](https://lessthanthrees.com/) - Site to quickly and easily share collections of things you enjoy, such as movies, books, etc. (Source code [here](https://github.com/snipe/lessthanthrees).) \[08/19/2017\]
 - [Lightweight Hiker](https://lwhiker.com/) - Site to search for used hiking/backpacking gear. \[02/15/2016\]
 - [Listymail](https://listymail.com/) - Free online tool for email distribution lists. \[02/15/2016\]
+-**- [Php Coding Stuff](https://www.phpcodingstuff.com/)** - Site to Search any type of laravel project.
 - **[Made with Laravel](https://madewithlaravel.com/)** - Online gallery of applications and tools built with Laravel. \[06/25/2018\]
 - [Makers Cabin](https://makerscabin.com/) - Learn full-stack web development using Laravel, Bootstrap, and other popular technologies. \[08/16/2017\]
 - [Mascots](https://mascots.stevil.co/) - An [open-source]() database of mascots of various teams and organizations. \[11/19/2016\]

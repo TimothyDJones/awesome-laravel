@@ -859,6 +859,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laratips](https://laratips.io/) \[07/07/2016\]
 - [Laravel & VueJS](https://www.laravel-vuejs.com/) \[10/05/2017\]
 - [Laravel 5 Tutorials](https://medium.com/laravel-5-tutorials) \[06/01/2015\]
+- [Laravel Article](https://laravelarticle.com) \[10/20/2020\]
 - [Laravel Coder](http://sheepy85.wordpress.com/)
 - [Laravel Daily](http://laraveldaily.com/) \[07/10/2015\]
 - [Laravel Factory](https://laravelfactory.com/blog) \[04/23/2018\]

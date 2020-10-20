@@ -376,6 +376,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Package for constructing HTML forms using PHP classes, including support for Laravel [form-model binding](http://laravel.com/docs/4.2/html#form-model-binding).
 - [Laravel Form Validator](https://github.com/GrandadEvans/laravel-form-validator) - An extension of [way/generators](https://github.com/JeffreyWay/Laravel-Generators) for setting up form validators.
 - [Twitter Bootstrap Forms](https://github.com/boxfrommars/rutorika-laravel-html) - Custom form controls based on Twitter Bootstrap. \[03/09/2016\]
+- [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support.
 
 ### WordPress Integration
 - [Blade for Wordpress](https://github.com/MikaelMattsson/blade) - Wordpress plugin that allows use of Blade syntax. \[07/16/2015\]

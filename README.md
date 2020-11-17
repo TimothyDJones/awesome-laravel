@@ -444,8 +444,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - _[External List of Laravel Applications](https://github.com/unicodeveloper/awesome-opensource-webapps#laravel)_ \[03/28/2016\]
 - _[Another Directory of Laravel Applications](https://devpost.com/software/built-with/laravel) \[12/31/2016\]
 - [92five](http://92fiveapp.com/) - Open-source, self-hosting project management application.
-- [A1Pager](https://a1pager.com/) - Free, online tool for creating a one-page web site with no coding. \[07/16/2018\]
-- [AccountsPortal](http://www.accountsportal.com/) - Hosted online accounting application with support for invoicing, books and accounts. \[04/20/2015\]
+- [AllDocs](https://alldocs.app/) - Free, [open-source](https://github.com/ueberdosis/alldocs.app) online tool for text document conversion between multiple formats based on [Pandoc](https://pandoc.org/). \[11/17/2020\]
 - [AgoraKit](https://github.com/philippejadin/agorakit) - Full-featured, open-source groupware platform for citizens' initatives, including calendar, online discussion forums, and more. \[08/18/2017\]
 - [Alpha Coders](https://alphacoders.com/) - Social media site for content creators (mainly graphics) to share their creations. \[08/20/2017\]
 - [Amila CMS](https://github.com/AlexStack/Laravel-CMS) - Simple Bootstrap Laravel CMS for any EXISTING or new Laravel 6 website.  \[09/11/2019\]

@@ -1061,6 +1061,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [San Diego Laravel User Group (SDLUG)](https://www.sdlug.com/) \[03/28/2016\]
 - [Laravel Hungary](https://laravel.hu)
 - [Laravel Hungary Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
+- [Laravel Germany](https://laravelphp.de)
 
 ### Newsletters
 - [Daily Laravel](http://paper.li/stevenklar/1389804586) - Aggregator of new/upcoming Laravel articles and tutorials. \[07/09/2015\]

@@ -507,6 +507,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Leesmee](https://leesmee.com/) - Dutch language social news site. \[09/17/2018\]
 - [Less Than Threes](https://lessthanthrees.com/) - Site to quickly and easily share collections of things you enjoy, such as movies, books, etc. (Source code [here](https://github.com/snipe/lessthanthrees).) \[08/19/2017\]
 - [Lightweight Hiker](https://lwhiker.com/) - Site to search for used hiking/backpacking gear. \[02/15/2016\]
+- [LinkAce](https://www.linkace.org/) - [Open-source](https://github.com/Kovah/LinkAce) self-hosted web bookmark tool built with Laravel and Vue.js with automatic backups. \[12/17/2020\]
 - [Listymail](https://listymail.com/) - Free online tool for email distribution lists. \[02/15/2016\]
 -**- [Php Coding Stuff](https://www.phpcodingstuff.com/)** - Site to Search any type of laravel project.
 - **[Made with Laravel](https://madewithlaravel.com/)** - Online gallery of applications and tools built with Laravel. \[06/25/2018\]

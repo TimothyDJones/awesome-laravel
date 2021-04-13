@@ -516,6 +516,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Makers Cabin](https://makerscabin.com/) - Learn full-stack web development using Laravel, Bootstrap, and other popular technologies. \[08/16/2017\]
 - [Mascots](https://mascots.stevil.co/) - An [open-source]() database of mascots of various teams and organizations. \[11/19/2016\]
 - [Maghnatis](http://maghnatis.com/) - Open-source Reddit clone forum application built with Laravel.  (Source code available [here](https://github.com/Halnex/laravel-reddit).) \[10/27/2015\]
+- [Microweber](https://github.com/microweber/microweber) - Open-source drag-and-drop website builder and content management system (CMS) with built-in e-commerce features. \[04/13/2021\]
 - [Monica](https://monicahq.com/) - [Open-source](https://github.com/monicahq/monica) personal CRM for helping you keep track of your friends and family. \[10/02/2017\]
 - [New Movies Coming Out](https://newmoviescomingout.us/) - Directory of US movie releases, including option for weekly e-mail notification. \[04/23/2018\]
 - [OpenDominion](https://opendominion.net/) - [Open-source](https://github.com/WaveHack/OpenDominion), free online text-based strategy game in a medieval fantasy setting where you control a nation ('dominion'). \[11/06/2017\]

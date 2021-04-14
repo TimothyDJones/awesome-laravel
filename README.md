@@ -761,6 +761,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Dennis Decoene](http://avidsoftware-be.github.io/) (German/[English translation](https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Favidsoftware-be.github.io%2F)) \[09/10/2015\]
 - [Dennis Smink](https://medium.com/@dennissmink) \[09/13/2018\]
 - [Designing Lives](http://designinglives.net/) \[07/07/2015\]
+- [DevDojo](https://devdojo.com/t/laravel) \[04/13/2021\]
 - [DevMarketer](http://devmarketer.io/learn/category/laravel/) \[09/24/2016\]
 - [Dev Metal](http://www.dev-metal.com/tag/laravel/)
 - [Dev Problems](http://www.devproblems.com/category/laravel/) \[05/03/2016\]

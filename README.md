@@ -716,6 +716,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Ben Smith](http://bensmith.io/) \[07/07/2015\]
 - [Benjamin Kohl](http://benjaminkohl.com/)
 - [Bhavyanshu Parasher](https://bhavyanshu.me/tags.html#laravel-ref) \[04/28/2015\]
+- [Bobby Iliev](https://blog.bobby.sh/) \[04/14/2021\]
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
 - [Brian Retterer](http://brianretterer.com/) \[10/02/2015\]

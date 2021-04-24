@@ -22,7 +22,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Orchid](https://theorchid.github.io/en/) - A package for Laravel which helps with the administration of the application on Laravel, allowing you to write code as you want, control of routing/themes/plugins/etc - none of this and will not be! The package only gives a good set of tools that will be in demand in almost every project. \[07/13/2017\]
 - [UserFrosting](http://www.userfrosting.com) - A web framework and fully implemented user management application that uses Laravel's ORM and cache components.  The Sprinkle system allows you to easily and cleanly extend the core codebase with the custom features that your application requires.
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
-
+- [Laravel Kit](https://github.com/tmdh/laravel-kit) - A desktop Laravel admin panel app for executing artisan commands and tinkering with Laravel projects. \[24/04/2021\]
 
 ### Algorithms/Data Structures
 

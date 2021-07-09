@@ -12,6 +12,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
 
 ### Admin Tools/Panels
+- [Admin Architect](http://adminarchitect.com) - Administration Framework for Laravel, inspired by RoR's Active Admin.
 - [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Simple admin panel with database CRUD support and built-in support for Laravel Auth. \[09/06/2016\]
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]

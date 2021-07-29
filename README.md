@@ -12,6 +12,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
 
 ### Admin Tools/Panels
+- [Volt - Laravel Admin Dashboard Interface](https://github.com/themesberg/volt-laravel-dashboard) - Full Stack Laravel App using LiveWire & Alpine JS based on the most popular Bootstrap 5 Admin Dashboard Interface
 - [Backpack for Laravel](https://backpackforlaravel.com/) - Set of modular packages for building admin interfaces for Laravel based on [Admin LTE](https://github.com/almasaeed2010/AdminLTE/). \[10/01/2016\]
 - [Laralum](https://github.com/ConsoleTVs/Laralum) - Simple admin panel with database CRUD support and built-in support for Laravel Auth. \[09/06/2016\]
 - [Laravel Admin](https://github.com/jordanbardsley7/laravel-admin) - Provides a new Artisan `admin` command set for generation and management of administration routes, controllers, views, and configuration. \[08/30/2016\]
@@ -62,7 +63,6 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Security Checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to SensioLabs Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. \[07/24/2017\]
 
 ### Boilerplate/Customized Configurations
-- [Volt Admin Dashboard Interface](https://github.com/themesberg/volt-laravel-dashboard) - Full Stack Laravel App using LiveWire & Alpine JS based on the most popular Bootstrap 5 Admin Dashboard Interface
 - [Laravel Code Generator](https://github.com/CrestApps/laravel-code-generator) - A clean code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages or request-forms! It is extremely flexible and customizable to cover many on the use cases. It is shipped with cross-browsers compatible template, along with a client-side…
 - [Acacha adminlte-laravel](https://github.com/acacha/adminlte-laravel) - A Laravel 5 package that switches default Laravel scaffolding/boilerplate to AdminLTE template with Bootstrap 3.0 and [Pratt Landing Page](http://blacktie.co/demo/pratt/). \[02/02/2016\]
 - [Antares Project](https://github.com/antaresproject) - Custom re-packaging of Laravel, Vue.JS, and more as a starting point for building new applications quickly. \[06/27/2017\]

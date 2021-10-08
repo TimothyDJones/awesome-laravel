@@ -440,6 +440,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel Database Designer](https://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Online tool for creating database model, including exporting as migration. \[05/16/2015\]
 - [Laravel Dojo](http://www.laravel-dojo.com/) - Tutorials on Laravel in Chinese (English translation [here](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fwww.laravel-dojo.com%2F)).
 - [Laravel Hunt](https://laravel-hunt.com/) - A forum/directory for Laravel tutorials, examples, resources, etc. in the style of [Product Hunt](http://www.producthunt.com/). \[06/08/2015\]
+- [Laravel Playground](https://laravelplayground.com/) - Online interactive tool that allows you to run basic Laravel code. You can even embed your work on other sites. \[10/08/2021\]
 - [Laravel Schema Designer](http://laravelsd.com/) - Online tool for creating Laravel database schema and export the migration.  You can share your schemas with others via the site.
 - [LaravelSnippets.com](http://laravelsnippets.com/) - A repository of useful code snippets for Laravel PHP framework.
 - [Laravel Tricks](http://www.laravel-tricks.com/) - Code snippets, best practices, and tips for Laravel development.

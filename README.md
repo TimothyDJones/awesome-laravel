@@ -555,6 +555,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Thor CMS](http://thorcms.github.io/) - A multipurpose Laravel 4 CMS platform and CRUD generator with built-in multi-language support. \[04/25/2015\]
 - [TimeGrid.io](http://www.timegrid.io/) - Online reservation-booking application. Open-source application with source code available [here](https://github.com/alariva/timegrid). \[11/23/2015\]
 - [TruckJee](http://www.truckjee.com/) - Similar to Uber for truck transport in India. \[07/12/2016\]
+- [Taskord](https://taskord.com) - Get things done socially with community of makers. \[24/12/2020\]
 - [TweetLater](http://tweetlater.xyz/) - Online tool to schedule sending tweets in the future. \[11/06/2017\]
 - [Vale Brewing](http://valebrewing.com.au/) - Nice, well-structured web site for Australian craft brewer. \[10/20/2015\]
 - [vimrcfu](https://github.com/florianbeer/vimrcfu) - Share your best vimrc snippets.  (Source for [vimrcfu.com](http://vimrcfu.com/).)

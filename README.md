@@ -724,6 +724,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Bobby Iliev](https://blog.bobby.sh/) \[04/14/2021\]
 - [Boris Strahija](http://creolab.hr/category/blog/)
 - [Bosnadev](https://bosnadev.com/)
+- [PhpCodingStuff](https://www.phpcodingstuff.com/)
 - [Brian Retterer](http://brianretterer.com/) \[10/02/2015\]
 - [Chris Fuller](http://blog.cjwfuller.com/) \[06/01/2015\]
 - [Chris Gmyr](http://www.chrisgmyr.com/)

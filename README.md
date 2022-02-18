@@ -429,6 +429,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Single-Table Inheritance in Laravel 4](http://www.colorfultyping.com/single-table-inheritance-in-laravel-4/) - Excellent tutorial on dealing with models that share common attributes, except for a small number of class- or type-specific attributes.
 - [Limiting 'Belongs To Many' database queries with Pivot table values](http://stephen.rees-carter.net/thought/limiting-belongs-to-many-database-queries-with-pivot-table-values-in-laravel) - Also explains how to access additional attributes on [pivot tables](http://laravel.com/docs/4.2/eloquent#many-to-many).
 - [Sharing Laravel Homestead Sites](https://medium.com/@genealabs/sharing-laravel-homestead-sites-ad05aa218022) with [ngrok](https://ngrok.com/) - If you have a Laravel Homestead (or *[other Vagrant Laravel environment](https://github.com/TimothyDJones/laravel-precise32-php5.4)*) that you want to share with others, these instructions will help you get it going.
+- [A Laravel E-Commerce Tutorial: Build a PyroCMS Store [with Live Demo]](https://snipcart.com/blog/laravel-ecommerce-tutorial-pyrocms-demo). - Strapping & extending an HTML/JS-based e-comm. platform on a Laravel CMS.
 
 ## Resources
 - [Awesome Laravel Repos](https://awesomerepos.com/laravel) - Directory of popular (based on stars) GitHub repositories for Laravel packages/resources. \[11/06/2017\]

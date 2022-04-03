@@ -114,6 +114,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [UIkit UI preset](https://github.com/Torrix/laravel-ui-uikit) - UI preset for Laravel 6 that bundles UIkit and Vue.js \[09/16/2019\]
 - [Watts](https://github.com/YABhq/Watts) - Custom configuration with tools for developing microservices using Lumen. \[05/10/2016\]
 - [Wave](https://github.com/thedevdojo/wave) - An open-source Software as a Service (SaaS) Starter Kit ([Laravel Spark](https://spark.laravel.com/) alternative) \[04/14/2021\]
+- [Laravel-QuickStart](https://laravel-quickstart.co) - A laravel application boilerplate built on top of TALL Stack. Have both frontend and backend designed using TailwindCSS.
 
 ### Database/Eloquent/Models
 - [Analogue](https://github.com/analogueorm/analogue) - Intuitive, fluent data mapper ORM for Laravel and PHP. \[07/15/2015\]

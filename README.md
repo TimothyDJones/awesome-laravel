@@ -24,6 +24,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout. \[09/30/2021\]
 - [UserFrosting](http://www.userfrosting.com) - A web framework and fully implemented user management application that uses Laravel's ORM and cache components.  The Sprinkle system allows you to easily and cleanly extend the core codebase with the custom features that your application requires.
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
+- [Sneat Free Bootstrap 5 HTML Laravel Admin Template](https://github.com/themeselection/sneat-html-laravel-admin-template-free) - Open-source & easy to use bOOTSTRAP 5 HTML Vuejs Admin Template with Elegant Design & Unique Layout. \[04/26/2022\]
 
 
 ### Algorithms/Data Structures

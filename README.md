@@ -340,6 +340,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Sweet Alert](https://github.com/uxweb/sweet-alert) - Package wrapper for the stylish [Sweet Alert](http://t4t5.github.io/sweetalert/) JavaScript `alert` replacement window utility.  See this [excellent tutorial on how to use the package](http://www.askjong.com/howto/notify-like-a-boss-with-sweet-alert-and-laravel). \[07/20/2015\] 
 - [vue-starter Backend API](https://github.com/layer7be/vue-starter-laravel-api) - Adds Laravel backend support, including [JWT Authentication](http://jwt.io/) using the [Dingo](https://github.com/dingo) package, to [vue-starter](https://github.com/layer7be/vue-starter). \[11/06/2015\]
 - [Webpack Laravel](https://github.com/dolbex/webpack-laravel) - A full-featured Webpack + Vue.JS-loader setup for Laravel with hot reload, linting, testing & CSS extraction. \[04/30/2016\]
+- [Laravel Upgrade Helper](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Quickly view differences between versions for Laravel.
 
 ### Third-Party API Support
 - [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.

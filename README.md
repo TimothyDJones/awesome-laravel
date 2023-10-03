@@ -341,6 +341,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [vue-starter Backend API](https://github.com/layer7be/vue-starter-laravel-api) - Adds Laravel backend support, including [JWT Authentication](http://jwt.io/) using the [Dingo](https://github.com/dingo) package, to [vue-starter](https://github.com/layer7be/vue-starter). \[11/06/2015\]
 - [Webpack Laravel](https://github.com/dolbex/webpack-laravel) - A full-featured Webpack + Vue.JS-loader setup for Laravel with hot reload, linting, testing & CSS extraction. \[04/30/2016\]
 
+### Search and Indexing
+
 ### Third-Party API Support
 - [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.
 - [AWS Service Provider for Laravel 4](https://github.com/aws/aws-sdk-php-laravel) - Official Laravel service provider to integrate [AWS SDK for PHP](http://aws.amazon.com/sdk-for-php/) with Laravel.

@@ -143,6 +143,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laraformer](https://github.com/kamranahmedse/laraformer) - Laravel package to add a transformation layer to your Eloquent model. \[03/05/2016\]
 - [Laravel DataTables](https://github.com/bllim/laravel4-datatables-package) - Laravel 4 server-side handler package for [DataTables](https://datatables.net/) jQuery plug-in.
 - [Laravel Doctrine](http://laraveldoctrine.org/) - A package that tightly integrates the [Doctrine](http://www.doctrine-project.org/) ORM with Laravel. \[09/10/2015\]
+- [Laravel Filter](https://github.com/emyasnikov/laravel-filter) - Filtering Eloquent queries based on HTTP requests.
 - [Laravel Firebird](https://github.com/jacquestvanzuydam/laravel-firebird) - [Firebird](http://firebirdsql.org/) Illuminate package for Laravel 5. \[04/27/2015\]
 - [Laravel Media Library](https://github.com/spatie/laravel-medialibrary) - Package for associating files (including those hosted on Amazon S3) with Eloquent model. \[07/15/2015\]
 - [Laravel Normalizer](https://github.com/nWidart/laravel-normalizer) - Simple package to allow model-independent normalization (i.e., capitalization, numeric formatting, etc.) of data before persisting. \[07/28/2016\]

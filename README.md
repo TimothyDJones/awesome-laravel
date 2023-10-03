@@ -45,6 +45,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Eloquent OAuth](https://github.com/adamwathan/eloquent-oauth) - Easy-to-use package for [OAuth](http://oauth.net/) authentication in Laravel 4.
 - [jwt-auth](https://github.com/tymondesigns/jwt-auth) - [JSON Web Token](http://en.m.wikipedia.org/wiki/JSON_Web_Token) authentication package for Laravel. \[06/11/2015\]
 - [Laravel ACL](https://github.com/kodeine/laravel-acl) - Lightweight role-based permissions system for Laravel 5's built-in Auth system. \[06/15/2016\]
+- [Laravel Basic Auth](https://github.com/emyasnikov/laravel-basic-auth) - Basic authentication using master credentials for the application.
 - [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users. [03/08/2016]
 - [LaraPersonate](https://github.com/SupianIDz/LaraPersonate) - Login as a different user quickly.
 - [Laravel Password Exposed Validation Rule](https://github.com/DivineOmega/laravel-password-exposed-validation-rule) - Adds validation rule to Laravel to check if user password has been compromised in data breach. \[06/25/2018\]

@@ -343,6 +343,8 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 
 ### Search and Indexing
 
+- [Laravel Scout Database Driver](https://github.com/emyasnikov/laravel-scout-database-driver) - Laravel Scout driver using database tables.
+
 ### Third-Party API Support
 - [API for Laravel](https://github.com/dingo/api) - Package to simplify creation of RESTful API for your Laravel application.
 - [AWS Service Provider for Laravel 4](https://github.com/aws/aws-sdk-php-laravel) - Official Laravel service provider to integrate [AWS SDK for PHP](http://aws.amazon.com/sdk-for-php/) with Laravel.

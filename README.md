@@ -353,7 +353,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
 - [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
 - [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]
-
+- [SharpAPI AI Workflow Automation](https://github.com/sharpapi/sharpapi-laravel-client) - SharpAPI Laravel Client SDK. \[03/07/2024\]
 ### REST/Web Services
 - [Apiato](http://apiato.io/) - [Open-source package](https://github.com/apiato/apiato), with comprehensive documentation, to help build APIs with Laravel. \[07/26/2017\]
 - [Brainsocket](http://brainsocket.brainboxmedia.ca/) - Package for supporting real-time event-driven PHP apps using WebSockets.

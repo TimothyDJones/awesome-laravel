@@ -352,6 +352,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Laravel SMS](https://github.com/matthewbdaly/laravel-sms) - SMS service provider package for Laravel for sending SMS notifications via Nexmo or Clockwork. \[09/26/2017\]
 - [PHP OAuth 2.0 Server for Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - [OAuth 2.0](http://oauth.net/2/) authorization server and resource server for the Laravel 4 framework.
 - [Telegram Bot SDK](https://github.com/irazasyed/telegram-bot-sdk) - Unofficial Laravel package for developing bots for the [Telegram](https://telegram.org/) messenger application. \[12/30/2015\]
+- [Vedika API](https://vedika.io) - REST API for Vedic astrology calculations, AI-powered chatbot, and predictions with 108+ endpoints supporting 22 languages.
 - [Fluent-Facebook](https://github.com/iluminar/fluent-facebook) - A laravel 5 package for reading and writing to facebook graph object with ease in laravelish syntax. \[03/06/2017\]
 
 ### REST/Web Services

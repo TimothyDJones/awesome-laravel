@@ -10,6 +10,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 - [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
 - [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
+- [LaraPlugins.io](https:/LaraPlugins.io) - A Directory to search laravel Packages and verify their health status. 
 
 ### Admin Tools/Panels
 - [Volt Laravel](https://github.com/themesberg/volt-laravel-dashboard) - Full Stack Laravel App using LiveWire & Alpine JS based on the most popular Bootstrap 5 Admin Dashboard Interface

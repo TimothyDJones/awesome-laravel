@@ -25,6 +25,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [UserFrosting](http://www.userfrosting.com) - A web framework and fully implemented user management application that uses Laravel's ORM and cache components.  The Sprinkle system allows you to easily and cleanly extend the core codebase with the custom features that your application requires.
 - [Voyager](https://github.com/the-control-group/voyager) - Comprehensive Laravel admin package with support for CRUD administration of database, menu editor, media manager and more. \[11/01/2016\]
 - [Laravel Nexus](https://github.com/malikad778/laravel-nexus) - Multi-channel inventory sync driver for Shopify, WooCommerce, Amazon SP-API and Etsy.
+- [Laravel Notification Center](https://github.com/malikad778/laravel-notification-center) - Enterprise-grade multi-channel notification microservice for Email, SMS, Push, Slack and WhatsApp — built with Laravel 12, PHP 8.4, Concurrency::run(), Laravel Pennant and Laravel Pulse.
 
 ### Algorithms/Data Structures
 

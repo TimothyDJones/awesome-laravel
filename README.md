@@ -529,6 +529,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Opus](https://github.com/zeeshanu/opus) - Open-source knowledge-base platform for teams to improve collaboration. \[03/20/2017\]
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
+- [PasPapan](https://github.com/RiprLutuk/PasPapan) - Enterprise open-source HRIS & attendance system with GPS geofencing, face ID verification, automated payroll, and Kasbon support.
 - [PasteCloud](https://pastecloud.net/) - Free online snippet/notepad. \[12/16/2016\]
 - [PhotonCMS](https://photoncms.com/) - RESTful API-driven/headless CMS built on Laravel and Vue.js. \[03/03/2018\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]

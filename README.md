@@ -6,10 +6,12 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 ## Packages
 - [DuckDuckGo Packagist Search](https://duck.co/ia/view/packagist) - Search for Laravel packages from [DuckDuckGo](https://duckduckgo.com/) by including 'packagist' as first search term. \[06/29/2015\]
 - [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
+- [Laraplugins.io](https://laraplugins.io/) - Directory of 80K+ Laravel packages with health scores, version compatibility, and security advisories. Open data and MCP integration for AI-powered development too.  
 - [Packagist](http://packagist.com/) - Official directory of Laravel (and other Composer-installable) packages.
 - [Packalyst](http://packalyst.com/) - Directory of Laravel packages (semi-official).
 - [Packanalyst](http://packanalyst.com/) - Search engine and source-code browser for any PHP class, interface, or trait in [Packagist](http://packagist.org/).
 - [Spatie](https://spatie.be/en/opensource/laravel) - A large collection of Laravel specific quality packages made by Spatie.
+
 
 ### Admin Tools/Panels
 - [Volt Laravel](https://github.com/themesberg/volt-laravel-dashboard) - Full Stack Laravel App using LiveWire & Alpine JS based on the most popular Bootstrap 5 Admin Dashboard Interface

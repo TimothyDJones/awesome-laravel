@@ -62,6 +62,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Socialite Providers](http://socialiteproviders.github.io/) - Collection of 70+ OAuth 1 and 2 provider packages for [Socialite](https://github.com/laravel/socialite) package. \[05/15/2015\]
 - [URL Signer](https://github.com/spatie/laravel-url-signer) - Improve Laravel security by creating URLs with limited lifetime (similar to AWS signed URLs). \[08/16/2015\]
 - [Laravel Security Checker](https://github.com/Jorijn/laravel-security-checker) - Added Laravel functionality to SensioLabs Security Checker. Adds a command to check for, and optionally emails you, vulnerabilities when they affect you. \[07/24/2017\]
+- [Laravel Guard](https://github.com/Guard-Core/laravel-guard) - Laravel middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ### Boilerplate/Customized Configurations
 - [Laravel Code Generator](https://github.com/CrestApps/laravel-code-generator) - A clean code generator for Laravel framework that will save you time! This awesome tool will help you generate resources like views, controllers, routes, migrations, languages or request-forms! It is extremely flexible and customizable to cover many on the use cases. It is shipped with cross-browsers compatible template, along with a client-side…

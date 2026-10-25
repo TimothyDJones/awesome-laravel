@@ -271,6 +271,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Full Calendar Helper](https://github.com/maddhatter/laravel-fullcalendar) - Package to simplify interaction with [FullCalendar.io](http://fullcalendar.io/) in Laravel. \[09/08/2015\]
 - [Gazatem DbLogger](http://www.gazatem.com/) - Package for saving Monolog log output to database using the existing Laravel API. \[03/01/2016\]
 - [Graham Campbell's Packages](https://grahamjcampbell.co.uk/) - Variety of excellent packages for extending Laravel 4/5 functionality.
+- [Groundmail Laravel](https://github.com/Groundmail/groundmail-laravel) - Laravel mail transport and facade for the Groundmail transactional email API (`MAIL_MAILER=groundmail`). \[10/24/2026\]
 - [HTML5 Inputs](https://github.com/smalldogs/html5inputs/) - Extends Laravel [Form class](http://laravel.com/docs/4.2/html) to support [HTML5 form controls](http://diveintohtml5.info/forms.html), including `color`, `date`, `datetime`, `datatime-local`, `month`, `number`, `range`, `search`, `tel`, `time`, and `week`. \[04/27/2015\]
 - [HTML5 Forms for Laravel](https://github.com/Braunson/laravel-html5-forms) - Another package to extend Laravel FormBuilder to support HTML5 form elements. \[06/11/2015\]
 - [Intervention Image](http://image.intervention.io/) - An open-source PHP image handling and manipulation library with Laravel facades and service providers. \[02/11/2016\]

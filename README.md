@@ -530,6 +530,7 @@ A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packa
 - [Orchestra Platform](http://orchestraplatform.com/) - Laravel-based application boilerplate.
 - [Paperwork](http://paperwork.rocks/) - Open-source note-taking/PIM alternative to [Evernote](https://evernote.com/) and Microsoft [OneNote](http://www.onenote.com/) built on Laravel, [AngularJS](https://angularjs.org/) and Bootstrap 3.
 - [PasteCloud](https://pastecloud.net/) - Free online snippet/notepad. \[12/16/2016\]
+- [Pelican Panel](https://pelican.dev/) - Open-source (code [here](https://github.com/pelican/panel)) game server management panel built on Laravel, forked from Pterodactyl. \[11/12/2026\]
 - [PhotonCMS](https://photoncms.com/) - RESTful API-driven/headless CMS built on Laravel and Vue.js. \[03/03/2018\]
 - [Picnic](http://mjolnic.com/picnic/) - On-demand image post-processing package built on Laravel 4. \[04/25/2015\]
 - [Polr](https://polrproject.org/) - Quick, modern, [open-source](https://github.com/cydrobolt/polr) link/URL shortener built with Lumen. \[09/02/2017\]
